@@ -1,6 +1,6 @@
 import express from 'express'
 import cors from 'cors'
-import jobs from '../data/jobs.json'
+import { jobs } from '../data'
 
 const app = express()
 const PORT = process.env.PORT ?? '4000'
