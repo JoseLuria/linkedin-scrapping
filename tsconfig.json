@@ -1,18 +1,17 @@
 {
   "compilerOptions": {
-    "target": "ES2020" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
-    "module": "commonjs" /* Specify what module code is generated. */,
-    // "rootDir": "./",                                  /* Specify the root folder within your source files. */
-    "resolveJsonModule": true /* Enable importing .json files. */,
-    "outDir": "./build" /* Specify an output folder for all emitted files. */,
-    "removeComments": true /* Disable emitting comments. */,
-    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
-    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
-    "strict": true /* Enable all strict type-checking options. */,
-    "strictNullChecks": true /* When type checking, take into account 'null' and 'undefined'. */,
-    "alwaysStrict": true /* Ensure 'use strict' is always emitted. */,
-    "noUnusedLocals": true /* Enable error reporting when local variables aren't read. */,
-    "noUnusedParameters": true /* Raise an error when a function parameter isn't read. */,
-    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+    "target": "ES2020",
+    "module": "commonjs",
+    "resolveJsonModule": true,
+    "outDir": "./build",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true
   }
 }
