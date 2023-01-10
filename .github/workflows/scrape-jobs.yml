@@ -18,7 +18,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: | 
+      - run: |
+          npm install 
           npm run build
           npm start:scrapper
           git config user.name scrapper-bot
