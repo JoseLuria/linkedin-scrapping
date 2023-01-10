@@ -6,6 +6,8 @@
     "dev:scrapper": "ts-node-dev scrapper/index.ts",
     "dev:api": "ts-node-dev api/index.ts",
     "build": "tsc",
+    "start:scrapper": "node build/scrapper/index.js",
+    "start:api": "node build/api/index.js",
     "lint": "eslint . --ext .ts",
     "format": "prettier scrapper --write",
     "husky": "husky install"
