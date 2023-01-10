@@ -21,7 +21,7 @@ jobs:
       - run: |
           npm install 
           npm run build
-          npm start:scrapper
+          npm run start:scrapper
           git config user.name scrapper-bot
           git add .
           git commit -m "build: :white_check_mark: updated data"
