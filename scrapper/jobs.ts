@@ -3,14 +3,10 @@ import { PROPERTIES_SELECTORS, SELECTOR_CONTAINER } from './selectors'
 import { scrape } from './utils'
 import { Job, jobSchema } from './validations'
 
-const URL = process.env.URL
-
 export const getJobs = async (): Promise<Job[]> => {
-  if (URL === undefined) {
-    throw new Error('URL not found')
-  }
-
-  const $ = await scrape(URL)
+  const $ = await scrape(
+    'https://www.linkedin.com/jobs/search?keywords=React&location=M%C3%A9xico&geoId=103323778&f_TPR=r86400&f_WT=2&currentJobId=3428126698&position=4&pageNum=0'
+  )
 
   const jobs: Job[] = []
 
