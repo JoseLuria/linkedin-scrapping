@@ -18,7 +18,7 @@ jobs:
           node-version: 18
       - run: |
           npm install 
-          npm run build
+          npm run build:server
           npm run start:scrapper
           git config user.name scrapper-bot
           git add .
