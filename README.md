@@ -1,16 +1,16 @@
 # 🤖 LinkedIn scrapping
 
-Un simple web scraper que busca trabajos de **React** por medio de LinkedIn
+Un simple web scraper que busca trabajos de **React** por medio de LinkedIn.
 
 ## 🚀 ¿Como usar?
 
-Primero clona el repositorio desde GitHub.
+Primero clona el repositorio desde GitHub:
 
 ```shell
 git clone https://github.com/JoseLuria/linkedin-scrapping.git
 ```
 
-Muévete a la carpeta del proyecto.
+Muévete a la carpeta del proyecto:
 
 ```shell
 cd linkedin-scrapping
@@ -22,7 +22,7 @@ Instala las dependencias con el siguiente comando:
 npm install
 ```
 
-Instala el pre-commit de husky
+Instala el pre-commit de husky:
 
 ```shell
 npm run husky
@@ -32,6 +32,18 @@ Inicia el **scrapper** con el siguiente comando:
 
 ```shell
 npm run dev:scrapper
+```
+
+Para inicia la **api** usa el siguiente comando:
+
+```shell
+npm run dev:api
+```
+
+Para inicia la **web** usa el siguiente comando:
+
+```shell
+npm run dev:web
 ```
 
 ## ⚙️ Esta aplicación fue construida usando las siguientes tecnologías
