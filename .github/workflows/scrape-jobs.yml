@@ -22,7 +22,8 @@ jobs:
           npm install 
           npm run build
           npm run start:scrapper
-          git config user.name scrapper-bot
+          git config user.name scrapper-linkedin-bot
+          git config user.email github-actions@github.com
           git add .
           git commit -m "build: :white_check_mark: updated data"
           git push origin main
