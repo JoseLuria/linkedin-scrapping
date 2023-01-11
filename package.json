@@ -3,14 +3,19 @@
   "version": "1.0.0",
   "main": "api/index.ts",
   "scripts": {
-    "dev:scrapper": "ts-node-dev scrapper/index.ts",
+    "dev:web": "astro dev",
     "dev:api": "wrangler dev",
+    "dev:scrapper": "ts-node-dev scrapper/index.ts",
+    "build:web": "astro build",
     "build": "tsc",
-    "start:scrapper": "node build/scrapper/index.js",
+    "start:web": "astro dev",
     "start:api": "node build/api/index.js",
+    "start:scrapper": "node build/scrapper/index.js",
+    "preview": "astro preview",
     "lint": "eslint . --ext .ts",
     "format": "prettier scrapper --write",
-    "husky": "husky install"
+    "husky": "husky install",
+    "astro": "astro"
   },
   "license": "MIT",
   "devDependencies": {
@@ -19,14 +24,17 @@
     "@commitlint/config-conventional": "^17.4.0",
     "@types/node": "^18.11.18",
     "eslint": "^8.31.0",
+    "eslint-plugin-astro": "^0.21.1",
     "husky": "^8.0.3",
     "prettier": "^2.8.2",
+    "prettier-plugin-astro": "^0.7.2",
     "ts-node-dev": "^2.0.0",
     "ts-standard": "^12.0.2",
     "typescript": "^4.9.4",
     "wrangler": "^2.7.1"
   },
   "dependencies": {
+    "astro": "^1.9.1",
     "axios": "^1.2.2",
     "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
