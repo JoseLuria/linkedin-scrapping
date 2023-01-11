@@ -1,6 +1,6 @@
 # 🤖 LinkedIn scrapping
 
-Un simple web scraper que busca trabajos de React por medio de LinkedIn
+Un simple web scraper que busca trabajos de **React** por medio de LinkedIn
 
 ## 🚀 ¿Como usar?
 
@@ -46,4 +46,3 @@ npm run dev:scrapper
 ## 📄 Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
-
