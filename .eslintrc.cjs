@@ -1,8 +1,5 @@
 module.exports = {
   extends: ['./node_modules/ts-standard/eslintrc.json', 'plugin:astro/recommended'],
-  parserOptions: {
-    project: './tsconfig.json'
-  },
   rules: {
     'space-before-function-paren': 'off'
   },
@@ -11,5 +8,9 @@ module.exports = {
       files: ['*.astro'],
       parser: 'astro-eslint-parser'
     }
-  ]
+  ],
+  parserOptions: {
+    extraFileExtensions: ['.astro'],
+    project: './tsconfig.json'
+  }
 }
