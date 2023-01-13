@@ -1,0 +1,25 @@
+---
+import LinkedIn from '../icons/LinkedIn.astro'
+import Head from './Head.astro'
+---
+
+<html lang='es'>
+  <Head />
+  <body class='px-4 sm:px-8'>
+    <div class='w-full max-w-base mx-auto'>
+      <nav class='h-20 flex justify-between items-center border-b-2 border-b-gray mb-4 sm:mb-8'>
+        <a class='outline-none' href='https://www.linkedin.com'>
+          <LinkedIn />
+        </a>
+        <a
+          class='px-8 py-2 outline-none rounded-full duration-200 text-blue border-blue border-[1.5px] hover:bg-blue hover:bg-opacity-10 focus-visible:bg-blue focus-visible:bg-opacity-10'
+          href='https://github.com/JoseLuria/linkedin-scrapping'
+          target='_blank'
+        >
+          GitHub
+        </a>
+      </nav>
+      <slot />
+    </div>
+  </body>
+</html>
