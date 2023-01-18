@@ -6,11 +6,16 @@ module.exports = {
       white: '#FFFFFF',
       beige: '#F3F2EF',
       blue: '#0a66c2',
-      gray: '#EEF3F8'
+      'low-blue': '#e6f7ff',
+      gray: '#EEF3F8',
+      black: '#2E3440'
     },
     extend: {
       maxWidth: {
         base: '1110px'
+      },
+      fontFamily: {
+        poppins: 'Poppins, sans-serif'
       }
     }
   }
