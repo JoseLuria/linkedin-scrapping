@@ -2,14 +2,28 @@
 import Layout from '@components/Layout.astro'
 import Header from '@components/Header.astro'
 import JobCard from '@components/JobCard.astro'
-import data from '../../data/jobs.json'
+
+export interface Job {
+  title: string
+  image: string
+  company: string
+  link: string
+  location: string
+}
+
+export interface Jobs {
+  jobs: Job[]
+}
+
+const API_URL = 'https://jobs-search.jos02-log18.workers.dev/jobs'
+const { jobs }: Jobs = await fetch(API_URL).then((res) => res.json())
 ---
 
 <Layout>
-  <Header size={data.length} />
+  <Header size={jobs.length} />
   <main>
     <ul>
-      {data.map((props) => <JobCard {...props} />)}
+      {jobs.map((props) => <JobCard {...props} />)}
     </ul>
   </main>
 </Layout>
