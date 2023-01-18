@@ -1,5 +1,15 @@
 ---
-import Layout from '../components/Layout.astro'
+import Layout from '@components/Layout.astro'
+import Header from '@components/Header.astro'
+import JobCard from '@components/JobCard.astro'
+import data from '../../data/jobs.json'
 ---
 
-<Layout />
+<Layout>
+  <Header size={data.length} />
+  <main>
+    <ul>
+      {data.map((props) => <JobCard {...props} />)}
+    </ul>
+  </main>
+</Layout>
