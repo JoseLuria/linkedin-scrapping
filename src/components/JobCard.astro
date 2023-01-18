@@ -16,7 +16,7 @@ const { title, image, link, company, location } = Astro.props
     href={link}
     target='_blank'
   >
-    <img class='w-14 h-14' src={image} alt={title} />
+    <img width='56' height='56' loading='lazy' src={image} alt={title} />
     <span class='text-sm'>
       <h2 class='font-medium text-base group-hover:underline group-focus-visible:underline'>
         {title}
