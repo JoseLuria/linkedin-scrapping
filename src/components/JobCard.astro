@@ -1,0 +1,26 @@
+---
+interface Props {
+  title: string
+  image: string
+  company: string
+  link: string
+  location: string
+}
+
+const { title, image, link, company, location } = Astro.props
+---
+
+<li>
+  <a
+    class='flex gap-4 items-center border-b-[1px] border-b-gray p-4 outline-none hover:bg-low-blue focus-visible:bg-low-blue'
+    href={link}
+    target='_blank'
+  >
+    <img class='w-14 h-14' src={image} alt={title} />
+    <span class='text-sm'>
+      <h2 class='font-medium text-base'>{title}</h2>
+      <p class='my-1'>{company}</p>
+      <p class='text-opacity-50 text-black'>{location}</p>
+    </span>
+  </a>
+</li>
