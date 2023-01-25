@@ -1,0 +1,11 @@
+name: Console Log
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  log:
+    runs-on: ubuntu-22.04
+    steps:
+      - run: 'echo "hello world"'
