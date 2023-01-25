@@ -15,8 +15,7 @@
     "lint": "eslint . --ext .ts",
     "format": "prettier scrapper --write",
     "husky": "husky install",
-    "astro": "astro",
-    "log": "node log"
+    "astro": "astro"
   },
   "license": "MIT",
   "devDependencies": {
