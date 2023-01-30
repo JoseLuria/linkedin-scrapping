@@ -1,163 +1,142 @@
 [
   {
-    "title": "Full Stack Software Engineer",
-    "company": "PayPal",
-    "location": "Torreon Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQEEvjF9SDmDfg/company-logo_100_100/0/1657843479528?e=2147483647&v=beta&t=-SqODUxmcMT6HPXtRZCVdVtYDI-plJHzlW7fjCiWHgk",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-software-engineer-at-paypal-3453551663?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=3lmB7G6rNOKFCe374WwLHQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Developer Mobile React-Native Mid",
-    "company": "és[nou] disseny i comunicació",
-    "location": "Álvaro Obregón, Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQG55oz8_VPjYA/company-logo_100_100/0/1519907011139?e=2147483647&v=beta&t=ALiCTlC7x0JgcguGHUn2SWVn0lVnhGfVnUUkutrXS4s",
-    "link": "https://mx.linkedin.com/jobs/view/developer-mobile-react-native-mid-at-%C3%A9s-nou-disseny-i-comunicaci%C3%B3-3458057923?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=PmaXlnuL3%2FxTJMSRejm88g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Native Engineer (Remote)",
-    "company": "Hinge Health",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHc0zB1LtusKQ/company-logo_100_100/0/1673359202785?e=2147483647&v=beta&t=0sjp0lNI20SxhaAdGj5ScGwmkdGJa-K76iHWGxmYUfs",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-remote-at-hinge-health-3067639679?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=6%2FGHpimF%2FMEq2biw6FaLsg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
+    "title": "Lead Ruby on Rails Engineer",
     "company": "Aha!",
     "location": "Mexico City, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3458478687?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=NDyqhv9tfk4SI1ni1MOjeg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3458482171?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=GvGPLUXKGcTBtBVPz8QQGQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3458480381?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=JE0fXKTN7%2Fh%2FxuhWIHZw%2BQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3458481188?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=6naQuJHZxjjth%2FzClKk6aQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3459865776?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=uBu1mvL2MRJB1RIxQc2ocw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ruby on Rails Engineer",
     "company": "Aha!",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3458485126?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=9oBikp4CeaZGMraJWxTWUg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3459867641?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=7XrKyKejPz1RY0Divv2M2g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ruby on Rails Engineer",
+    "title": "Sr. Front End Engineer",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3458483164?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=zTsTVj5pwK4KyMWGutOA6Q%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3459870424?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=78abr4JOzFmg1XlatA%2B6Cg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3458484105?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=SOYr2F5fE4ar%2BmbZDNTEug%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
+    "title": "Sr. Front End Engineer",
     "company": "Aha!",
     "location": "Monterrey, Nuevo León, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3458481198?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=W2hih3h%2FYsIYS0QRxIVl1Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3459863971?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=4udNaw%2FCSA7ycYge5la8sw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3459865755?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=E%2BWl4aCkmowJSdtaMdcZlA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Lead Ruby on Rails Engineer",
     "company": "Aha!",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3458480405?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=3p%2FYlm1naxMjYORgViBs5Q%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3459868472?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=qMs9QdJiKp51PSrNMVVU%2Bg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Lead Ruby on Rails Engineer",
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Guadalajara, Jalisco, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3458484124?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=OlP9vBBqUiKdVCgjtq3eWg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3459869440?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=Dun%2FcCFCm06Q%2BygXOnNwKw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Ruby on Rails Engineer",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Monterrey, Nuevo León, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3458485088?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=Vf31uFNqOF9Usc2M4B%2FEiQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3459869445?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=zTUMc15ScY%2F2Yn8qiEwqSA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Ruby on Rails Engineer",
     "company": "Aha!",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3458482164?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=ZJWIvYu1%2BcIE%2B1i%2FXWtxaA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3458479497?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=eTS%2FI%2Bs%2FQVWN1EDCffG8Eg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3458480441?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=REdWOmxuAxMsO0lvCW8HjQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3458481244?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=iaplYykXKf6ksCt%2BI%2F7UNA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3458482165?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=qzd4CijqwepFjrzKWunA1w%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3459863955?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=Vey%2B8CaLyN2rH6Hsj9uwyA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Security Engineer (Ruby on Rails experience required)",
     "company": "Aha!",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3458484086?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=dh75PGGf2lsMF0c4a798XQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3459869441?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=0aT0xRQm3A6YuQMOie3poA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3459867629?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=kFMESQSeWqsbAqBFeFmI8Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Security Engineer (Ruby on Rails experience required)",
     "company": "Aha!",
     "location": "Mexico City, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3458480376?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=NROqSi6c4tR8OOrG0fCI7w%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3459866706?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=N5GlunLCsDurEfgKKVpQ0g%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3459869463?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=hCJF%2FlZWVZ9vyGEvLM0SYw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3459863988?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=N%2FY0AsvskBs57WmRR2GaAg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3459867625?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=l%2FFCUpfQkhb4W9rTuOMvyQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3459864940?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=dv9WFO03tDqN0IQsOGYpBg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3459866721?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=MMIyyf7AL%2B76gY8Dzm2yzA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3459870425?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=KkgwcTnKCSbVTpcM2UW0IQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3459863968?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=wMROzTxVHUk1msBBH1avVA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Security Engineer (Ruby on Rails experience required)",
     "company": "Aha!",
     "location": "Monterrey, Nuevo León, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3458478665?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=Ivv1Bjk2w3RRONfnJoWAXw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3458478669?refId=6%2FDgQ0MQHQ3D7OiI0T61uw%3D%3D&trackingId=WQylTdtZCEE0i9X9MqeOlg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3459866707?refId=OQSccIXD2UT2SMpqLiilzg%3D%3D&trackingId=XKOUwIowtODD5vJsq2VKYQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
