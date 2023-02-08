@@ -1,5 +1,5 @@
 import { Hono } from 'hono'
-import { jobs } from '../data'
+import jobs from '../data/jobs.json'
 
 const app = new Hono()
 
