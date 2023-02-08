@@ -34,8 +34,8 @@ jobs:
         with:
           node-version: 18
       - run: npm install
-      - uses: cloudflare/pages-action@v1
       - run: npm run build
+      - uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.ACCOUNT_ID }}
