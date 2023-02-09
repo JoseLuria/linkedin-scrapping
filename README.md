@@ -1,6 +1,13 @@
-# 🤖 LinkedIn scrapping
+<div align="center">
+  <h1>🤖 LinkedIn scrapping</h1>
+
+[![Deploy pipeline](https://github.com/JoseLuria/linkedin-scrapping/actions/workflows/pipeline.yml/badge.svg)](https://github.com/JoseLuria/linkedin-scrapping/actions/workflows/pipeline.yml)
 
 Un simple web scraper que busca trabajos de **React** por medio de LinkedIn.
+
+<h2><a href='https://jobs-search.jos02-log18.workers.dev/jobs'>API</a> | <a href='https://linkedin-scrapping.pages.dev/'>WEB</a></h2>
+
+</div>
 
 ## 🚀 ¿Como usar?
 
