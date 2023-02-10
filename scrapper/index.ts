@@ -1,4 +1,3 @@
-import 'dotenv/config'
 import { getJobs } from './jobs'
 import { saveJSON } from './utils'
 

@@ -1,4 +1,3 @@
-import 'dotenv/config'
 import { PROPERTIES_SELECTORS, SELECTOR_CONTAINER } from './selectors'
 import { scrape } from './utils'
 import { Job, jobSchema } from './validations'
