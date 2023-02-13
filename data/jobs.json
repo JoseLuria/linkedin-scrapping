@@ -1,177 +1,44 @@
 [
   {
-    "title": "Fullstack (Java) (Remote) (90000 MXN/Mes)",
-    "company": "Listopro",
+    "title": "Senior React Full Stack Developer",
+    "company": "Imagine Apps",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-java-remote-90000-mxn-mes-at-listopro-3474172325?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=hNbOOBBOZC%2BHuHJWw%2FbBtw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFkzaRXO1sCvQ/company-logo_100_100/0/1625163862547?e=2147483647&v=beta&t=sHVa1y7h131844EUWCoIuHWTXdVK1FGt_C94ALOEArc",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-full-stack-developer-at-imagine-apps-3481336620?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=zdALfZTdDNswyVIsi2ojnQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Engineer, Anti-Abuse",
-    "company": "Square",
-    "location": "Mexico City, Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHikN6EXPd23Q/company-logo_100_100/0/1595359131127?e=2147483647&v=beta&t=Kmo-8fv-Z19xhqiJOVuVfQ4_utpPDIUmRRQ3dgSnjQ0",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-anti-abuse-at-square-3448146638?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=ebO2Xb%2BAjpitpVbiEZfhsQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer, Anti-Abuse",
-    "company": "Square",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHikN6EXPd23Q/company-logo_100_100/0/1595359131127?e=2147483647&v=beta&t=Kmo-8fv-Z19xhqiJOVuVfQ4_utpPDIUmRRQ3dgSnjQ0",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-anti-abuse-at-square-3448145676?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=RUIyp5dgAsDoUWScgkB4og%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Fullstack Engineer (React/Python) (Remote) (8050 USD/Mes)",
-    "company": "Listopro",
+    "title": "Fullstack Python Developer",
+    "company": "Orion Innovation",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-engineer-react-python-remote-8050-usd-mes-at-listopro-3474167909?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=bX1ZrBSInrcL6TVmTnRxlA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGqPQV_qPkE2Q/company-logo_100_100/0/1589454998661?e=2147483647&v=beta&t=x9Jg-TYTE9HKC5a5HeapWB7KEYkDSE3hj3ugM4Nm7LM",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-developer-at-orion-innovation-3481220814?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=zUjt0a1jaQ15uLu0clH%2B%2Bg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Engineer, Anti-Abuse",
-    "company": "Square",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHikN6EXPd23Q/company-logo_100_100/0/1595359131127?e=2147483647&v=beta&t=Kmo-8fv-Z19xhqiJOVuVfQ4_utpPDIUmRRQ3dgSnjQ0",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-anti-abuse-at-square-3448147586?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=I3AsF%2Bu31DwCFReNkg0J9Q%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
+    "title": "Senior NodeJS/Full-stack developer",
+    "company": "ABCloudz",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3480122466?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=t0ukiWJkcUhKy1MznmuIyg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHBobW6gT0eYw/company-logo_100_100/0/1646143052617?e=2147483647&v=beta&t=C9v6CIFFjsR6dt5VUeH_pK1hUTF-h3YoJdQ0tKh8LAU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-nodejs-full-stack-developer-at-abcloudz-3479435188?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=1%2BBodzRdpzgK0bihFyiWtw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3480123490?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=idVlBESYc5tBLYUWe2BVSg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3480117976?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=5O8Howb7Z9Ci8rGOODYjrg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3480117993?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=azvHPlLKjcSi%2FfYbDjTSzg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
+    "title": "Technical Lead",
+    "company": "The Ksquare Group",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3480125118?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=MZDncWnM0KfzzR0tuNrwBw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQETw4gNe0TcLQ/company-logo_100_100/0/1641336918083?e=2147483647&v=beta&t=YCdk3hNMp6Jis2kwFiW3_ocEEfLsNF8-PaoAupry57w",
+    "link": "https://mx.linkedin.com/jobs/view/technical-lead-at-the-ksquare-group-3480578684?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=ulQzdOLyhfP7%2FS2rfkCKGw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3480124173?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=xg5NCUbaFR5e9SRjov6czQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Business Analyst",
+    "company": "Luxoft",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/business-analyst-at-luxoft-3480758555?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=WKJAYmRoWiJJWSJxcRgmxQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3480120760?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=Kq0FU%2FVmx5sVwP4uDR%2FwEw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3480122592?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=ijLIFZBQZqSUX2zTu9ihUA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3480121478?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=ARhEh2ifkrs70CH5mv2nhA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3480118798?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=8nyVUptHjWMMhISSAvgF7w%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3480123492?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=xypm4R2VXifG7ohHmlM8sA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3480119754?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=rPnkbB71MyMY0%2FbTVLaE0Q%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3480122471?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=f9TjlWdIWYWiWT%2FAYq%2BzSQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3480124016?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=UU6h0rJm%2FRhhKXoOsy7Abw%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3480119771?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=TQ%2FHy4sCj%2FCOnAlkTy%2F6Zg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3480123523?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=RLnvnKy3bYF35ZlrcbdN1w%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3480117969?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=0AhbYYPut5eJAF1DNizQjg%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3480124007?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=cunj%2BmcLX2ljeZhKeUhpTA%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3480118774?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=ZYhzC%2BrNgZz49HOLGsfPbA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3480120604?refId=bO1WJpsodkFQL8IJXZeOOQ%3D%3D&trackingId=sNuxyVZfDOit163aO0fycg%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior BI Engineer",
+    "company": "Luxoft",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-bi-engineer-at-luxoft-3480757627?refId=sbWZpZLCfmDgibNbT9pUIA%3D%3D&trackingId=45MZSUZ9qlCbomj7A4P2fw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
