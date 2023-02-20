@@ -1,58 +1,114 @@
 [
   {
-    "title": "Desarrollador de aplicaciones",
-    "company": "Yuhu.mx",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGwbHg3Cwmx4Q/company-logo_100_100/0/1635964570244?e=2147483647&v=beta&t=F4F4VwFH1xpFNRpznKV_DceR0RGU71RQaQCHJV1oFzc",
-    "link": "https://mx.linkedin.com/jobs/view/desarrollador-de-aplicaciones-at-yuhu-mx-3489605641?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=FIVJ2jT7WLqZkZpzkfhTAw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Full Stack Software Engineer",
+    "company": "PayPal",
+    "location": "Torreon Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQEEvjF9SDmDfg/company-logo_100_100/0/1657843479528?e=2147483647&v=beta&t=-SqODUxmcMT6HPXtRZCVdVtYDI-plJHzlW7fjCiWHgk",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-software-engineer-at-paypal-3484846015?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=XzAchc1UW%2Bm6aEgMXAHy0A%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack(Java/React) Engineer",
-    "company": "TurnKey Labs",
+    "title": "Java Software Engineer",
+    "company": "TESCRA",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFFlCgDhI7Lhg/company-logo_100_100/0/1668010130472?e=2147483647&v=beta&t=DZ3j-I5heGwBBzgmI3cn8qB1COmzhVZeZowzmaIuCmY",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-java-react-engineer-at-turnkey-labs-3487435325?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=v%2Fnyi6oIlKhvJHqJcSmf9A%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHLFAXiIQ8Atw/company-logo_100_100/0/1567060074741?e=2147483647&v=beta&t=bpOokRjbncAM4p-GPgfuJTqfdMnkN58NUtLkBQmxG9c",
+    "link": "https://mx.linkedin.com/jobs/view/java-software-engineer-at-tescra-3487855355?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=CymQf8mmy8HbUpZ6zB8z8Q%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full Stack Web Developer",
-    "company": "trades.org",
-    "location": "Morelia, Michoacán, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-web-developer-at-trades-org-3489659440?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=0DR7YZDSYrH5jNo9AHXREw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Desarrollador de back-end",
-    "company": "100 Positiva LLC",
+    "title": "Lead Python Developer",
+    "company": "EPAM Anywhere",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGOuH-R3JdNsQ/company-logo_100_100/0/1660167842154?e=2147483647&v=beta&t=xHY6EMhTT_KK38F0dlUWvK_0g1e5bUh8Ol8Vx8_11D0",
-    "link": "https://mx.linkedin.com/jobs/view/desarrollador-de-back-end-at-100-positiva-llc-3483048236?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=xiE9ope7qawXJdDfZmR%2FzA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-python-developer-at-epam-anywhere-3487899963?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=UpA0eBRVi3pEfUmkLhLDKA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full Stack Web Developer",
-    "company": "trades.org",
-    "location": "Morelia, Michoacán, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-web-developer-at-trades-org-3489663104?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=bLh1IQVRGTWGrohcTn5ERg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Lead Python Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-python-developer-at-epam-anywhere-3488202805?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=COsurnVN8HTpmz24O%2BXwMg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Front End Developer - Web Applications",
-    "company": "trades.org",
-    "location": "Puebla, Puebla, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-developer-web-applications-at-trades-org-3489662301?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=q0cA9MolcFoTxSnv6WoIwA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Lead Python.Core Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-python-core-developer-at-epam-anywhere-3488209113?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=OmYtEa1pOpwBVaLJp%2Bq4aQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Front End Developer - Web Applications",
-    "company": "trades.org",
-    "location": "Morelia, Michoacán, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-developer-web-applications-at-trades-org-3489659445?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=6jD4q5Qt8z4%2BZxMQjBMyDA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Full Stack Java Developer",
+    "company": "Builder Prime",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C510BAQFgTEt3CaEZ8g/company-logo_100_100/0/1519866970136?e=2147483647&v=beta&t=xuD0XKKJg0fVYvRb_WEnUQBw_NDaiAVoo-7ugFDXM9w",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-java-developer-at-builder-prime-3484853003?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=2FLgcxcTJyGsDWLqPpPseg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Back End Developer - DevOps",
-    "company": "trades.org",
+    "title": "Senior Software Engineer - Fullstack (Remote)",
+    "company": "Hinge Health",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHc0zB1LtusKQ/company-logo_100_100/0/1673359202785?e=2147483647&v=beta&t=0sjp0lNI20SxhaAdGj5ScGwmkdGJa-K76iHWGxmYUfs",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-fullstack-remote-at-hinge-health-3067644238?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=4gVgzyENkbhl9f45YYgLtw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
-    "link": "https://mx.linkedin.com/jobs/view/back-end-developer-devops-at-trades-org-3489564311?refId=3hmdtH8EdkcnhYzRR0%2F7XA%3D%3D&trackingId=Q4UVynRzuoHRESPyhwoVtw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3491099571?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=i3LXZPlhdmUyjVIlsNV6UQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Python.Core Development Team Lead",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/python-core-development-team-lead-at-epam-anywhere-3488209481?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=5N65vlrpV2G0mANPacCALw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Team Lead Python Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/team-lead-python-developer-at-epam-anywhere-3488207691?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=r7s6E%2BDAjT5ZQpGvhMNxtg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Python Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-python-developer-at-epam-anywhere-3487899931?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=g8XAAigqaCn9dEKXRcUNxA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior .NET Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/senior-net-developer-at-epam-anywhere-3488205401?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=89qGWbpun6TKcI1nPAhj0w%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3491097763?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=C6Iq5rLFwj8T3sIrpJlDAw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3491103056?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=gPVY%2BkS9kz99GlYbWHNn8w%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3491099574?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=Y8u9rk25Fo5E3OPgPnUDdg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3491095997?refId=uFH0VjH3rG8Xv2mwg8pZPg%3D%3D&trackingId=D6pNcLeTahnDdUtjlAammQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
