@@ -1,9 +1,93 @@
 [
   {
-    "title": "Senior Fullstack Developer",
-    "company": "Brillio",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEh2CAtwBx5vA/company-logo_100_100/0/1657805093666?e=2147483647&v=beta&t=RrotmiGvcf2y0ICy-DGjOeI5s7BagxHtoAdiXh0yrP4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-developer-at-brillio-3438523355?refId=88s5xLqgnkJtOzuYFH2rLQ%3D%3D&trackingId=XXXKpmPqRNi7tXOSjRt12w%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Programadores Sr y Jr varios lenguajes",
+    "company": "BLMovil",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFlHVDP9Q6wpQ/company-logo_100_100/0/1556041077673?e=2147483647&v=beta&t=TeZWQXgv1zl7FVTZJPkgBLOEwt8f7nDFeV6mK_TYHZk",
+    "link": "https://mx.linkedin.com/jobs/view/programadores-sr-y-jr-varios-lenguajes-at-blmovil-3495603070?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=hy8xKHH8SzOR5tdFFpejRQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mobile Developer",
+    "company": "Launchpad Technologies Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-developer-at-launchpad-technologies-inc-3382498727?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=PBBP9UvjWIp%2BL5D1lsF1Mw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Desarrollador Android (Frontend React Native)",
+    "company": "Baufest",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGVa52LL9B8Ow/company-logo_100_100/0/1672685271369?e=2147483647&v=beta&t=0Ig8s37Ex-QAJRSYcNMojpidomvnkLMx-1GjNfGra50",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-android-frontend-react-native-at-baufest-3502843417?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=zVpTzx3iMISav4NOCKoudQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. React Native Engineer",
+    "company": "TrueNorth",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFINC7ia0GMxA/company-logo_100_100/0/1657718620455?e=2147483647&v=beta&t=c8kNr3gzf_a96K4pJbBy4t8d1hwA-hSxaGTmkzAGjcc",
+    "link": "https://mx.linkedin.com/jobs/view/sr-react-native-engineer-at-truenorth-3500018289?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=OTfGKm7G4bmY70vtYwd2AQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior R/Shiny Developer",
+    "company": "Appsilon",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHzlDq1o6U0ww/company-logo_100_100/0/1519875461919?e=2147483647&v=beta&t=nDcWVB7Mof1mBq_ok-HuAAGyF6OeHtsXNT6ykysmmRw",
+    "link": "https://mx.linkedin.com/jobs/view/senior-r-shiny-developer-at-appsilon-3500005698?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=lHhfPStOhYWXe0H2YSDw6g%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Web Engineer",
+    "company": "Incode Technologies",
+    "location": "Torreon Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQGbPoYGgFfVmA/company-logo_100_100/0/1670368525070?e=2147483647&v=beta&t=DQucJ1o8W-YTAOmTOUX2N0d1PMb4OPhPn4J6QCPEsQc",
+    "link": "https://mx.linkedin.com/jobs/view/senior-web-engineer-at-incode-technologies-3502356444?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=o1E12Lk%2BmIPfdelYkYdnbQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Java Developer",
+    "company": "Builder Prime",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C510BAQFgTEt3CaEZ8g/company-logo_100_100/0/1519866970136?e=2147483647&v=beta&t=xuD0XKKJg0fVYvRb_WEnUQBw_NDaiAVoo-7ugFDXM9w",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-java-developer-at-builder-prime-3494758920?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=zJp4aGH5FgVMGDdNncT0CA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Java Developer",
+    "company": "Empresa Importante",
+    "location": "Mexico City, Mexico City, Mexico",
+    "image": "https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8",
+    "link": "https://mx.linkedin.com/jobs/view/lead-java-developer-at-empresa-importante-3502809423?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=PQCQy5Vdj9FaiSWrr4%2FprA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3502455459?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=1Ii1iDoYX67n5jUR%2FB1sQA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3502452714?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=7NMqMmB9H7kexpSgmnO6%2Bg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3502451865?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=it%2BSQYXhDZaNFDDTMJaVsA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3502452726?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=ELzZjib6eTqAlzmH%2FNLfGg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3502454577?refId=g4IEQoBb%2FMp5Xk%2BMvP9cUw%3D%3D&trackingId=bMjdFme8mk%2BNSLMsIo6xnw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
