@@ -1,10 +1,10 @@
 import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import * as cheerio from 'cheerio'
+import axios from 'axios'
 
 export const scrape = async (URL: string): Promise<cheerio.CheerioAPI> => {
-  const res = await fetch(URL)
-  const html = await res.text()
+  const { data: html } = await axios.get(URL)
   return cheerio.load(html)
 }
 
