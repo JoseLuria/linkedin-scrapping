@@ -1,135 +1,23 @@
 [
   {
-    "title": "React Developer - LATAM REMOTE",
-    "company": "Van Hyde International",
+    "title": "Senior Fullstack Web Engineer ( Remote)",
+    "company": "Hopper",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH3AvtQFmKeXQ/company-logo_100_100/0/1519913018185?e=2147483647&v=beta&t=tIBTee8EM58dE9OiDXZ9sLeAz8_RoXbwn-UAGBl-A_0",
+    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-web-engineer-remote-at-hopper-3445223218?refId=st5gMUwflRcS7IrFiLfoWQ%3D%3D&trackingId=Byw2OY7S6GzgwaEalnRBlA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Forecasting, Data Scientist",
+    "company": "Mondelēz International",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGJih6FGoXIiA/company-logo_100_100/0/1656439239737?e=2147483647&v=beta&t=pFCTuKXUifHr-k1jb9CsmInCdy1pfci4ie6QSq-IkeY",
-    "link": "https://mx.linkedin.com/jobs/view/react-developer-latam-remote-at-van-hyde-international-3538367394?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=TPQ2I8JM80s4EFjIqYD1Jw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/0/1627661808176?e=2147483647&v=beta&t=PZVRC60uy7Uxx8hWU2ulOQls7mwfPYqksyQDDqwhDNo",
+    "link": "https://mx.linkedin.com/jobs/view/forecasting-data-scientist-at-mondel%C4%93z-international-3540782116?refId=st5gMUwflRcS7IrFiLfoWQ%3D%3D&trackingId=2TwhlQlbQy2mMHIC41SgMA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Frontend Developer",
-    "company": "Schola",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQG1ThVngZ1WFQ/company-logo_100_100/0/1519886914415?e=2147483647&v=beta&t=YSW2EOPx9I1J0_XRhOyNT8WnnEpfsu4SvRw0fD3KP5A",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-at-schola-3538081094?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=PEyO%2BTUSKaHLDE2qOcdqqQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Web Engineer - AdTech",
-    "company": "Spotify",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFkDzx_7dqq3A/company-logo_100_100/0/1519902995023?e=2147483647&v=beta&t=D9upopYUtNWMzGy8y9pxkMgoTXGSCtzLIpvkYLmB6Ho",
-    "link": "https://mx.linkedin.com/jobs/view/web-engineer-adtech-at-spotify-3538300285?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=txTnuWLmIfaSPc6UPUhDgQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "JavaScript / Node.js - Full Stack Developer",
-    "company": "Launchpad Technologies Inc.",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-node-js-full-stack-developer-at-launchpad-technologies-inc-3410768108?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=lImSwsMhajAwI7EIiCi6fA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Developer",
-    "company": "Confidential",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQESoEd_uyChWA/company-logo_100_100/0/1544208413560?e=2147483647&v=beta&t=DTaR85JDtrAEZ6sGG0BHLLyLsdFjH3RYS_HwZC2VjSI",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-confidential-3542270303?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=nGUcTbVjb3yT4CevTM3%2BxA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Principal Mobile Engineer",
-    "company": "Zillow",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_100_100/0/1664994833395?e=2147483647&v=beta&t=B1KBkRsHCnk3mZ8S8prmqQS_wbd7OBbJBB6O0CIMpBw",
-    "link": "https://mx.linkedin.com/jobs/view/principal-mobile-engineer-at-zillow-3535535451?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=dIe9bliOZ0QM8zGKujPWwg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Full Stack Developer",
-    "company": "Nexu",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGKtIi4NYdp-w/company-logo_100_100/0/1641231845969?e=2147483647&v=beta&t=7BL1qXT-M09LazL2TXkI1RCyWMxaRhnCfbe4ITClMHE",
-    "link": "https://mx.linkedin.com/jobs/view/sr-full-stack-developer-at-nexu-3542643687?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=gViQDAkVIIbXm33M%2BUouiQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Full Stack Developer",
-    "company": "Cogent Integrated Business Solutions Inc.",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGrZJb-KCxXjw/company-logo_100_100/0/1661435436553?e=2147483647&v=beta&t=M3C45ZO_nmwJseTjluyOXePMDTJvENh6Z3tHedUmtTY",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-at-cogent-integrated-business-solutions-inc-3542233287?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=ohFZjiGosvax2vNa%2FXXbyQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Lead",
-    "company": "Guros",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGTtzqQJfPg0A/company-logo_100_100/0/1657056080694?e=2147483647&v=beta&t=81Cg5RNScf5WKPr5qwW7LGSXfQ_EHdtCi7-3WT-HgNY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-lead-at-guros-3520082589?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=1g0VFUBzvf30N4adkOB6qg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Web Engineer - AdTech",
-    "company": "Spotify",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFkDzx_7dqq3A/company-logo_100_100/0/1519902995023?e=2147483647&v=beta&t=D9upopYUtNWMzGy8y9pxkMgoTXGSCtzLIpvkYLmB6Ho",
-    "link": "https://mx.linkedin.com/jobs/view/senior-web-engineer-adtech-at-spotify-3538098611?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=LxEpD8Fz61riSpYKc2vS9A%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Cross-Platform Mobile Software Engineer",
-    "company": "Incode Technologies",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGbPoYGgFfVmA/company-logo_100_100/0/1670368525070?e=2147483647&v=beta&t=DQucJ1o8W-YTAOmTOUX2N0d1PMb4OPhPn4J6QCPEsQc",
-    "link": "https://mx.linkedin.com/jobs/view/cross-platform-mobile-software-engineer-at-incode-technologies-3477468526?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=8Chnk%2Ft7kKkDaNxo6M5GNA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Contentful CMS",
-    "company": "BigRio",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHE0aehA8eFZQ/company-logo_100_100/0/1628603934120?e=2147483647&v=beta&t=VYCXDetwdhlLa9EMkchlGD2y1xNYfyTuFPvRljDuFs0",
-    "link": "https://mx.linkedin.com/jobs/view/contentful-cms-at-bigrio-3521473610?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=BnGVLzRGPwtx60LbN7Djew%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Engineer (React+Java)",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-react%2Bjava-at-luxoft-3542335083?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=8upaXVS5hGymd0gVMGNlSg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Fullstack Java/Spring/Angular",
-    "company": "TechGenies",
+    "title": "Senior iOS Developer - EG",
+    "company": "Gorilla Logic",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEwEmyvGwmSnw/company-logo_100_100/0/1589790257228?e=2147483647&v=beta&t=jsi2m7yElqygW0BgTq5Ji-qHD8pMq-FsHonBFu_xrGM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-java-spring-angular-at-techgenies-3522212919?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=H3aVSznKYW1y5XtDmr59Ow%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3542687933?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=8B0O5Cf%2Fk7FfC%2FaDWTkm7A%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3542691458?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=ZGQpJEcpySncM7znBjNSmQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3542687932?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=Lcuco9Y3hgxD4wNKQFkR%2Fg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3542686947?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=0ZlDM18mhS%2Bm4vYBJn6MpA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3542686951?refId=zXdbPYCoIU%2BA3OOmXA0sww%3D%3D&trackingId=91wK0umctne8EyuuuPOlqg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQHQacagz3YPbA/company-logo_100_100/0/1672947603055?e=2147483647&v=beta&t=SoN0X8WzD-iHXGWJX33BfZnSbACVP9tMoloTVk1Zw3I",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ios-developer-eg-at-gorilla-logic-3390395658?refId=st5gMUwflRcS7IrFiLfoWQ%3D%3D&trackingId=L%2BMVhF0etQ6ilaraiZk8pQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
