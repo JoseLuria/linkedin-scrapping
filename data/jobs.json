@@ -1,107 +1,65 @@
 [
   {
-    "title": "Javascript Developer",
-    "company": "Towa Software",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGpZzjxOpENoA/company-logo_100_100/0/1676751200416?e=2147483647&v=beta&t=kq_jVphCbY0C1i91SNNMKw7TugR5xHbqQHoiRBrZXTk",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-developer-at-towa-software-3553131040?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=Vvom1B0X6AC%2FSJ6iSGi5vw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "flutter Developer",
+    "title": "Flutter Developer",
     "company": "Cogent Integrated Business Solutions Inc.",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGrZJb-KCxXjw/company-logo_100_100/0/1661435436553?e=2147483647&v=beta&t=M3C45ZO_nmwJseTjluyOXePMDTJvENh6Z3tHedUmtTY",
-    "link": "https://mx.linkedin.com/jobs/view/flutter-developer-at-cogent-integrated-business-solutions-inc-3547023469?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=4%2BqzCHsLFH16yqFxSx83Ig%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full-Stack Developer, Mexico - Remote Based",
-    "company": "BeyondID",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQE-p3gAogX5Fw/company-logo_100_100/0/1667318184132?e=2147483647&v=beta&t=FNKF3hga-WjcIwDZQgcbbHOuklxRFR0rSmDh_iMBFF0",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-mexico-remote-based-at-beyondid-3551317085?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=RLF3rHH86Q%2FPx%2B824LMXTQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Principal Software Engineer (Remote Gdl, Monterrey, Mexico City)",
-    "company": "Autodesk",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
-    "link": "https://mx.linkedin.com/jobs/view/principal-software-engineer-remote-gdl-monterrey-mexico-city-at-autodesk-3515599911?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=d87XZqn8VNFJhZwlPpax6Q%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGrZJb-KCxXjw/company-logo_100_100/0/1661435436553?e=2147483647&v=beta&t=M3C45ZO_nmwJseTjluyOXePMDTJvENh6Z3tHedUmtTY",
+    "link": "https://mx.linkedin.com/jobs/view/flutter-developer-at-cogent-integrated-business-solutions-inc-3555342555?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=SMfiYZXnpvb%2FRZxHxnAflg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Lead Software Engineer - Java / Backend",
-    "company": "Ellucian",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGetgUvk-GG9Q/company-logo_100_100/0/1656674346347?e=2147483647&v=beta&t=vG3STEvPRYmkiWOjpkA4kE9iAFvJXUGxn72UXcQb8o0",
-    "link": "https://mx.linkedin.com/jobs/view/lead-software-engineer-java-backend-at-ellucian-3455937217?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=W7iob5aPnWVoF6%2FJbToO6Q%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior React Native Engineer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3555379560?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=foU3%2BiV5wNCd%2Bb4J5%2FxoHA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ionic + React Engineer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-engineer-at-clevertech-3555371110?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=Fwp8ArGwzUxBqlQ1QRq6Cw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Front End Engineer",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3553266129?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=uq11fRzcbEyXd23uuhIBzQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3554510765?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=sJm1YVJDUNNVSIkGD6FluA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3553268005?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=FAq%2B4kYym7HWYsWTKtOsaA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3553263367?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=gdzkdEaDR8mDq3KIw2Z5%2FA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior .NET+React Engineer",
+    "company": "SoftServe",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZXzpyfESqXA/company-logo_100_100/0/1646075285386?e=2147483647&v=beta&t=q95C1MDTkul18CG0Jxl9JVkNn7wYueywpIyaI9xctt8",
+    "link": "https://mx.linkedin.com/jobs/view/senior-net%2Breact-engineer-at-softserve-3555362167?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=9t9sCUuK3rI6wGo441q0ow%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ruby on Rails Engineer",
     "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3553262521?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=hAGQLVpEy87cBGR%2BjxsLVQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3554512629?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=wwUwOQaY6Xd%2BasFomH0Grg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Ruby on Rails Engineer",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3553262477?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=vWfT4Hp%2FoiClEaPQj7XSeg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3554514351?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=UBmIJj3CtN%2BAA3pwGMIWBw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Lead Ruby on Rails Engineer",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3553265162?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=RZq7EJxQ4hLViVxeAhqUpg%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3553267105?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=6PYnh2U3DfuDcaM8YNJ7wQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3553264258?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=HoRQ330cQKCP12ZsUPkI0Q%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3554510763?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=uD38WyJnIJSvgf3WfFw%2Bdw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. Security Engineer (Ruby on Rails experience required)",
     "company": "Aha!",
-    "location": "Mexico City, Mexico",
+    "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3553261957?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=aRgdq064jSqSSkdxqoIyQg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3553268011?refId=xS2lBMSdc%2BSl%2B7BJsX7kLA%3D%3D&trackingId=mFDnqpBF7bQDjo9DsVoVWw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3554515359?refId=0ow0ryCXVG0CHXYDX8FGMg%3D%3D&trackingId=8OdD3WTXGWbVk73Vp610gw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
