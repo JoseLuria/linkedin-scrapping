@@ -1,177 +1,107 @@
 [
   {
-    "title": "Front End Engineer",
-    "company": "Launchpad Technologies Inc.",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-launchpad-technologies-inc-3571778630?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=0CrTLQnz6VqEm4NQsVkTKA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Fullstack Developer",
+    "company": "Simera",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHdSCjxeP6IOQ/company-logo_100_100/0/1652754034493?e=2147483647&v=beta&t=SB-z7ZTAws7mFR91BeBKoaoSUKNjs2junnZEj9L6sE8",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-simera-3580425555?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=DRfvD1Q2i0JM%2FowDiyQxEg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "React Developer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/react-developer-at-luxoft-3578507116?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=FpTF7jK9KyxVDic4qCwUlw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Javascript Developer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-developer-at-luxoft-3578590195?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=fDrQCkMr6JT93cpRUfHhpg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Mobile Tech Lead (React Native) - Remoto",
+    "company": "Multiplica Talent",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQH9_pJ7VnlCXg/company-logo_100_100/0/1679019245880?e=2147483647&v=beta&t=ErzZDLUXhJsaNXubOh50BqFqe23YdiPmJ4KPUWmEtyI",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-tech-lead-react-native-remoto-at-multiplica-talent-3579997930?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=1FCfZCF3TTES%2FxOtZ8zhvA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Full Stack Engineer",
-    "company": "Rampify",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEdHg5tznh9mg/company-logo_100_100/0/1681951146741?e=2147483647&v=beta&t=Hb_UB9LbkqOLpQj3wC6JeWbfDXIzK-Ed_lwKSkhVGCo",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-rampify-3570889321?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=uCoAzMZU1T97rS5FOYVJGg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "company": "GraceMark Solutions",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHpHX325v_lOQ/company-logo_100_100/0/1616027653665?e=2147483647&v=beta&t=riMvww2GMH_Ie3XFKdvlhD9EbAFj56nufHSxXJu5GHs",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-gracemark-solutions-3573093835?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=klmz998IonJl3b4wd1E2SQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Full Stack Engineer",
-    "company": "ClassPass",
+    "company": "Aviada",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQH628mqplMiKg/company-logo_100_100/0/1639674741903?e=2147483647&v=beta&t=RaB8WN96R60UjFSpkF5r8YekEGq6mQqHXWuVGhME4ig",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-classpass-3578035720?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=BUFGy2ty%2F1%2FJWPMceCG0gQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQELzi0nVT4C9Q/company-logo_100_100/0/1663703469028?e=2147483647&v=beta&t=A2yX_bq2ILh-2zkPUzswm6lJ_hL6HVUhS8PyzgqL5mA",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-aviada-3573092221?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=0KXzHLXM4nkZT3wesVb2pg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior-Staff Software Engineer (Golang/React.js)",
-    "company": "Tech9",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGpaPk3fP8Gmg/company-logo_100_100/0/1655355112104?e=2147483647&v=beta&t=bcxYhh_V1EjcccpWdHQycc2ACuwvOSAb20j7qqa5wdk",
-    "link": "https://mx.linkedin.com/jobs/view/senior-staff-software-engineer-golang-react-js-at-tech9-3578556234?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=rz8KiFPv%2BQbrSyBzUGWEvA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Lead",
-    "company": "The Ksquare Group",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQETw4gNe0TcLQ/company-logo_100_100/0/1641336918083?e=2147483647&v=beta&t=YCdk3hNMp6Jis2kwFiW3_ocEEfLsNF8-PaoAupry57w",
-    "link": "https://mx.linkedin.com/jobs/view/technical-lead-at-the-ksquare-group-3578283762?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=P1hBBZAV%2BM4f7rrWA6Z5GA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Forecasting Data Scientist",
-    "company": "Mondelēz International",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/0/1627661808176?e=2147483647&v=beta&t=PZVRC60uy7Uxx8hWU2ulOQls7mwfPYqksyQDDqwhDNo",
-    "link": "https://mx.linkedin.com/jobs/view/forecasting-data-scientist-at-mondel%C4%93z-international-3575579710?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=PgHRBKs6pdsY3%2B%2FYmNoA8A%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Angular.JS Developer",
-    "company": "TRUGlobal",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQE4v-VeWTodKQ/company-logo_100_100/0/1656597268156?e=2147483647&v=beta&t=Ug2HFNm9wR7Yib_BG9X7_jyzcdanLGH4oDdj0kpmqgs",
-    "link": "https://mx.linkedin.com/jobs/view/angular-js-developer-at-truglobal-3570816369?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=acqF178%2F4TbVdkRY2xbqOQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Full Stack Python Developer",
-    "company": "Zipdev",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEDLRe2AJEaNQ/company-logo_100_100/0/1590018894713?e=2147483647&v=beta&t=yxbhVRH0l9pPbxcGJ5wNfrIXKueJq1e9DfgGiSv-Uls",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-python-developer-at-zipdev-3578256936?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=07IbqOZM5FgxrpntODBOAA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer II, Paid Advertising",
-    "company": "Etsy",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-ii-paid-advertising-at-etsy-3571781828?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=DtgyOkWMfsSxZ8TWA3H%2B8g%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3578537629?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=yQt%2F%2FWqCf8RV3R2Cqd2pMA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "company": "Grillo Technologies",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHAGA45DkR19w/company-logo_100_100/0/1680045129874?e=2147483647&v=beta&t=h-NPvwZBlVPsxshl-8GQIj17MST0UG_SBMvF7SfsAA0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-grillo-technologies-3572519796?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=8n9efsnY%2BYJ469Ue810DBg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3578352393?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=cLHMUmGdJTLlroIB5AHXKQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer II, Personalization",
-    "company": "Etsy",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-ii-personalization-at-etsy-3571784766?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=rw%2F5yOUji2KnSq8%2Bw6ynKw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3578521677?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=9P6DtN97cTLL%2BdHeLE7HxQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer",
-    "company": "Luxoft Mexico",
+    "title": "Software Engineering Manager, UI",
+    "company": "SailPoint",
     "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQE8OOrRDiR_jg/company-logo_100_100/0/1666025051100?e=2147483647&v=beta&t=L5Q2tvBiCr3WsUoSJRcEl8j2cg7cTHKNJL8aldYdbL0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-mexico-3578740258?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=L%2FI55HuzTq6czIaldnSmuA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3579908186?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=InCUeW8BRLrao5ftu2fg7A%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer I, Personalization",
-    "company": "Etsy",
+    "title": "Software Engineering Manager, UI",
+    "company": "SailPoint",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-i-personalization-at-etsy-3571787193?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=oKf3OOO1K0TDmfgy7mT4XQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3573097557?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=VCb97RBiK52kvRJGr%2FpWJA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineering Manager, UI",
+    "company": "SailPoint",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3574103026?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=O5chTiqNXuN3LysRXWKNLQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior React Engineer",
+    "company": "Luxoft",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3579645135?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=Gm%2BXUSON8iCJGATQCgrydg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior React Engineer",
+    "company": "Luxoft",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3579838610?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=AlpawBltzf5a1wXxH3Kjxw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Customer Support Engineer L3",
+    "company": "e-Core",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHWw7n8QlKgQg/company-logo_100_100/0/1574691410355?e=2147483647&v=beta&t=Hkpp6c04s3oF15ufw0bCTJ70Eba9AZwkOn-KrMXnes4",
+    "link": "https://mx.linkedin.com/jobs/view/customer-support-engineer-l3-at-e-core-3551268866?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=y%2BdR1IxZjX3K0OgTxaswuw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Senior React Engineer, Remote Mexico",
     "company": "Luxoft",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-remote-mexico-at-luxoft-3579492501?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=z5FLIg2kpvEaow%2FUKlH9ew%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-remote-mexico-at-luxoft-3579492501?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=VzosozmJ7v2ZaJegNTbbHw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer I, Paid Advertising",
-    "company": "Etsy",
+    "title": "Full-Stack Developer, Mexico - Remote Based",
+    "company": "BeyondID",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQHlLwxQRExsHg/company-logo_100_100/0/1681416486709?e=2147483647&v=beta&t=s2JHINCJq13rbwEtmMz0DESLprmIU_Xzr5_0nKVA6b4",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-mexico-remote-based-at-beyondid-3557203387?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=LRPm1ShADHTE3xcuJwRpmg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr Ruby on Rails Developer",
+    "company": "Onephase",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFB4WQVcWz1BA/company-logo_100_100/0/1656947292468?e=2147483647&v=beta&t=MqXG6_PNWhoB2O5Hu8r19dNdvahrZ67W3lKgaEZQuOM",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-developer-at-onephase-3574105444?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=cdxCPtpVIa2rKybjs0u33Q%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Supply Quality Audit",
+    "company": "DigitalOnUs by Tech Mahindra",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQF0IKDazTJojw/company-logo_100_100/0/1669833478121?e=2147483647&v=beta&t=MhkjIOhQZqapiI55VGEx_DT5JO-IbQUOdnZRVWKvfZU",
+    "link": "https://mx.linkedin.com/jobs/view/supply-quality-audit-at-digitalonus-by-tech-mahindra-3576820197?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=GFWxCGAihzmbKFrkw%2BgokA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Node JS Developer",
+    "company": "EPAM Systems",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-i-paid-advertising-at-etsy-3571787199?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=%2BRCVavwQh%2BPEfMZoZBo9lQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Regional B2C Software Engineer",
-    "company": "Ford Motor Company",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHZnQf3t8fKKg/company-logo_100_100/0/1620306010588?e=2147483647&v=beta&t=zh3_yve4NilFD53uBYGT1Zkam5Ef_J2t0A9_Qp3qf5Y",
-    "link": "https://mx.linkedin.com/jobs/view/regional-b2c-software-engineer-at-ford-motor-company-3578222085?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=IWZgnRSGuJ%2FglUJ9o%2BTcmw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Developer",
-    "company": "ShakaCode",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEeqeaKyls8Jw/company-logo_100_100/0/1609909720750?e=2147483647&v=beta&t=sqAL-ComUy1ekmZ_LjGW5gexWjr1nc0XmmIHX2qQyNA",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-developer-at-shakacode-3572543772?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=Skd93c6vmiosJkHvVTkpkw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "QA Analyst",
-    "company": "Launchpad Technologies Inc.",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/qa-analyst-at-launchpad-technologies-inc-3571778617?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=6Ha7XqwFokMis6lI90m0%2Fw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java Full Stack Developer - Life Insurance",
-    "company": "ACL",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGNQNZkquS5mA/company-logo_100_100/0/1627265544739?e=2147483647&v=beta&t=VivJDZk-8nQmBGrUQY4CrGsARDr8Zr7Pu4jsrIdDJdA",
-    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-life-insurance-at-acl-3577675986?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=fmUUChdA8NemRCaS5z9smQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java Full Stack Developer - Life Insurance",
-    "company": "ACL",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGNQNZkquS5mA/company-logo_100_100/0/1627265544739?e=2147483647&v=beta&t=VivJDZk-8nQmBGrUQY4CrGsARDr8Zr7Pu4jsrIdDJdA",
-    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-life-insurance-at-acl-3577994878?refId=tHzltHr0Mq5reYzCAEyFHQ%3D%3D&trackingId=DG96OzZhsyZRsIaqXIGSew%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_100_100/0/1677598469595?e=2147483647&v=beta&t=WLHlNmufk1-ckPTV4cn78DpvVASFrILtubIFw-d8QB8",
+    "link": "https://mx.linkedin.com/jobs/view/senior-node-js-developer-at-epam-systems-3550673718?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=6oxFgbrjg8Azy3s8L9Uu1g%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
