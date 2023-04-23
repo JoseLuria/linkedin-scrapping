@@ -1,107 +1,16 @@
 [
   {
-    "title": "Fullstack Developer",
-    "company": "Simera",
+    "title": "Senior Software Developer (Remote GDL, Monterrey, Mexico City)",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-developer-remote-gdl-monterrey-mexico-city-at-autodesk-3515549689?refId=swCx6d3%2FuzwmLFq1loP4Og%3D%3D&trackingId=mbWK5yeaHsm8JRAaoAOiVw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Backend Engineer - Conversational Intelligence (Remote, Mexico)",
+    "company": "Apollo.io",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHdSCjxeP6IOQ/company-logo_100_100/0/1652754034493?e=2147483647&v=beta&t=SB-z7ZTAws7mFR91BeBKoaoSUKNjs2junnZEj9L6sE8",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-simera-3580425555?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=DRfvD1Q2i0JM%2FowDiyQxEg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mobile Tech Lead (React Native) - Remoto",
-    "company": "Multiplica Talent",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQH9_pJ7VnlCXg/company-logo_100_100/0/1679019245880?e=2147483647&v=beta&t=ErzZDLUXhJsaNXubOh50BqFqe23YdiPmJ4KPUWmEtyI",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-tech-lead-react-native-remoto-at-multiplica-talent-3579997930?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=1FCfZCF3TTES%2FxOtZ8zhvA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "GraceMark Solutions",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHpHX325v_lOQ/company-logo_100_100/0/1616027653665?e=2147483647&v=beta&t=riMvww2GMH_Ie3XFKdvlhD9EbAFj56nufHSxXJu5GHs",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-gracemark-solutions-3573093835?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=klmz998IonJl3b4wd1E2SQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "Aviada",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQELzi0nVT4C9Q/company-logo_100_100/0/1663703469028?e=2147483647&v=beta&t=A2yX_bq2ILh-2zkPUzswm6lJ_hL6HVUhS8PyzgqL5mA",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-aviada-3573092221?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=0KXzHLXM4nkZT3wesVb2pg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineering Manager, UI",
-    "company": "SailPoint",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3579908186?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=InCUeW8BRLrao5ftu2fg7A%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineering Manager, UI",
-    "company": "SailPoint",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3573097557?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=VCb97RBiK52kvRJGr%2FpWJA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineering Manager, UI",
-    "company": "SailPoint",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineering-manager-ui-at-sailpoint-3574103026?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=O5chTiqNXuN3LysRXWKNLQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3579645135?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=Gm%2BXUSON8iCJGATQCgrydg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer",
-    "company": "Luxoft",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-at-luxoft-3579838610?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=AlpawBltzf5a1wXxH3Kjxw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Customer Support Engineer L3",
-    "company": "e-Core",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHWw7n8QlKgQg/company-logo_100_100/0/1574691410355?e=2147483647&v=beta&t=Hkpp6c04s3oF15ufw0bCTJ70Eba9AZwkOn-KrMXnes4",
-    "link": "https://mx.linkedin.com/jobs/view/customer-support-engineer-l3-at-e-core-3551268866?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=y%2BdR1IxZjX3K0OgTxaswuw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Engineer, Remote Mexico",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-engineer-remote-mexico-at-luxoft-3579492501?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=VzosozmJ7v2ZaJegNTbbHw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full-Stack Developer, Mexico - Remote Based",
-    "company": "BeyondID",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQHlLwxQRExsHg/company-logo_100_100/0/1681416486709?e=2147483647&v=beta&t=s2JHINCJq13rbwEtmMz0DESLprmIU_Xzr5_0nKVA6b4",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-mexico-remote-based-at-beyondid-3557203387?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=LRPm1ShADHTE3xcuJwRpmg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr Ruby on Rails Developer",
-    "company": "Onephase",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFB4WQVcWz1BA/company-logo_100_100/0/1656947292468?e=2147483647&v=beta&t=MqXG6_PNWhoB2O5Hu8r19dNdvahrZ67W3lKgaEZQuOM",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-developer-at-onephase-3574105444?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=cdxCPtpVIa2rKybjs0u33Q%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Supply Quality Audit",
-    "company": "DigitalOnUs by Tech Mahindra",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQF0IKDazTJojw/company-logo_100_100/0/1669833478121?e=2147483647&v=beta&t=MhkjIOhQZqapiI55VGEx_DT5JO-IbQUOdnZRVWKvfZU",
-    "link": "https://mx.linkedin.com/jobs/view/supply-quality-audit-at-digitalonus-by-tech-mahindra-3576820197?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=GFWxCGAihzmbKFrkw%2BgokA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Node JS Developer",
-    "company": "EPAM Systems",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_100_100/0/1677598469595?e=2147483647&v=beta&t=WLHlNmufk1-ckPTV4cn78DpvVASFrILtubIFw-d8QB8",
-    "link": "https://mx.linkedin.com/jobs/view/senior-node-js-developer-at-epam-systems-3550673718?refId=IYrneDErdsUkFGRkS3bh%2Bg%3D%3D&trackingId=6oxFgbrjg8Azy3s8L9Uu1g%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGuFBXbcRcOfA/company-logo_100_100/0/1668021796581?e=2147483647&v=beta&t=rBa6xP2QrRMsy8vj-LCCrfffMUJstgbUrqU6BHQXMEI",
+    "link": "https://mx.linkedin.com/jobs/view/senior-backend-engineer-conversational-intelligence-remote-mexico-at-apollo-io-3550982022?refId=swCx6d3%2FuzwmLFq1loP4Og%3D%3D&trackingId=9LeNRpPEms0tIVqdE%2F64cw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
