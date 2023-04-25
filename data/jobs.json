@@ -1,121 +1,156 @@
 [
   {
-    "title": "Senior React Native Engineer - LATAM",
-    "company": "Rad Hires",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGNTxwcIuWZIA/company-logo_100_100/0/1566537511429?e=2147483647&v=beta&t=aQp-9ApeL5JKMsizCQAPFAJ9eRt8Ffpq7TuBE2jhvr8",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-latam-at-rad-hires-3582614122?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=RNj6TYZ9QtLFMhOeJCwzyA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Director of Product Development, Ecommerce - Next.js/GCP",
-    "company": "Aviada",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQELzi0nVT4C9Q/company-logo_100_100/0/1663703469028?e=2147483647&v=beta&t=A2yX_bq2ILh-2zkPUzswm6lJ_hL6HVUhS8PyzgqL5mA",
-    "link": "https://mx.linkedin.com/jobs/view/director-of-product-development-ecommerce-next-js-gcp-at-aviada-3577025134?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=ZsP8L7oBvMSVKOeeFyzVag%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Forecasting Data Scientist",
-    "company": "Mondelēz International",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/0/1627661808176?e=2147483647&v=beta&t=PZVRC60uy7Uxx8hWU2ulOQls7mwfPYqksyQDDqwhDNo",
-    "link": "https://mx.linkedin.com/jobs/view/forecasting-data-scientist-at-mondel%C4%93z-international-3579731483?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=euhFL5vyFkhqJgg3MBF5OQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "company": "Medallia",
+    "title": "Full Stack Engineer",
+    "company": "PLAYSTUDIOS MEXICO",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGFRYbeZZRnLw/company-logo_100_100/0/1677681272221?e=2147483647&v=beta&t=4wyrSSdYbPtc3oljOs-jq5DjAH37JPQHV3-BoJbnz6c",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-medallia-3577043826?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=ddNeEWL2CPyp8iIEJyszvA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQExILLspIUF8A/company-logo_100_100/0/1663366149618?e=2147483647&v=beta&t=rx0e0cWj4G-WjdzZAQIBUAn_DNrBt111LaJaqoKloG4",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-playstudios-mexico-3577717785?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=AwcgptFP4YDgCBwfH%2BeBLQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Hands-On Engineering Manager",
-    "company": "Clevertech",
+    "title": "Senior Software Engineer (React/Node) in Mexico",
+    "company": "Tech9",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/hands-on-engineering-manager-at-clevertech-3583888055?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=e0HzpvjnD%2FxWqBrP7UDjUA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGpaPk3fP8Gmg/company-logo_100_100/0/1655355112104?e=2147483647&v=beta&t=bcxYhh_V1EjcccpWdHQycc2ACuwvOSAb20j7qqa5wdk",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-react-node-in-mexico-at-tech9-3584461223?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=mTBpaJzC%2BrGw09z2KE2nSA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Microsoft Cloud Native Lead",
-    "company": "Hexaware Technologies",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHLL6HXmuKLfg/company-logo_100_100/0/1656668279414?e=2147483647&v=beta&t=99Me_3upBLodhy-ruxWx6strqDpn5_BSxLMsggTgZ1g",
-    "link": "https://mx.linkedin.com/jobs/view/microsoft-cloud-native-lead-at-hexaware-technologies-3577020106?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=imuplKaxxfQambxEtQHS3g%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Javascript Full Stack Engineer - Remote",
-    "company": "Clevertech",
+    "title": "Programador full stack",
+    "company": "NTD Software",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3583737582?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=lLL3RacG9q5FI3YZ9GDGvQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEwabzkHYn3VQ/company-logo_100_100/0/1666619565874?e=2147483647&v=beta&t=7XLPK3fgL1HdCCXWO-3tNN-Hs6xircdbVKGKoxcfRvQ",
+    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-at-ntd-software-3584588864?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=AlR34uwClQH7k73QKmA%2BQA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Developer",
-    "company": "Builder Prime",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQFgTEt3CaEZ8g/company-logo_100_100/0/1519866970136?e=2147483647&v=beta&t=xuD0XKKJg0fVYvRb_WEnUQBw_NDaiAVoo-7ugFDXM9w",
-    "link": "https://mx.linkedin.com/jobs/view/java-developer-at-builder-prime-3577020799?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=dAqx8QUIB9gXV5stZz%2FaMQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Jefe técnico de software",
+    "company": "Interfell",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQELxwzgMS1ZjA/company-logo_100_100/0/1550084060076?e=2147483647&v=beta&t=-6LmD9FxvAqlCwy74KjQOuyaROuoPBz8ZYEQuxTChC4",
+    "link": "https://mx.linkedin.com/jobs/view/jefe-t%C3%A9cnico-de-software-at-interfell-3580837920?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=297p%2Frs4V203mAClERGJCg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior/Staff Software Engineer, Infrastructure (Mexico)",
-    "company": "Osmind",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQG_fXB4_k4SbQ/company-logo_100_100/0/1651804146075?e=2147483647&v=beta&t=z5mrdP1w7_wrrnTi7vbJfRMpFUj-4dYt20sSFogeUro",
-    "link": "https://mx.linkedin.com/jobs/view/senior-staff-software-engineer-infrastructure-mexico-at-osmind-3544565264?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=%2FNWHf8NO9aDJTgLUF23BYA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead .NET/React Engineer",
-    "company": "SoftServe",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGZXzpyfESqXA/company-logo_100_100/0/1646075285386?e=2147483647&v=beta&t=q95C1MDTkul18CG0Jxl9JVkNn7wYueywpIyaI9xctt8",
-    "link": "https://mx.linkedin.com/jobs/view/lead-net-react-engineer-at-softserve-3583789875?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=Q6qJ%2BztcRYUdbkStwTV0yg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior React Native Engineer",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3579795757?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=kIX3EETLz20TPrs6PTfyLw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Software Engineer - Java / Backend",
+    "title": "Technical Consultant",
     "company": "Ellucian",
     "location": "Mexico City, Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQGetgUvk-GG9Q/company-logo_100_100/0/1656674346347?e=2147483647&v=beta&t=vG3STEvPRYmkiWOjpkA4kE9iAFvJXUGxn72UXcQb8o0",
-    "link": "https://mx.linkedin.com/jobs/view/lead-software-engineer-java-backend-at-ellucian-3455937217?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=H%2BVlL9UsIpWLTJruIynnpA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/technical-consultant-at-ellucian-3577447116?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=mOtH5BHOA1RLiSuk862VxQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Principal Software Engineer (Remote Gdl, Monterrey, Mexico City)",
+    "title": "IoT Developer",
+    "company": "Persistent Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGctyhyN9TCDQ/company-logo_100_100/0/1643009065294?e=2147483647&v=beta&t=idj5mFoGvP7UIchfEpyZlNJsKe3Sk7QvOFmQGWuwVGk",
+    "link": "https://mx.linkedin.com/jobs/view/iot-developer-at-persistent-systems-3521957382?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=hzmCWgxMZ%2Bq5%2FeCH6lN6NQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "ServiceNow Developer",
+    "company": "vSecureLabs",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGDMB8YGiwOtQ/company-logo_100_100/0/1647439325854?e=2147483647&v=beta&t=09Ce7YMP_NC7ckY1zUuynDpnu763yJAJSUoW1zreVKo",
+    "link": "https://mx.linkedin.com/jobs/view/servicenow-developer-at-vsecurelabs-3577073204?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=Atdiv2uYz0qj8%2B606l%2BK7A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mid-Level Full Stack Developer ($10,000 - $20,000 / Year Pay)",
+    "company": "Let's Roam",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQE1Dq4tpKCiBg/company-logo_100_100/0/1573063316734?e=2147483647&v=beta&t=PIytNoAsay4NpYt0fctvriihL_7_g-rOIK_ezLfUDLg",
+    "link": "https://mx.linkedin.com/jobs/view/mid-level-full-stack-developer-%2410-000-%2420-000-year-pay-at-let-s-roam-3577442344?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=Ejz6H%2FnLkRvDZ6t1thxNVA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Engineering Manager (Organization Activation)",
+    "company": "Docker, Inc",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZq-jtaJfVgQ/company-logo_100_100/0/1644537076341?e=2147483647&v=beta&t=jTVol1orywCaV8J17AyPEeuQ5FWOlkFF5XXFPYWuUIc",
+    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-organization-activation-at-docker-inc-3548461944?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=B2uvgYi%2BjOCZPwDp2qrjxg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior React Native - Mexico",
+    "company": "Distillery",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGxOHq-tKdacw/company-logo_100_100/0/1656622762915?e=2147483647&v=beta&t=GLOdBBQ51VLVkjOfBkRYf510XcrWN7OJpuxDU95XpAE",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-mexico-at-distillery-3584547312?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=xf0ygz4Itss7Pjzz1O9hZg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Cloud Solutions Developer",
+    "company": "Persistent Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGctyhyN9TCDQ/company-logo_100_100/0/1643009065294?e=2147483647&v=beta&t=idj5mFoGvP7UIchfEpyZlNJsKe3Sk7QvOFmQGWuwVGk",
+    "link": "https://mx.linkedin.com/jobs/view/cloud-solutions-developer-at-persistent-systems-3521952427?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=VlHpE8JGv7R%2FlGggw4i6kQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Angular Developer",
+    "company": "TRUGlobal",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQE4v-VeWTodKQ/company-logo_100_100/0/1656597268156?e=2147483647&v=beta&t=Ug2HFNm9wR7Yib_BG9X7_jyzcdanLGH4oDdj0kpmqgs",
+    "link": "https://mx.linkedin.com/jobs/view/angular-developer-at-truglobal-3580844505?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=%2BWt9C3zL7kKS6SIhR8kDSA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Software Engineer (Support Tooling)",
+    "company": "Docker, Inc",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGZq-jtaJfVgQ/company-logo_100_100/0/1644537076341?e=2147483647&v=beta&t=jTVol1orywCaV8J17AyPEeuQ5FWOlkFF5XXFPYWuUIc",
+    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-support-tooling-at-docker-inc-3548498861?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=lc8qHVAuGdMttPqkfwsvQQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Software Engineer",
     "company": "Autodesk",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
-    "link": "https://mx.linkedin.com/jobs/view/principal-software-engineer-remote-gdl-monterrey-mexico-city-at-autodesk-3515599911?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=TzB3LszayAlqvBu3ZCZmOA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-at-autodesk-3577409808?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=eZFPgLNI2BS%2BzPV9kTaJiw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-turing-3569013785?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=zlynhlsb4oT2Elcia3%2FbOQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Fullstack Engineer - Conversational Engineer (Remote, Mexico)",
+    "company": "Apollo.io",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGuFBXbcRcOfA/company-logo_100_100/0/1668021796581?e=2147483647&v=beta&t=rBa6xP2QrRMsy8vj-LCCrfffMUJstgbUrqU6BHQXMEI",
+    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-engineer-conversational-engineer-remote-mexico-at-apollo-io-3552299520?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=KSvyziddvtCzFFwvx2Z6Jw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Ionic + React Engineer",
-    "company": "Clevertech",
+    "title": "Back End Developer Senior",
+    "company": "Techsquads",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-engineer-at-clevertech-3579795648?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=A%2FIZIgmAP4OJTEEeW6dJQg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQE9S3dzkBgBQQ/company-logo_100_100/0/1672427323302?e=2147483647&v=beta&t=pCnEPHceyjk_kxMjOfvnCGe1L8jueCMu5FGxhtF2H1k",
+    "link": "https://mx.linkedin.com/jobs/view/back-end-developer-senior-at-techsquads-3577707530?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=demUZQnxQeH3sR3URc%2B9DA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-turing-3569013850?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=rAUfmfcrqqVz4nTUK5CmFA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Software Engineer Lead  Ecommerce - Next.js/GCP",
+    "company": "Aviada",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQELzi0nVT4C9Q/company-logo_100_100/0/1663703469028?e=2147483647&v=beta&t=A2yX_bq2ILh-2zkPUzswm6lJ_hL6HVUhS8PyzgqL5mA",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-lead-ecommerce-next-js-gcp-at-aviada-3584505804?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=UgkZzAB2FU8p5jKHmvenow%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Programador Ruby on Rails Full Stack",
-    "company": "Turing",
+    "title": "Mobile .Net Developer",
+    "company": "HCLTech",
+    "location": "Guadalajara, Mexico Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/0/1664197007563?e=2147483647&v=beta&t=w_aLeCLX5B3_107mAUQHhN6q7sJwYwsd5UaHY_DBmlQ",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-net-developer-at-hcltech-3584800136?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=d8RJxPRisk2ewvFw%2BCkKew%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Technical Interface Consultant - Developer - Mexico (Remote Based)",
+    "company": "BeyondID",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQHlLwxQRExsHg/company-logo_100_100/0/1681416486709?e=2147483647&v=beta&t=s2JHINCJq13rbwEtmMz0DESLprmIU_Xzr5_0nKVA6b4",
+    "link": "https://mx.linkedin.com/jobs/view/technical-interface-consultant-developer-mexico-remote-based-at-beyondid-3556973746?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=Ycx1e2VBvjJAGVQiSM%2Fwjg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ruby Developer",
+    "company": "Exadel",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/programador-ruby-on-rails-full-stack-at-turing-3575523906?refId=3Ez6pmB0FRlv6wag8dA3Nw%3D%3D&trackingId=JE5P67fXH5jclGG6ovG75w%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQEj8P-2NRbONQ/company-logo_100_100/0/1680772822917?e=2147483647&v=beta&t=N9ITfoWE8eHxXVwM-hng8d_8IgDX3lUuzbOGKavys2E",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ruby-developer-at-exadel-3586001541?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=D58dOjgoSp1GwFWpoPRSKw%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Java Fullstack",
+    "company": "HCLTech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/0/1664197007563?e=2147483647&v=beta&t=w_aLeCLX5B3_107mAUQHhN6q7sJwYwsd5UaHY_DBmlQ",
+    "link": "https://mx.linkedin.com/jobs/view/senior-java-fullstack-at-hcltech-3584513453?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=4F46mXVBATA4Aiqbvkahjw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Engineer (Data Validation)",
+    "company": "Launchpad Technologies Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
+    "link": "https://mx.linkedin.com/jobs/view/qa-engineer-data-validation-at-launchpad-technologies-inc-3549603356?refId=80EloCjIRHI12HjwbmfRiw%3D%3D&trackingId=93YV9xqWQYCTM31GrhunRw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
