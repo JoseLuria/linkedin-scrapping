@@ -1,58 +1,44 @@
 [
   {
-    "title": "Forecasting Data Scientist",
-    "company": "Mondelēz International",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/0/1627661808176?e=2147483647&v=beta&t=PZVRC60uy7Uxx8hWU2ulOQls7mwfPYqksyQDDqwhDNo",
-    "link": "https://mx.linkedin.com/jobs/view/forecasting-data-scientist-at-mondel%C4%93z-international-3590752684?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=y3VPW3Se3YMzmg4NVvwjPw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Software Developers",
+    "company": "TheGetch",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHG0TyNrLf8zA/company-logo_100_100/0/1608538794307?e=2147483647&v=beta&t=q1NR-Og27A3a8E2rKmBlxtX5c3BaS8S0eq8fy43etL8",
+    "link": "https://mx.linkedin.com/jobs/view/software-developers-at-thegetch-3591604603?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=U%2F4DnkSfpfP22eIBIEBR5g%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Technical Lead/ Manager, UI Engineering",
-    "company": "Netskope",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHJWj61aiI8uQ/company-logo_100_100/0/1657034236946?e=2147483647&v=beta&t=n4g3guPFs8_KaPvGLR5HUMUCKnuGNpJppujZ_4zp0K0",
-    "link": "https://mx.linkedin.com/jobs/view/technical-lead-manager-ui-engineering-at-netskope-3457662102?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=gYoSlqD%2B0zq2Ox5C4qxLCQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer (Java + Apache Camel)",
+    "title": "Senior Software Engineer",
     "company": "Launchpad Technologies Inc.",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-java-%2B-apache-camel-at-launchpad-technologies-inc-3525731713?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=qn40nReqiJI97XJklksdOQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-launchpad-technologies-inc-3403242950?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=Ui3scC7rTX%2FZ6kvcCIIpkA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
+    "title": "Senior Javascript Full Stack Engineer - Remote",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3593371766?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=F2akLRlOf%2Bqquz%2FpPRQY5w%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3594181321?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=zLGyNUMzxGwGLDZNPkZdvg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
+    "title": "Java Developer",
+    "company": "Builder Prime",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3593371820?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=u%2FKX%2FphIx4E6%2FU3Or18Qbw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C510BAQFgTEt3CaEZ8g/company-logo_100_100/0/1519866970136?e=2147483647&v=beta&t=xuD0XKKJg0fVYvRb_WEnUQBw_NDaiAVoo-7ugFDXM9w",
+    "link": "https://mx.linkedin.com/jobs/view/java-developer-at-builder-prime-3588250542?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=AfzGz8zPJN34OnIEg1%2F%2BEA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
+    "title": "Senior React Native Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3593370758?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=CmBO5vkC84X8YPnoxX7vOw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3594194931?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=a6CXy0ohpcQ384gu8UYIxw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
+    "title": "Senior Ionic + React Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3593371771?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=vaZ8k8gidXpjNNDmNMx5SA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3593369820?refId=zp5jHeWaGbdiURcum2nLnQ%3D%3D&trackingId=OR2b9z8UJtGhj5VCsrg%2FNA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-engineer-at-clevertech-3594302306?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=QE7AEYReF%2BAemOkyL0hTdg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
