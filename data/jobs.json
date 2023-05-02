@@ -1,44 +1,51 @@
 [
   {
-    "title": "Software Developers",
-    "company": "TheGetch",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHG0TyNrLf8zA/company-logo_100_100/0/1608538794307?e=2147483647&v=beta&t=q1NR-Og27A3a8E2rKmBlxtX5c3BaS8S0eq8fy43etL8",
-    "link": "https://mx.linkedin.com/jobs/view/software-developers-at-thegetch-3591604603?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=U%2F4DnkSfpfP22eIBIEBR5g%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Software Engineer",
+    "title": "Frontend Engineer",
     "company": "Launchpad Technologies Inc.",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-launchpad-technologies-inc-3403242950?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=Ui3scC7rTX%2FZ6kvcCIIpkA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-at-launchpad-technologies-inc-3530240478?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=Zc0000OlvF4FgQCmH6z3AQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Javascript Full Stack Engineer - Remote",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3594181321?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=zLGyNUMzxGwGLDZNPkZdvg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Frontend Developer",
+    "company": "Jonajo Consulting",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQG8UFD_9LrYxA/company-logo_100_100/0/1607370648640?e=2147483647&v=beta&t=OFWI6bm7ICYfLvuN9xjXVl65nBhilJBCZuGGc9xnLmA",
+    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-jonajo-consulting-3595257740?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=v5OHHId9%2BnvqqQQvZ8vL7w%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Developer",
-    "company": "Builder Prime",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQFgTEt3CaEZ8g/company-logo_100_100/0/1519866970136?e=2147483647&v=beta&t=xuD0XKKJg0fVYvRb_WEnUQBw_NDaiAVoo-7ugFDXM9w",
-    "link": "https://mx.linkedin.com/jobs/view/java-developer-at-builder-prime-3588250542?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=AfzGz8zPJN34OnIEg1%2F%2BEA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. CRM Engineer (Salesforce)",
+    "company": "Enroute",
+    "location": "Dinastía, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHMocsjfr2dPA/company-logo_100_100/0/1657226974699?e=2147483647&v=beta&t=pUTPWy7_DKi7Plw0hXxsZFrNMGMDRh885HJchCMKRF0",
+    "link": "https://mx.linkedin.com/jobs/view/sr-crm-engineer-salesforce-at-enroute-3594795524?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=RiuEpoB541GMsLxrjtlAZg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior React Native Engineer",
-    "company": "Clevertech",
+    "title": "Senior Software Engineer",
+    "company": "Simfoni",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3594194931?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=a6CXy0ohpcQ384gu8UYIxw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHEOYZzwLDxNQ/company-logo_100_100/0/1623339853997?e=2147483647&v=beta&t=Sqak30jlyqyUTsMBLuBFec7-rE1cl5qG6HE9kU4QO5w",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-simfoni-3595223277?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=wHqQ9syDLbV4V0vx3cqedA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Ionic + React Engineer",
-    "company": "Clevertech",
+    "title": "WordPress Team Lead Developer",
+    "company": "Blacksmith Agency",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-engineer-at-clevertech-3594302306?refId=itAgMzCmkd2G%2B%2BWIAbsB9Q%3D%3D&trackingId=QE7AEYReF%2BAemOkyL0hTdg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQHOt-B82sskLQ/company-logo_100_100/0/1519867113112?e=2147483647&v=beta&t=hiaKVyjg5n8NAIp2v-_9Ed_55ivhlcn1Yddf86YtRIY",
+    "link": "https://mx.linkedin.com/jobs/view/wordpress-team-lead-developer-at-blacksmith-agency-3590118599?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=Uid1Pu1eK7Kd5MwqhpCOcQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Fullstack Developer",
+    "company": "Brillio",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEh2CAtwBx5vA/company-logo_100_100/0/1657805093666?e=2147483647&v=beta&t=RrotmiGvcf2y0ICy-DGjOeI5s7BagxHtoAdiXh0yrP4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-developer-at-brillio-3438523355?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=kuO%2F7xRWs5hTnRLc78kIfg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mobile Developer",
+    "company": "Launchpad Technologies Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-developer-at-launchpad-technologies-inc-3382498727?refId=827DGiNJDidcYGGH7d1u3g%3D%3D&trackingId=JulqwBs22Nv1Uuh9n%2Bbm7g%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
