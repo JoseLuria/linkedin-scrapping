@@ -1,128 +1,93 @@
 [
   {
-    "title": "React Native",
-    "company": "Atos",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEA-7akfn4FzA/company-logo_100_100/0/1638575002083?e=2147483647&v=beta&t=wZCNRWdvU39X6Idd28KA3vhmzMI6_3qEkBmcdgFobys",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-at-atos-3601198516?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=NmV21UXHaH8d6S27WX%2F91Q%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Node Engineer - Work from home",
-    "company": "Nearsure",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHCbQSa6YnOmw/company-logo_100_100/0/1658941852063?e=2147483647&v=beta&t=DAfM-VU3Oa0PakWQlLJ1DanFxm8NQRtKX7QmrRhFw3A",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-node-engineer-work-from-home-at-nearsure-3598893138?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=6Q4sZ92vuWR8pRBQ%2BJ6%2FUw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Software Engineer, Applications (LATAM)",
-    "company": "Valimail",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQGsbsMyS_1Fsg/company-logo_100_100/0/1594163664711?e=2147483647&v=beta&t=Y5qktxeu7a_6o2M-E-t9B0CdlTomMYoC3YJIJeFj3Ek",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-applications-latam-at-valimail-3601736790?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=8t6xObivhKQzDNXOUkIUBA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Web Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/react-web-developer-at-turing-3602302267?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=baR8QwhCF2a8DpLk15oeHA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. WordPress Developer - React",
-    "company": "Orion Innovation",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGqPQV_qPkE2Q/company-logo_100_100/0/1589454998661?e=2147483647&v=beta&t=x9Jg-TYTE9HKC5a5HeapWB7KEYkDSE3hj3ugM4Nm7LM",
-    "link": "https://mx.linkedin.com/jobs/view/sr-wordpress-developer-react-at-orion-innovation-3603364872?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=y467DJ328b8Y0KbU3pZLGw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Integration Engineer",
-    "company": "IOV Labs",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHAR1QPORloVg/company-logo_100_100/0/1551745769034?e=2147483647&v=beta&t=W3ISQo7X0XFLEQW6xukuujXy7wRFk8rcAFSGNAMcmbc",
-    "link": "https://mx.linkedin.com/jobs/view/software-integration-engineer-at-iov-labs-3602985905?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=XDDtq%2FAl0Eh0LzxRq0TRnw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Node. JS Developer",
-    "company": "EPAM Systems",
+    "title": "Software Engineer I (New graduates)",
+    "company": "Ellucian",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_100_100/0/1677598469595?e=2147483647&v=beta&t=WLHlNmufk1-ckPTV4cn78DpvVASFrILtubIFw-d8QB8",
-    "link": "https://mx.linkedin.com/jobs/view/node-js-developer-at-epam-systems-3601753637?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=SARKfITN4oTzTTKioPXgPw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGetgUvk-GG9Q/company-logo_100_100/0/1656674346347?e=2147483647&v=beta&t=vG3STEvPRYmkiWOjpkA4kE9iAFvJXUGxn72UXcQb8o0",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-i-new-graduates-at-ellucian-3604758486?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=I4y0k7%2Fg%2F1DfpXFEA1wBfA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Developer, Gigster Network",
-    "company": "Gigster",
+    "title": "Software Engineer I (New graduates)",
+    "company": "Ellucian",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGetgUvk-GG9Q/company-logo_100_100/0/1656674346347?e=2147483647&v=beta&t=vG3STEvPRYmkiWOjpkA4kE9iAFvJXUGxn72UXcQb8o0",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-i-new-graduates-at-ellucian-3600553000?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=OfvhfBSc%2FLzV8k%2FTOnb4%2BA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "DESARROLLADOR FULLSTACK JAVA / REACT",
+    "company": "axity",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQH9IjDawEtfYQ/company-logo_100_100/0/1664997741303?e=2147483647&v=beta&t=esG5o4p2VQDlfWqxc6e_mdayJoScatNSyMLGx0iD5bE",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-fullstack-java-react-at-axity-3603354176?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=1%2BB5TcbgOoEyXsJgBly%2BkQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full stack Developer",
+    "company": "Plain Concepts",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQE9a3RwIlmldg/company-logo_100_100/0/1663181113958?e=2147483647&v=beta&t=x0yzU1ZjHQj6bIGxpmAEZO2bk-UJ1ANLJy9KQLsUbao",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-gigster-network-at-gigster-3599378019?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=LZiHTKuVojx449W2rAEpnw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGLJ2dHvjfgOA/company-logo_100_100/0/1656923371495?e=2147483647&v=beta&t=WtHMIJ04UtFjcyDYC3QnuozneWrcRFVYfXmsYgZ7MJE",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-plain-concepts-3605083843?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=KWIM%2Bl%2Bl3EsMisndtdYGzw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": ".NET/React Engineer SR",
-    "company": "Luflox LLC",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQF-2zXtgpCA0w/company-logo_100_100/0/1619476428979?e=2147483647&v=beta&t=m9PspKBnX6_5KR4Ge-TmJ2i_XhESy1OTusLsNpoPx7U",
-    "link": "https://mx.linkedin.com/jobs/view/net-react-engineer-sr-at-luflox-llc-3604107802?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=Wsn23N7Px7q5Iym4PgkUug%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Frontend Developer, Gigster Network",
-    "company": "Gigster",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQE9a3RwIlmldg/company-logo_100_100/0/1663181113958?e=2147483647&v=beta&t=x0yzU1ZjHQj6bIGxpmAEZO2bk-UJ1ANLJy9KQLsUbao",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-gigster-network-at-gigster-3599375416?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=lLis5Ka9Szl92BZ3ggEgaQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Frontend Developer, Gigster Network",
-    "company": "Gigster",
+    "title": "Fullstack, Java and React JS",
+    "company": "Doyensys Inc",
     "location": "Guadalajara, Mexico Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQE9a3RwIlmldg/company-logo_100_100/0/1663181113958?e=2147483647&v=beta&t=x0yzU1ZjHQj6bIGxpmAEZO2bk-UJ1ANLJy9KQLsUbao",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-gigster-network-at-gigster-3599370926?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=0vMhTyivfM%2BoxwQkI4YQhw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C510BAQFtaS2xzuyxnQ/company-logo_100_100/0/1562763282989?e=2147483647&v=beta&t=eSC9GIwd_YW2ZHPFhwAPs6k4XqeJIem9pqwA5rTKPvk",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-java-and-react-js-at-doyensys-inc-3600503595?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=CErHgvUsEbmB5H0TiD8qmw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Developer, Gigster Network",
-    "company": "Gigster",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQE9a3RwIlmldg/company-logo_100_100/0/1663181113958?e=2147483647&v=beta&t=x0yzU1ZjHQj6bIGxpmAEZO2bk-UJ1ANLJy9KQLsUbao",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-gigster-network-at-gigster-3599374339?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=XGgqf0Xtmd4xlyYURIIoyg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java Fullstack (Java/React)",
-    "company": "Luxoft",
+    "title": "Full Stack Engineer",
+    "company": "Scape",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/java-fullstack-java-react-at-luxoft-3603300982?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=yDMn%2B86IiASz77WO84ncyw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQEaz5vzMhvOPA/company-logo_100_100/0/1644897490785?e=2147483647&v=beta&t=AYxeXZMaI8HKrL1K-vU8xMWHyp0pRagUUUPKSTxgp3Q",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-scape-3600846071?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=Fx7mUx14RranpxrfGAiEkA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "SR ServiceNow Developer",
-    "company": "IPSUM Technology",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEjdZJc93rFXw/company-logo_100_100/0/1560525997962?e=2147483647&v=beta&t=k_DbWhMegO_SuDPV4vbBv7juWzpr8REURdvPkjw3IvI",
-    "link": "https://mx.linkedin.com/jobs/view/sr-servicenow-developer-at-ipsum-technology-3598846716?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=%2F0WxM49uSeHc5adztQ1trw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Fullstack Engineer",
+    "company": "DigitalOnUs by Tech Mahindra",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQF0IKDazTJojw/company-logo_100_100/0/1669833478121?e=2147483647&v=beta&t=MhkjIOhQZqapiI55VGEx_DT5JO-IbQUOdnZRVWKvfZU",
+    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-at-digitalonus-by-tech-mahindra-3602779952?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=j3LEkHpkA8%2Fx5JHzZxS02w%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Lead JavaScript Developer For Software Company",
-    "company": "EPAM Anywhere",
+    "title": "Full Stack Engineer",
+    "company": "NTD Software",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/lead-javascript-developer-for-software-company-at-epam-anywhere-3602113994?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=abR8lfqtiN6r0T3k1rgC6Q%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEwabzkHYn3VQ/company-logo_100_100/0/1666619565874?e=2147483647&v=beta&t=7XLPK3fgL1HdCCXWO-3tNN-Hs6xircdbVKGKoxcfRvQ",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-ntd-software-3604740773?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=ZUUpXSIDe%2Fj%2FmC6M6%2FfAyg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Automation Tester",
-    "company": "EPAM Anywhere",
+    "title": "Senior Fullstack Engineer",
+    "company": "Right Balance",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-automation-tester-at-epam-anywhere-3602122197?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=9ahsCAOXD6ruePf%2FrA4G6Q%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQF5hqw9O5mTMA/company-logo_100_100/0/1561089264532?e=2147483647&v=beta&t=8MILMdxpwhjIqsa-jvcSB6Ri-8tkQH8t2APDreB3ZRc",
+    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-engineer-at-right-balance-3604341036?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=kUGnkFm%2FYxj23WgnGKWpdQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Solutions Architect",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/solutions-architect-at-turing-3602118951?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=x%2FxuoXcopDTTV249p2E4UA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer I, Paid Advertising",
+    "company": "Etsy",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-i-paid-advertising-at-etsy-3571787199?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=BJx2v6pUtmSzuCmRi318YA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Arquitecto de Software",
-    "company": "Turing",
+    "title": "Senior .NET  Developer",
+    "company": "Assigncorp",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/arquitecto-de-software-at-turing-3602179244?refId=zNgbMNsd2RhX641L1eJoDA%3D%3D&trackingId=hNnU5DvJhbybFRgYRZB4JA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEArZRSDCXIlQ/company-logo_100_100/0/1519952138305?e=2147483647&v=beta&t=6krOLrsKNTvTzfdDebZG8qrrimHh3UX6_XYl8K17gxo",
+    "link": "https://mx.linkedin.com/jobs/view/senior-net-developer-at-assigncorp-3604743849?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=osj0yHUVywfpwdj6hQOXGg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "IT Sr Developer (Python)",
+    "company": "K2 Partnering Solutions",
+    "location": "Querétaro, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQETv1qfL80DBw/company-logo_100_100/0/1672170661716?e=2147483647&v=beta&t=TWcfLIJi-c-2HWMYNz7tHfBwj-DNEYcMrq2B58ZTcnY",
+    "link": "https://mx.linkedin.com/jobs/view/it-sr-developer-python-at-k2-partnering-solutions-3599991541?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=YQFfjP%2Bi1HdR9y31G9DRuQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ruby Developer",
+    "company": "Exadel",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQEj8P-2NRbONQ/company-logo_100_100/0/1680772822917?e=2147483647&v=beta&t=N9ITfoWE8eHxXVwM-hng8d_8IgDX3lUuzbOGKavys2E",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ruby-developer-at-exadel-3595148031?refId=TNryiEo7LJDkEkilcc%2BtNg%3D%3D&trackingId=8U4YJ2BH1LZVBLvVUxMLOA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
