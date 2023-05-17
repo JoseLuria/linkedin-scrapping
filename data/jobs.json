@@ -1,177 +1,170 @@
 [
   {
-    "title": "Sr. React Engineer with TypeScript",
-    "company": "Onephase",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFB4WQVcWz1BA/company-logo_100_100/0/1656947292468?e=2147483647&v=beta&t=MqXG6_PNWhoB2O5Hu8r19dNdvahrZ67W3lKgaEZQuOM",
-    "link": "https://mx.linkedin.com/jobs/view/sr-react-engineer-with-typescript-at-onephase-3603646891?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=qzvfneliD3PQMkya2xLyMw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer (Remote) (5000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-remote-5000-usd-mes-at-listopro-3603257473?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=DCYpbwFABKROc98wi5xcJw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Web Developer (Mexico)",
-    "company": "Survalent",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGzW_0OskU6_A/company-logo_100_100/0/1519888892768?e=2147483647&v=beta&t=FFcm6rt36FNWl4U63jBQBRAWFxVWU4ONqOjyqAnArAk",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-web-developer-mexico-at-survalent-3606019073?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=BWUEsJCT4O%2BeoF9dleG0Pw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Fullstack Developer",
-    "company": "DigitalOnUs by Tech Mahindra",
+    "title": "Software Engineer, Senior / Front End",
+    "company": "Varis",
     "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQF0IKDazTJojw/company-logo_100_100/0/1669833478121?e=2147483647&v=beta&t=MhkjIOhQZqapiI55VGEx_DT5JO-IbQUOdnZRVWKvfZU",
-    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-developer-at-digitalonus-by-tech-mahindra-3606068018?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=nk2HmICh68w6B0B0iDsBOg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHC8qKIQQQ96A/company-logo_100_100/0/1681151121478?e=2147483647&v=beta&t=x6_yY8TlK1QXvVQGYHtoZVIl1332ha5S64eOiWQgeFU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-senior-front-end-at-varis-3607089122?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=9aoMlfQyZ72dvVBYVF5KFA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Associate Principal Engineer, Frontend React",
-    "company": "Nagarro",
+    "title": "Software Engineer, Senior / Front End",
+    "company": "Varis",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHC8qKIQQQ96A/company-logo_100_100/0/1681151121478?e=2147483647&v=beta&t=x6_yY8TlK1QXvVQGYHtoZVIl1332ha5S64eOiWQgeFU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-senior-front-end-at-varis-3607089121?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=1QyS9FuistzkYuzaI8VkFw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer, Senior / Front End",
+    "company": "Varis",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHC8qKIQQQ96A/company-logo_100_100/0/1681151121478?e=2147483647&v=beta&t=x6_yY8TlK1QXvVQGYHtoZVIl1332ha5S64eOiWQgeFU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-senior-front-end-at-varis-3607085437?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=crkY4ZqC1dDyZfD0D3Kbhw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer, Senior / Front End",
+    "company": "Varis",
+    "location": "Aguascalientes, Aguascalientes, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHC8qKIQQQ96A/company-logo_100_100/0/1681151121478?e=2147483647&v=beta&t=x6_yY8TlK1QXvVQGYHtoZVIl1332ha5S64eOiWQgeFU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-senior-front-end-at-varis-3607082968?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=Wwui4bWKAYUI36h57cji9g%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "UI Developer ( React)",
+    "company": "Doyensys Inc",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C510BAQFtaS2xzuyxnQ/company-logo_100_100/0/1562763282989?e=2147483647&v=beta&t=eSC9GIwd_YW2ZHPFhwAPs6k4XqeJIem9pqwA5rTKPvk",
+    "link": "https://mx.linkedin.com/jobs/view/ui-developer-react-at-doyensys-inc-3605134552?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=wtJX1dNNn%2B2JUyaRZdK1AQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Programador full stack",
+    "company": "TechTorch",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQGR3xexzEu1wg/company-logo_100_100/0/1682521190838?e=2147483647&v=beta&t=mnqJDry2a6vRIssdkZviExbPgwgnurj-aVSJLMIfn8w",
+    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-at-techtorch-3610114267?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=BKv0YCyF60adhsgfTPsXcQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer, Frontend",
+    "company": "Terminal",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGwYlVY3V5Jdw/company-logo_100_100/0/1554306463654?e=2147483647&v=beta&t=IGxEFzz7NmbHImqA-T3gTBDn8eX5LQyNRyK8BbNDmcg",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-frontend-at-terminal-3607435190?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=erQeBjcf9PXxiqk1uTkEKw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Project Manager",
+    "company": "Ninja Talent",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQF7hrWJ7-XH4A/company-logo_100_100/0/1620310008242?e=2147483647&v=beta&t=VEQC37MmB8wNCVsXqIuc_6BBIbBWNvph-MvnyskOz4E",
+    "link": "https://mx.linkedin.com/jobs/view/project-manager-at-ninja-talent-3607478900?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=TpuhUQhLpxUwlvIL72cP8g%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Native App Developer",
+    "company": "Modyo",
+    "location": "Colombia, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH8dM8WXWD6yg/company-logo_100_100/0/1610736700596?e=2147483647&v=beta&t=rm8rEH6ev2lBY6QRykQRuZUd7yN_FOgF6MhRtxNAX_M",
+    "link": "https://mx.linkedin.com/jobs/view/react-native-app-developer-at-modyo-3610326685?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=XT48lhdTJD3z8G4jJZ1kQw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Junior Full Stack Developer",
+    "company": "Luxoft",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/junior-full-stack-developer-at-luxoft-3609793432?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=mt7eC%2Bl7o3I9YzdoUj9wdw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "micro1",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQErvsAhczMHGg/company-logo_100_100/0/1664399463797?e=2147483647&v=beta&t=BN3Z5jhs7v1y3RrEqhJKOrpiHXwQGNhIk0TG9ykdQY4",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-micro1-3606865946?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=waHo4tgMlKIUiq6y5IfIXQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "OptimHire",
+    "location": "Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGp7rZ1aFRpKQ/company-logo_100_100/0/1631174543872?e=2147483647&v=beta&t=VJ_rLaJWtg5APHStghMPBYQ-NbZZXFu3wp4mqpWIYnY",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-optimhire-3609336669?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=JYqQXR8yDOmVXy9iv6ng%2BA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Technical Lead",
+    "company": "The Ksquare Group",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQETw4gNe0TcLQ/company-logo_100_100/0/1641336918083?e=2147483647&v=beta&t=YCdk3hNMp6Jis2kwFiW3_ocEEfLsNF8-PaoAupry57w",
+    "link": "https://mx.linkedin.com/jobs/view/technical-lead-at-the-ksquare-group-3609254374?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=ok4%2FUWJWFL1ECGV0dQTHMw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Website Accessibility Specialist - LATAM",
+    "company": "Rad Hires",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFTpRtMFMb_ug/company-logo_100_100/0/1678855606332?e=2147483647&v=beta&t=gmpYkgfixGrYP7vUMW5oiUFa3v7yx9EELdPT5gebWIY",
-    "link": "https://mx.linkedin.com/jobs/view/associate-principal-engineer-frontend-react-at-nagarro-3584126130?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=mDMxN%2FN6P6%2BXBML9Nyk0MA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGNTxwcIuWZIA/company-logo_100_100/0/1566537511429?e=2147483647&v=beta&t=aQp-9ApeL5JKMsizCQAPFAJ9eRt8Ffpq7TuBE2jhvr8",
+    "link": "https://mx.linkedin.com/jobs/view/website-accessibility-specialist-latam-at-rad-hires-3609561426?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=e1wWr08J%2BE1HfsLv0H8FFg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Full Stack Engineer",
-    "company": "Summit Digital Group",
+    "title": "Chrome Plugin Developer",
+    "company": "Fusemachines",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQFpBPKrtFEh_A/company-logo_100_100/0/1682490055572?e=2147483647&v=beta&t=yR69PX_VBrZb-dGJ9LgmyBFUpoYYUp2csUmW-USDr0k",
+    "link": "https://mx.linkedin.com/jobs/view/chrome-plugin-developer-at-fusemachines-3609520234?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=NEiPcdSudayUXDK4kPNKGw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Junior FullStack Developer",
+    "company": "Luxoft Mexico",
     "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEOTEHZBPVhlQ/company-logo_100_100/0/1604703158666?e=2147483647&v=beta&t=Bkb3oSJjC2YVyhO68paouoYpAnc7qFrsIwKU2YJq5Og",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-engineer-at-summit-digital-group-3607953572?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=LUcojN%2Bxe0WXprJwbZ%2BdYg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQE8OOrRDiR_jg/company-logo_100_100/0/1666025051100?e=2147483647&v=beta&t=L5Q2tvBiCr3WsUoSJRcEl8j2cg7cTHKNJL8aldYdbL0",
+    "link": "https://mx.linkedin.com/jobs/view/junior-fullstack-developer-at-luxoft-mexico-3609369686?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=Kvb0x86AIQHrgK4thhWAiA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Front-end Engineer (Remote) (6333 USD/Mes)",
-    "company": "Listopro",
+    "title": "Full Stack Engineer",
+    "company": "Terminal",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-remote-6333-usd-mes-at-listopro-3603259308?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=bStjb4Tisp0j33Ppp83ryQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGwYlVY3V5Jdw/company-logo_100_100/0/1554306463654?e=2147483647&v=beta&t=IGxEFzz7NmbHImqA-T3gTBDn8eX5LQyNRyK8BbNDmcg",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-terminal-3607435191?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=Ay2Di%2FgCcWgRewiZfTVgZw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior React Native - Mexico",
-    "company": "Distillery",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGxOHq-tKdacw/company-logo_100_100/0/1656622762915?e=2147483647&v=beta&t=GLOdBBQ51VLVkjOfBkRYf510XcrWN7OJpuxDU95XpAE",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-mexico-at-distillery-3584547312?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=0eGXsUlR%2BXhfDdrXZXwn5w%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Full-stack Python Developer",
+    "company": "Lemon.io 🇺🇦",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGAR9jOH4wgPQ/company-logo_100_100/0/1646735508669?e=2147483647&v=beta&t=DNsl9JY-EhpFUWIpq3xCrkjMhL49aQVo8sHj6LIHY3o",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-python-developer-at-lemon-io-%F0%9F%87%BA%F0%9F%87%A6-3606872463?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=59S1YsFP120MN9Ujz%2FdNBg%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3608431841?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=iYaBVxQF2cD5Mx8lhR1uiw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Front End Developer",
+    "company": "G-P/Globalization Partners",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQE49MzVRvidlg/company-logo_100_100/0/1664856806690?e=2147483647&v=beta&t=WzxkFOaRs3okFlAwaRnWsOcSRHAZwjmbHHjOCASQtFI",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-developer-at-g-p-globalization-partners-3609337563?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=RjyB1hIzDaHNPXzzm0nFEQ%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Engineering Manager (Remote) (10500 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-remote-10500-usd-mes-at-listopro-3603255680?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=OJJPpcbKl5HsT%2BjPWVIaJQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Web Developer",
+    "title": "Front-End Developer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/react-web-developer-at-turing-3602302267?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=HsQtV0oYEtj3nEWbZJHRgQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/front-end-developer-at-turing-3569028337?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=RYOZUDUyzDIyFCfnpCrxIg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Development Engineer (RoR + React) (Remote) (10000 USD/Mes)",
-    "company": "Listopro",
+    "title": "Regular Full Stack",
+    "company": "Luxoft",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/software-development-engineer-ror-%2B-react-remote-10000-usd-mes-at-listopro-3603261046?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=kv3wY2%2BbKq9IPSoKOyjV2Q%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/regular-full-stack-at-luxoft-3609794557?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=AGDd9EVizjGA%2BrcncxHT2g%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Forecasting Data Scientist",
-    "company": "Mondelēz International",
+    "title": "Director principal de ingeniería",
+    "company": "Hexaware Technologies",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHLL6HXmuKLfg/company-logo_100_100/0/1656668279414?e=2147483647&v=beta&t=99Me_3upBLodhy-ruxWx6strqDpn5_BSxLMsggTgZ1g",
+    "link": "https://mx.linkedin.com/jobs/view/director-principal-de-ingenier%C3%ADa-at-hexaware-technologies-3604540796?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=tlL0L09nhx5YHTmnXHi0Vw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer II, Paid Advertising",
+    "company": "Etsy",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEXpvlmPQN68Q/company-logo_100_100/0/1627661808176?e=2147483647&v=beta&t=PZVRC60uy7Uxx8hWU2ulOQls7mwfPYqksyQDDqwhDNo",
-    "link": "https://mx.linkedin.com/jobs/view/forecasting-data-scientist-at-mondel%C4%93z-international-3606476978?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=Aia3zwpuo437234Ns0Jglw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQH54mBKd3375Q/company-logo_100_100/0/1562622034895?e=2147483647&v=beta&t=1tA0G6dvlfxKmHV9WuhlZkamm84bUvZ4ekc_gqvdc4o",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-ii-paid-advertising-at-etsy-3571781828?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=hKwu8AGi34Qsqaw0uIPWiA%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full Stack Sitecore Engineer",
-    "company": "IT Unlock",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGJ9u3eoZ5wrg/company-logo_100_100/0/1582930848031?e=2147483647&v=beta&t=npa3KHlUAshtrKSJ99mYeNOlR_GKRhdl4MgILOZxSBE",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-sitecore-engineer-at-it-unlock-3608509413?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=OEsHOlazseNMt7Q2H6307A%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3608437058?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=7NS6n6VksIoEVE80JM%2FoGw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. FullStack Engineer (Node and React) (Remote) (7000 USD/Mes)",
-    "company": "Listopro",
+    "title": "Full Stack Engineer",
+    "company": "Luxoft",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-node-and-react-remote-7000-usd-mes-at-listopro-3603257480?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=UKTpVJA5GWe7ZCx2qBKRVg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Staff Engineer, Java Fullstack",
-    "company": "Nagarro",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFTpRtMFMb_ug/company-logo_100_100/0/1678855606332?e=2147483647&v=beta&t=gmpYkgfixGrYP7vUMW5oiUFa3v7yx9EELdPT5gebWIY",
-    "link": "https://mx.linkedin.com/jobs/view/staff-engineer-java-fullstack-at-nagarro-3603684980?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=Dd6sLqikBq46%2BK7b1Txhuw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Full-stack software developer (Remote) (10700 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-software-developer-remote-10700-usd-mes-at-listopro-3603261031?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=Bu1sqhUvmeRiTzsbBQcPVQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3608434467?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=%2BV%2FoLVdxQaSq4ZZQUOBzcg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Backend API Engineer",
-    "company": "Right Balance",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQF5hqw9O5mTMA/company-logo_100_100/0/1561089264532?e=2147483647&v=beta&t=8MILMdxpwhjIqsa-jvcSB6Ri-8tkQH8t2APDreB3ZRc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-backend-api-engineer-at-right-balance-3603258946?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=JNudmQIUTQyLL0Vl2Hm%2BtA%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Integrations Engineer (Remote) (7000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/integrations-engineer-remote-7000-usd-mes-at-listopro-3603255653?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=%2BRAUzVwpkuQtL5nHWUy8GA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3608431868?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=5UhFZH3gSAj6GJ9o7y8%2Ffw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java Technical Lead",
-    "company": "VDart",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGkEh13tEHoWQ/company-logo_100_100/0/1672153667282?e=2147483647&v=beta&t=qmDeW0b239qsvFUA1p6tLeFyPiE9VstzYCD816_Bfg4",
-    "link": "https://mx.linkedin.com/jobs/view/java-technical-lead-at-vdart-3603611590?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=0DtD9Z5LU9%2BbDOiagswpbA%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr PHP Engineer (Remote) (7000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEm95fhY4FPxA/company-logo_100_100/0/1625492134653?e=2147483647&v=beta&t=JZhu3MeZAgLkO0KovChz69IDztcoFE_0a5FquHguCw8",
-    "link": "https://mx.linkedin.com/jobs/view/sr-php-engineer-remote-7000-usd-mes-at-listopro-3603259382?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=Atn2rSgvH384%2BCoPg3Jzug%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-us%24-9000-month-remote-at-revelo-3608433484?refId=CBV98nSi43So27rll7cL0g%3D%3D&trackingId=zEV0ZCNoWEy%2BAbbq4PCLzw%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-luxoft-3609066483?refId=VWOOFtifaV0IPNrKofwY6Q%3D%3D&trackingId=MXPJauCooKdN370labcfPQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
