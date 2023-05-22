@@ -1,51 +1,79 @@
 [
   {
-    "title": "Web UI Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/web-ui-developer-at-turing-3610970178?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=vAJeU1NydMPqzjCPNABB%2Bw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Technical Lead/ Manager, UI Engineering",
+    "company": "Netskope",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHJWj61aiI8uQ/company-logo_100_100/0/1657034236946?e=2147483647&v=beta&t=n4g3guPFs8_KaPvGLR5HUMUCKnuGNpJppujZ_4zp0K0",
+    "link": "https://mx.linkedin.com/jobs/view/technical-lead-manager-ui-engineering-at-netskope-3457662102?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=aksE%2BX3%2BOMQrGzFcD0KIdw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Front-end",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3606011227?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=s0sUvFVOQ3mr3gOX%2FH%2Fz2g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3606011227?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=KVpeQTVtAugACGzIxMjd8A%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Launchpad Technologies Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-launchpad-technologies-inc-3403242950?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=Yoapbl9bINyYjLMLktfRrw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Javascript Full Stack Engineer - Remote",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3614540683?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=ZX1sj516BdL6jCpFK5Az4A%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Architect",
+    "company": "VASS LATAM",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQF3bBMqndK26A/company-logo_100_100/0/1600033453757?e=2147483647&v=beta&t=NNkGuE9YODLA-tdrVaRX7Y-U_sK0WlKXgyck5JDXUvw",
+    "link": "https://mx.linkedin.com/jobs/view/software-architect-at-vass-latam-3525665474?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=KwtRbLZDtTyqtcAIsSAGoA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Junior Python Developer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/junior-python-developer-at-turing-3606009639?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=uao0BXcQrS2HZrFVVCn3lw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/junior-python-developer-at-turing-3606009639?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=FpKDRpYame%2FNRn42Ve40aw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full Stack Developer (Java + Apache Camel)",
-    "company": "Launchpad Technologies Inc.",
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-java-%2B-apache-camel-at-launchpad-technologies-inc-3525731713?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=PXIgIpOC2Ud6tgWsQHXFJQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3614517032?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=pRoFzBgU3VeuoDMCVnSzyg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3614519121?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=mNTqTR4D4q5rMnI%2FSeH8Jg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Full Stack",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606011220?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=m8a7yo2dge0N9UA6aBBlRA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606011220?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=7RcrziSCmLrVioNmDSwyxA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Full Stack",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606007825?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=VnhI220ee5E9Y0u0rdSSiA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606007825?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=OnjwMsCj%2FpsfeteNi2V45Q%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Mobile Engineer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-turing-3606009668?refId=y0TPacnZ6h%2FU2XA2Cz7%2BbA%3D%3D&trackingId=05UIr0ZixenPRaMgS%2FS5jQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-turing-3606009668?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=FYgjStG8O9Qmr18HZvPang%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
