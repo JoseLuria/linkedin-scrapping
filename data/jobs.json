@@ -1,79 +1,163 @@
 [
   {
-    "title": "Technical Lead/ Manager, UI Engineering",
-    "company": "Netskope",
+    "title": "Javascript Developer",
+    "company": "Alex Staff Agency",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGdnHVBvzgDGA/company-logo_100_100/0/1553659412247?e=2147483647&v=beta&t=h3V_YAZeZT-wiIBLke_lM28N66OM3oD8VmfpTeFEkwc",
+    "link": "https://mx.linkedin.com/jobs/view/javascript-developer-at-alex-staff-agency-3612844817?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=vPbYF2xPs41WHJOxaI%2FF7w%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Code People",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHJWj61aiI8uQ/company-logo_100_100/0/1657034236946?e=2147483647&v=beta&t=n4g3guPFs8_KaPvGLR5HUMUCKnuGNpJppujZ_4zp0K0",
-    "link": "https://mx.linkedin.com/jobs/view/technical-lead-manager-ui-engineering-at-netskope-3457662102?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=aksE%2BX3%2BOMQrGzFcD0KIdw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQEX_jfSYKROzw/company-logo_100_100/0/1681503044622?e=2147483647&v=beta&t=lmwO1eRxmy8AAx1Q9KTwcX10FtQ5Js0EuOBoBSnwy3A",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-at-code-people-3609444154?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=LCRluqauWkEi22ydNrR%2B8w%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Next.js Developer",
+    "company": "In All Media",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFe0E1rZ3ixrA/company-logo_100_100/0/1529591267302?e=2147483647&v=beta&t=p4eIuil3-dZ5CvK3l2jIoIuZP5tRrI-xOKZVNG0lYAU",
+    "link": "https://mx.linkedin.com/jobs/view/next-js-developer-at-in-all-media-3615487032?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=FWHYGA6AP30QRLWAcWk2jw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Nimble Gravity",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHYplYQLGHybQ/company-logo_100_100/0/1647449170473?e=2147483647&v=beta&t=DpcvCSmiuiBM4Ajs4bT4m-cqR5MvOpznC8CqI1Zqs9Q",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-nimble-gravity-3608690710?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=bSgGzZ3EFXecvwksjhxvwA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Frontend Developer",
+    "company": "QuinStreet",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEYALMztjZfIw/company-logo_100_100/0/1654114943620?e=2147483647&v=beta&t=B9-9PJHOhZ7dUxCsWHwPNC3Yk0ZIJ1o0PQOWgmvF8DM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-frontend-developer-at-quinstreet-3612817174?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=areSVlYsKmU6CJmYxDACBw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "UI engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_100_100/0/1656657976685?e=2147483647&v=beta&t=aUjRtSDvFe232SyMxV9kKrZSrJAajLq78SVtG8KmrJU",
+    "link": "https://mx.linkedin.com/jobs/view/ui-engineer-at-tata-consultancy-services-3614947029?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=vbNAEVz3jNEba5bAHfDbPg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Test Engineer",
+    "company": "Mitek Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHMfhMcRkGlgg/company-logo_100_100/0/1664989090405?e=2147483647&v=beta&t=k5yCyODFzu94CaBB5Z6OJWvfJrhMZboXeQqeymEO6_Y",
+    "link": "https://mx.linkedin.com/jobs/view/software-test-engineer-at-mitek-systems-3609404346?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=77Na9pLcbzhS4dV1oT02UQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Engineering Manager, Growth Acquisition - Mexico",
+    "company": "Gusto",
+    "location": "Venustiano Carranza, Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFZGx6Iv5Ci2Q/company-logo_100_100/0/1564415666280?e=2147483647&v=beta&t=Vr2vibsAkQlQuTAhO5PkT7m1VR4mtAERW0zNujLiUqo",
+    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-growth-acquisition-mexico-at-gusto-3612829229?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=nfFFPl4HPptve0noaxEtDQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "ConsenSys",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEewpHGX7ikKg/company-logo_100_100/0/1680785177908?e=2147483647&v=beta&t=UaYIAs-vl_MYmEGH_cH0D6CU6yas33IpJWlECJwD2uU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-consensys-3614953900?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=xhXfTI1uxmjqdgGWgNhB%2BA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Full-stack Software Engineer (Python/React)",
+    "company": "Virtualmind",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGY_IShwN8OGw/company-logo_100_100/0/1668606178158?e=2147483647&v=beta&t=q1iLVl_2q3Bwvn-xmjY1lYik_2nnWnhK_rLOK6oy6uU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-software-engineer-python-react-at-virtualmind-3614971559?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=MUBcvopmQLmt08acnOHxxA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React.js Front-End Web Developer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/react-js-front-end-web-developer-at-turing-3583255107?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=hpQkogex33GcuXBiXL889Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Full Stack Engineer, WorldstarHipHop",
+    "company": "MediaLab",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG1bJw02eFvSg/company-logo_100_100/0/1551909873264?e=2147483647&v=beta&t=StM5SC8YjWgoMOkXcu0pngZLOeWHYA9lEyWuOwhwLxA",
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-engineer-worldstarhiphop-at-medialab-3614723634?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=wCghPaZj3Nav%2FEbmutq2Bg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Front-end",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3606011227?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=KVpeQTVtAugACGzIxMjd8A%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3606011227?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=dYlt6UEMby67fNKRdcGt9w%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer",
-    "company": "Launchpad Technologies Inc.",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-launchpad-technologies-inc-3403242950?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=Yoapbl9bINyYjLMLktfRrw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Javascript Full Stack Engineer - Remote",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3614540683?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=ZX1sj516BdL6jCpFK5Az4A%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Backend Engineer - Elixir",
+    "company": "Remote",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEOQ9jwIwYoeA/company-logo_100_100/0/1657211835161?e=2147483647&v=beta&t=lja6JUwWX2gZA7t97zXfe5CgLEnC-VjW9LBDw7snt5M",
+    "link": "https://mx.linkedin.com/jobs/view/backend-engineer-elixir-at-remote-3610798217?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=Z0iMnhNKKmRxE%2FDJHG0x3w%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Software Architect",
     "company": "VASS LATAM",
     "location": "Mexico City, Mexico",
     "image": "https://media.licdn.com/dms/image/C4E0BAQF3bBMqndK26A/company-logo_100_100/0/1600033453757?e=2147483647&v=beta&t=NNkGuE9YODLA-tdrVaRX7Y-U_sK0WlKXgyck5JDXUvw",
-    "link": "https://mx.linkedin.com/jobs/view/software-architect-at-vass-latam-3525665474?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=KwtRbLZDtTyqtcAIsSAGoA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/software-architect-at-vass-latam-3525665474?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=BU18XKUMqlt4m8ILNS55%2BQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Junior Python Developer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/junior-python-developer-at-turing-3606009639?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=FpKDRpYame%2FNRn42Ve40aw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/junior-python-developer-at-turing-3606009639?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=jjxgfJ58CmO2TpxROQYvmg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "QA Automation Engineer",
-    "company": "Clevertech",
+    "title": "Backend Engineer - Elixir",
+    "company": "Remote",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3614517032?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=pRoFzBgU3VeuoDMCVnSzyg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEOQ9jwIwYoeA/company-logo_100_100/0/1657211835161?e=2147483647&v=beta&t=lja6JUwWX2gZA7t97zXfe5CgLEnC-VjW9LBDw7snt5M",
+    "link": "https://mx.linkedin.com/jobs/view/backend-engineer-elixir-at-remote-3614723925?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=%2Fxny18LgdoQWajjr0C3UuA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "QA Automation Engineer",
-    "company": "Clevertech",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3614519121?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=mNTqTR4D4q5rMnI%2FSeH8Jg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Web3 Blockchain Engineer",
+    "company": "ConsenSys",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEewpHGX7ikKg/company-logo_100_100/0/1680785177908?e=2147483647&v=beta&t=UaYIAs-vl_MYmEGH_cH0D6CU6yas33IpJWlECJwD2uU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-web3-blockchain-engineer-at-consensys-3615157077?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=DPPUTparV1DciInIBfN%2F%2BQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Full Stack",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606011220?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=7RcrziSCmLrVioNmDSwyxA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606011220?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=u1bB5Mj8ZS%2Fu5ldw1QEsUA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Associate Staff Engineer, .Net Fullstack",
+    "company": "Nagarro",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFTpRtMFMb_ug/company-logo_100_100/0/1678855606332?e=2147483647&v=beta&t=gmpYkgfixGrYP7vUMW5oiUFa3v7yx9EELdPT5gebWIY",
+    "link": "https://mx.linkedin.com/jobs/view/associate-staff-engineer-net-fullstack-at-nagarro-3608670388?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=nu7%2F5VNozDqCwYsC8VRCSw%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-turing-3606005445?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=NmSroJw4rxmqJQ0B%2FfBr5A%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ingeniero Full Stack Senior",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-senior-at-turing-3606010400?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=VrIQ2jq%2FlyaKNAqfUgc4Zw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Ingeniero Full Stack",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606007825?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=OnjwMsCj%2FpsfeteNi2V45Q%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mobile Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-turing-3606009668?refId=tROjVQFGz%2BqD%2Bs5kJhz%2FOQ%3D%3D&trackingId=FYgjStG8O9Qmr18HZvPang%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-full-stack-at-turing-3606007825?refId=bODGNYOK9mwju0MkfCs%2BUA%3D%3D&trackingId=jXp6JZqXLYIjFEPx0t2MGQ%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
