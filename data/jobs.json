@@ -1,170 +1,44 @@
 [
   {
-    "title": "Full Stack Developer",
-    "company": "iOLAP",
-    "location": "Guadalajara, Mexico Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEeXVkTZkkHlg/company-logo_100_100/0/1657022692178?e=2147483647&v=beta&t=WMoCU5xWFQffpo9ugCtXCYHJG6ea1EnkWXOVG_dHw7Q",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-iolap-3613016304?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=L4kZ1D3bDsx6O0555dbgGg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Engineering Manager, Growth Acquisition - Mexico",
+    "company": "Gusto",
+    "location": "Venustiano Carranza, Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFZGx6Iv5Ci2Q/company-logo_100_100/0/1564415666280?e=2147483647&v=beta&t=Vr2vibsAkQlQuTAhO5PkT7m1VR4mtAERW0zNujLiUqo",
+    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-growth-acquisition-mexico-at-gusto-3618447573?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=7UkTdveJJCm102JxcjHgpw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Digital Solutions | Frontend Developer",
-    "company": "TELUS International",
+    "title": "Java Full Stack Developer",
+    "company": "ACL Tech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHAe-roNpTebg/company-logo_100_100/0/1657119739427?e=2147483647&v=beta&t=lu_danQd3gSg0HrrkR7TQ8iEgPuacW0Fb8lru9Cs2gM",
-    "link": "https://mx.linkedin.com/jobs/view/digital-solutions-frontend-developer-at-telus-international-3598797445?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=OmP%2F%2F%2BFFzFDmTW0eh8kKsA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGlwPKzYuRs7w/company-logo_100_100/0/1676579188820?e=2147483647&v=beta&t=ZCfTyHdufwBl6vKunuXrEQFtIUDvmSyk2JWMcABymsM",
+    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-at-acl-tech-3587780375?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=CZfUsngFFKq4PsLri5w80w%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "(NIBBIO)FullStack Developer",
-    "company": "Terss",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFXQImJd81LQg/company-logo_100_100/0/1609252249577?e=2147483647&v=beta&t=86E1Z_xNMzMkBnoKP0zz3Ob7afJVPSP5L_fY9CvymdY",
-    "link": "https://mx.linkedin.com/jobs/view/nibbio-fullstack-developer-at-terss-3619216412?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=p74MOuJg8ggjKe53mx77MQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Developer",
-    "company": "G-P/Globalization Partners",
+    "title": "Cloud Senior Software Engineer",
+    "company": "Caylent",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQE49MzVRvidlg/company-logo_100_100/0/1664856806690?e=2147483647&v=beta&t=WzxkFOaRs3okFlAwaRnWsOcSRHAZwjmbHHjOCASQtFI",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-developer-at-g-p-globalization-partners-3569135958?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=lW8LPBPEbx1xXn99t7Y83A%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGSclMLYvLqRg/company-logo_100_100/0/1632746193629?e=2147483647&v=beta&t=_vwrKncqj7MLHuKXQTwRmlzIiHN30T4dp5yUV7oa4hE",
+    "link": "https://mx.linkedin.com/jobs/view/cloud-senior-software-engineer-at-caylent-3570415229?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=wdec8z1qCVDTLEk74ZLWdg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Flutter Developer",
-    "company": "Inflection Point Systems",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGix76PRm0M_Q/company-logo_100_100/0/1662651309371?e=2147483647&v=beta&t=6olT-aUMx4O987kbCilc357FvHLpyDUQgbhModwJDek",
-    "link": "https://mx.linkedin.com/jobs/view/flutter-developer-at-inflection-point-systems-3619383042?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=srObUaCLNUimt5ryXIyvdQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3619238307?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=U83U%2Bm7WvjW%2BBMk0IfklaA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "FullStack .NET React Developer",
-    "company": "Concentrix Catalyst",
+    "title": "Cloud Software Architect",
+    "company": "Caylent",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEzqaKvt8w0ZA/company-logo_100_100/0/1654281457237?e=2147483647&v=beta&t=zmrk6vBj3p-Ml_JPHTDPpK4rz8MEhAGp5O7h37RIdrA",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-net-react-developer-at-concentrix-catalyst-3619245437?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=uVAQ0GS9QmppaLpQ0F%2F7Pg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3619234678?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=ztG9MGwTmVeu8aQF2hPmkA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3619238321?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=FgxnE57HdF6jG1JTMz0xhA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3619236612?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=cIRCDYAcLtMvMnLjzMnxxQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mobile Developer (Ionic + Angular)",
-    "company": "Atos",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEA-7akfn4FzA/company-logo_100_100/0/1638575002083?e=2147483647&v=beta&t=wZCNRWdvU39X6Idd28KA3vhmzMI6_3qEkBmcdgFobys",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-developer-ionic-%2B-angular-at-atos-3617407662?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=IbxsA6D3xYRBZadvg6naIQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-us%24-9000-month-remote-at-revelo-3619235687?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=XReppHPpg%2BBFGdW9C2DQ5w%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Digital Solutions | Platform Architect",
-    "company": "TELUS International",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHAe-roNpTebg/company-logo_100_100/0/1657119739427?e=2147483647&v=beta&t=lu_danQd3gSg0HrrkR7TQ8iEgPuacW0Fb8lru9Cs2gM",
-    "link": "https://mx.linkedin.com/jobs/view/digital-solutions-platform-architect-at-telus-international-3599010417?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=YbskSN0t109ROq1KquBQNQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full-Stack Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3618131230?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=ATiDi22Hkz57b2GRsTaL0w%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Staff Backend Engineer (Cloud Dev)",
-    "company": "Docker, Inc",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGZq-jtaJfVgQ/company-logo_100_100/0/1644537076341?e=2147483647&v=beta&t=jTVol1orywCaV8J17AyPEeuQ5FWOlkFF5XXFPYWuUIc",
-    "link": "https://mx.linkedin.com/jobs/view/staff-backend-engineer-cloud-dev-at-docker-inc-3612383935?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=rNOjQv72VJpRxVBrrQsnGQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3619338617?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=N3E88alO3lnggNxCYKmLvA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Automation Tester",
-    "company": "EPAM Anywhere",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-automation-tester-at-epam-anywhere-3617494919?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=KUZZIGOjfFz9YYz3dqk0QA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-at-turing-3617801652?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=fpoqERMedG4wT6xkkYb8Ig%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGSclMLYvLqRg/company-logo_100_100/0/1632746193629?e=2147483647&v=beta&t=_vwrKncqj7MLHuKXQTwRmlzIiHN30T4dp5yUV7oa4hE",
+    "link": "https://mx.linkedin.com/jobs/view/cloud-software-architect-at-caylent-3570410890?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=7arIBQMdkBY6znXbUrlRkw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Full-Stack (FE-heavy) Developer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-fe-heavy-developer-at-turing-3617803047?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=HnbmXa%2F0KeaKk5FHgzsR3w%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-fe-heavy-developer-at-turing-3617803047?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=tif%2BdNx1wM9jkI414m9FWw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Back-End-Heavy Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-back-end-heavy-engineer-at-turing-3617497804?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=rNr3ZBH7OqsoHTxpfmN8Vg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": ".NET Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
-    "link": "https://mx.linkedin.com/jobs/view/net-developer-at-turing-3618130726?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=wIkFxkvi%2FAOcYeu00SbYqw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3619340378?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=x%2FOutNwJJ5bY3FOaU%2FY6hw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3619336779?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=dDgkAJYRFFYSOPcRumHXRw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3619337660?refId=YTHIz06%2BWq9KTtWC6OiIkw%3D%3D&trackingId=GieQFLRSantInh3pF4KaaQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer (Full-Time Contractor)",
+    "company": "Varsity Tutors, a Nerdy Company",
+    "location": "Córdoba, Veracruz, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGv6PHLXLhQiA/company-logo_100_100/0/1551895923700?e=2147483647&v=beta&t=QkcpHmICiwPrHJ7TYHEJf9dbJk1WHQkAE9puXrVMcdc",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-full-time-contractor-at-varsity-tutors-a-nerdy-company-3599061853?refId=%2F%2B1J3kdvewD8qBp1QJC%2FGQ%3D%3D&trackingId=%2Fc7JAB7sZlDG1TceQqHMxQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
