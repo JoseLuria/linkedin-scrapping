@@ -1,9 +1,156 @@
 [
   {
-    "title": "DEVELOPER (.Net+React )",
-    "company": "Alset",
+    "title": "FullStack developer (Java + React)",
+    "company": "Atos",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEA-7akfn4FzA/company-logo_100_100/0/1638575002083?e=2147483647&v=beta&t=wZCNRWdvU39X6Idd28KA3vhmzMI6_3qEkBmcdgFobys",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-java-%2B-react-at-atos-3619495277?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=yAIYevDHnjJcigZSesDexA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Fullstack Engineer (React & Node)",
+    "company": "TrueNorth",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGtIfSOM6Yxyw/company-logo_100_100/0/1523481404443?e=2147483647&v=beta&t=aNprcfrjfVAOjTCgp9HQ362Hp70sLN_VVYH3j__Os2M",
-    "link": "https://mx.linkedin.com/jobs/view/developer-net%2Breact-at-alset-3616108810?refId=%2BwQ0VRm3TUSBt4fzUfmVlw%3D%3D&trackingId=oN%2BTMhZ48DreUrW2eio0yQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFINC7ia0GMxA/company-logo_100_100/0/1657718620455?e=2147483647&v=beta&t=c8kNr3gzf_a96K4pJbBy4t8d1hwA-hSxaGTmkzAGjcc",
+    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-react-node-at-truenorth-3620422822?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=ci8tfRppI%2FWSqeh%2BvUrOww%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Front-End Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3619631964?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=uFscBxUQ%2F98R1YbBEzLPOA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-autodesk-3619678833?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=A31laHhrQrkumDihBCVyhw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Full Stack Engineer",
+    "company": "TrueNorth",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFINC7ia0GMxA/company-logo_100_100/0/1657718620455?e=2147483647&v=beta&t=c8kNr3gzf_a96K4pJbBy4t8d1hwA-hSxaGTmkzAGjcc",
+    "link": "https://mx.linkedin.com/jobs/view/sr-full-stack-engineer-at-truenorth-3620427142?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=mQ9Tdqs9ZzgeyMJQk%2F1uWw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Principal Web Engineer",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/principal-web-engineer-at-autodesk-3619680743?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=362hC0kq9IrGSwdClm9D9Q%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-autodesk-3619680706?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=WsMo6sholZnW2EGgc0Vc3g%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Software Engineer",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-at-autodesk-3619676892?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=vTIovnRIMjt31Y4muzvm6g%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Drupal Developer",
+    "company": "Rootstack",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGQfFfmFA3f0A/company-logo_100_100/0/1677532027114?e=2147483647&v=beta&t=n7tGmOVmzurzw2JEkjbLzIwkJj3CSeuLf6OebAg1awg",
+    "link": "https://mx.linkedin.com/jobs/view/drupal-developer-at-rootstack-3622411763?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=DuWDo8eYvug2J1kbZduvcA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Javascript Full Stack Engineer - Remote",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3622348225?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=22XLwm4nUseEOzDjzvL6OA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Remote GDL, Monterrey, Mexico City)",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-remote-gdl-monterrey-mexico-city-at-autodesk-3619677928?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=zOVEI1hMacTW5pmecamMVQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3622393292?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=SwzfZRaOAHPT6z20P%2F7Bxw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3622392065?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=I3oZhS0%2BUlSlRmTURhqybQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Front-End Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-at-turing-3619624913?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=UPZrhPoGSS5aejHtl9MHPQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Salesforce Developer",
+    "company": "EPAM Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_100_100/0/1677598469595?e=2147483647&v=beta&t=WLHlNmufk1-ckPTV4cn78DpvVASFrILtubIFw-d8QB8",
+    "link": "https://mx.linkedin.com/jobs/view/sr-salesforce-developer-at-epam-systems-3619690365?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=9O%2BQDoElkIr3EGr7LzUaoQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Front-End React Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-react-engineer-at-turing-3619630534?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=8hpm318O9Ou3mninPTInlw%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3618131230?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=EzehQ%2BXHrpDdfSLZnmw7Ew%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Native Developer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-at-turing-3617801652?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=YAahrpU9YZ%2B94BNYp42hAw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ionic + React Engineer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-engineer-at-clevertech-3622403984?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=qVN1U9cWOeXgKVaGlnpiMQ%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Principal Software Engineer - Cloud (Remote Gdl, Monterrey, Mexico City)",
+    "company": "Autodesk",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEbID5EjKkN7A/company-logo_100_100/0/1656693231377?e=2147483647&v=beta&t=no-I9qO6L9m--YDyJ0uwaLCKc47xcX_evYsH6rIIiWQ",
+    "link": "https://mx.linkedin.com/jobs/view/principal-software-engineer-cloud-remote-gdl-monterrey-mexico-city-at-autodesk-3619683008?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=QCEkFAwOHcPFDvFZQJw41g%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Azure Developer",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-azure-developer-at-epam-anywhere-3619602985?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=JXHQ9VcPXY2zBRXkhShgyQ%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Full-Stack Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-engineer-at-turing-3619631542?refId=iGop5FB9fT%2Bam1a2Y4xWQQ%3D%3D&trackingId=%2FacgUwkhsYO3fAHMLcb0nA%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
