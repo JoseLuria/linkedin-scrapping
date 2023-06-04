@@ -1,177 +1,79 @@
 [
   {
-    "title": "Senior Frontend Developer",
-    "company": "Divelement",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFAJpx3ki0Hug/company-logo_100_100/0/1656943414771?e=2147483647&v=beta&t=IC9yx5on42cpIMTcaOOpM6ggotzy-JYgo_mERyb-fpg",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-divelement-3620831030?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=gjWDof8bYKkEhjiupdWbJw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Programador full stack",
-    "company": "King Tide",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQH5v4OAv5wN5w/company-logo_100_100/0/1582053214590?e=2147483647&v=beta&t=kc710H8GIGPlhEVB4yh1mpsuqnYMYCCQ-OSJrEXt_9A",
-    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-at-king-tide-3620812122?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=aO8HI9MragOxF%2FmuSn7v%2Fw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer",
-    "company": "Divelement",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFAJpx3ki0Hug/company-logo_100_100/0/1656943414771?e=2147483647&v=beta&t=IC9yx5on42cpIMTcaOOpM6ggotzy-JYgo_mERyb-fpg",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-at-divelement-3620827203?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=nP0w6NbPSp1ZhkDTNrEx2g%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Node Engineer - Work from home",
-    "company": "Nearsure",
+    "title": "Senior Full Stack Developer (with AI/ML skills)",
+    "company": "Community Marketing",
     "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHCbQSa6YnOmw/company-logo_100_100/0/1658941852063?e=2147483647&v=beta&t=DAfM-VU3Oa0PakWQlLJ1DanFxm8NQRtKX7QmrRhFw3A",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-node-engineer-work-from-home-at-nearsure-3620824893?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=RQNZ%2FumagKJUvmwvk4WF3Q%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQE2BF9PRsqgxA/company-logo_100_100/0/1651532598010?e=2147483647&v=beta&t=3ArOB3dVwM-ge0yLEkZZF6bP04zHAN4uxGF2FPU6P2U",
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-with-ai-ml-skills-at-community-marketing-3621352347?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=6QHYKYA9rcXJ6sB%2BYvSPog%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Full Stack Developer",
-    "company": "Crossbridge Global Partners",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEiQqyHEMNQPQ/company-logo_100_100/0/1667593884232?e=2147483647&v=beta&t=wxbUVGzOauWLSkgVFE7u-nnmbLMgLtPNkVUAKY2DuYY",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-at-crossbridge-global-partners-3620275809?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=UNNONHaxfWEzo9erwSs%2Fzg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "SDET - Automation with React",
-    "company": "Atos",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEA-7akfn4FzA/company-logo_100_100/0/1638575002083?e=2147483647&v=beta&t=wZCNRWdvU39X6Idd28KA3vhmzMI6_3qEkBmcdgFobys",
-    "link": "https://mx.linkedin.com/jobs/view/sdet-automation-with-react-at-atos-3624607997?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=xeaKZWRiwiLM45e7f5gNxw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Lead",
-    "company": "Guros",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGTtzqQJfPg0A/company-logo_100_100/0/1657056080694?e=2147483647&v=beta&t=81Cg5RNScf5WKPr5qwW7LGSXfQ_EHdtCi7-3WT-HgNY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-lead-at-guros-3620813035?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=KbGBNtAwTgvHdOo4Xe1GAw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3625861577?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=nhaV0K9ovPVHLFXY5EZAww%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3626680200?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=upql64wkOOHxxayoNXhfZQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Programador Front-end",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/programador-front-end-at-turing-3622911228?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=BgCdal9ghWRmu2j0ih2brw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3626676600?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=p4LxOiCkNn0RHbpztiIELw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Shopify Expert with React",
-    "company": "Globant",
-    "location": "Ciudad Madero, Tamaulipas, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQH89kjhbdta7w/company-logo_100_100/0/1685727125394?e=2147483647&v=beta&t=aENz_qh6yrQq2ioaPmB0Po5NZDO2FjoddyvpoiKpPFw",
-    "link": "https://mx.linkedin.com/jobs/view/shopify-expert-with-react-at-globant-3604228281?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=sLA1DKWP9lgVdYuALEwsLA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3625862223?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=v6LtZlQBbad0%2F1lWgt%2BEWw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Sitecore Engineer",
-    "company": "The Wise Seeker",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFp09rhMaqXJg/company-logo_100_100/0/1667897836942?e=2147483647&v=beta&t=OBXq-H_YygRbPYDHmvXehm7eIYgz9zoYOvE43bm7oZ4",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-sitecore-engineer-at-the-wise-seeker-3626062920?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=uqKRS7JpB4tniZRFcSgSZQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-End/Shopify Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-shopify-developer-at-turing-3622905598?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=YmHjPLaBV4z0V8Xb3MugDQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Sitecore Engineer",
-    "company": "The Wise Seeker",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFp09rhMaqXJg/company-logo_100_100/0/1667897836942?e=2147483647&v=beta&t=OBXq-H_YygRbPYDHmvXehm7eIYgz9zoYOvE43bm7oZ4",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-sitecore-engineer-at-the-wise-seeker-3626020353?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=HWD9SYCMV7ZNefecqCgV7w%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Programador React/TypeScript",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/programador-react-typescript-at-turing-3624663545?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=6oBpUj3ZEj4uesBsv3Hw9Q%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React/TypeScript Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/react-typescript-developer-at-turing-3624661734?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=T%2BWSmQLyYjothr9tpLsMzQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3625859771?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=cvvmTPxLgnBT8cWd%2BzkXgw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3626681115?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=f8hVupMTxf2trcwRSOv6nQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Front-End Software Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-software-engineer-at-turing-3622911253?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=stdqFuorPqjByDJywSLjSw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3626679207?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=xbD3oI3tq5q6tpfTyPdqTg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "React Native Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-us%24-9000-month-remote-at-revelo-3625855998?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=eNv30pLM2p9lu%2BmWrXiFMA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero Front-end Senior",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-senior-at-turing-3622909327?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=cmrWhl3dghtIv%2BRFd7Hf1A%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-us%24-9000-month-remote-at-revelo-3625859766?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=EykDx7wRt9ST6zlJyvXJtw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3626674934?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=mZdOyCfMED7JNKba0MLtQQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Front-End Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-at-turing-3622911256?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=yAoz0QNcjSOKufEM%2Bxjeiw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3626679217?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=3Kxf7n0h1TvRYdotCSaE7A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ingeniero Front-end Senior",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-senior-at-turing-3624661598?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=P3RLrRwL94iC89OBJHMEKg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3626679219?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=kptlyoFcL39yqsfSvGHfRQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Front-End Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-at-turing-3622908384?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=gTCPpm4MVsG5A%2BPJk25eBA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3626676612?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=z41%2F8aDwMVzd1VZY3X4HRg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Staff Engineer, Java Fullstack",
-    "company": "Nagarro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFF04fapxfPcQ/company-logo_100_100/0/1685614008974?e=2147483647&v=beta&t=tqy7x9HDU7oYKQfQv9QgG9fEvsqI_dYFBRkwf3343Zg",
-    "link": "https://mx.linkedin.com/jobs/view/staff-engineer-java-fullstack-at-nagarro-3620866710?refId=kNHXUPIi5SjvuPElbCQipQ%3D%3D&trackingId=IUSj4VP%2Br8gKbQMfpLRvfQ%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3626678534?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=slsCjd%2FCAUxU%2FRtOKWiHnw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3626680203?refId=nqdOEtuBslH1usWEdP4JJQ%3D%3D&trackingId=sRdh8qVsgg8UsqI5Owxp4w%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
