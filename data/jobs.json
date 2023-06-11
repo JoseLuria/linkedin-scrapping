@@ -1,163 +1,37 @@
 [
   {
     "title": "Frontend Developer",
-    "company": "QuinStreet",
+    "company": "Modernize",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEYALMztjZfIw/company-logo_100_100/0/1654114943620?e=2147483647&v=beta&t=B9-9PJHOhZ7dUxCsWHwPNC3Yk0ZIJ1o0PQOWgmvF8DM",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-at-quinstreet-3589861315?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=6E5kN3JBjsKWV9V2r%2BalHg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQE1aF6CCOE8bg/company-logo_100_100/0/1519898408484?e=2147483647&v=beta&t=EXx8UHAi6IKF2H3b1I0iyRScHywXV_mhY6U5bq34o6Y",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-at-modernize-3592378174?refId=zVDBU3Rex2%2FggbzpQx9B0Q%3D%3D&trackingId=4HsMGqw9S%2BMRH8nwUXWUIQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Engineer",
-    "company": "Nagarro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFF04fapxfPcQ/company-logo_100_100/0/1685614008974?e=2147483647&v=beta&t=tqy7x9HDU7oYKQfQv9QgG9fEvsqI_dYFBRkwf3343Zg",
-    "link": "https://mx.linkedin.com/jobs/view/engineer-at-nagarro-3628340622?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=%2B3%2FRJlRdvSTZX%2BgLoo27Ug%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Engineer",
-    "company": "Ansible Labs",
+    "title": "Senior Front-End Developer - LATAM",
+    "company": "Rad Hires",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHr_y57ROwu-w/company-logo_100_100/0/1647486256438?e=2147483647&v=beta&t=33QUiCaN7DTViWNrOXg03GTOwps46Ia3nVFkNl-1x80",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-ansible-labs-3630873871?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=12%2Bys%2BaRUS%2BgJEF1Fj27iw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGNTxwcIuWZIA/company-logo_100_100/0/1566537511429?e=2147483647&v=beta&t=aQp-9ApeL5JKMsizCQAPFAJ9eRt8Ffpq7TuBE2jhvr8",
+    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-developer-latam-at-rad-hires-3633415944?refId=zVDBU3Rex2%2FggbzpQx9B0Q%3D%3D&trackingId=S%2FnolbllZfjuTQcdRSu50g%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Jr Product Designer",
-    "company": "Alight Solutions",
+    "title": "Full Stack Developer",
+    "company": "Micro Talent",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEX05hwwUfDmw/company-logo_100_100/0/1541094578896?e=2147483647&v=beta&t=wX-C-8JeHcOtEV3wNryyGEcHNkHAI56fQaxRhwz_imE",
-    "link": "https://mx.linkedin.com/jobs/view/jr-product-designer-at-alight-solutions-3560530220?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=zT3oUWteOKTpMuNezMFKfg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG9w_1jKWRuzw/company-logo_100_100/0/1675875418973?e=2147483647&v=beta&t=DxFnUlGzgBfBmWJdxYLS3u950BPttng8Zodi963AYPE",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-micro-talent-3633613015?refId=zVDBU3Rex2%2FggbzpQx9B0Q%3D%3D&trackingId=ru%2F9VwVBGT03Dhgibiy63Q%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Developer Engineer in Test (SDET) - Work from home",
-    "company": "Nearsure",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHCbQSa6YnOmw/company-logo_100_100/0/1658941852063?e=2147483647&v=beta&t=DAfM-VU3Oa0PakWQlLJ1DanFxm8NQRtKX7QmrRhFw3A",
-    "link": "https://mx.linkedin.com/jobs/view/software-developer-engineer-in-test-sdet-work-from-home-at-nearsure-3628304426?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=3nFo8VTmiYztrS1VymzNpA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Python Developer - LATAM - Remote - USD",
-    "company": "Van Hyde International",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGJih6FGoXIiA/company-logo_100_100/0/1656439239737?e=2147483647&v=beta&t=pFCTuKXUifHr-k1jb9CsmInCdy1pfci4ie6QSq-IkeY",
-    "link": "https://mx.linkedin.com/jobs/view/python-developer-latam-remote-usd-at-van-hyde-international-3630492280?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=he6mUQN8N%2FoDdXp7PS4ieQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero de integración",
-    "company": "SeguriData",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHUkh6AbjLWsg/company-logo_100_100/0/1548786054871?e=2147483647&v=beta&t=0udOnqEkwg1mGZZu1fcQfmNutFKZ1-yPbASAORFcwgc",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-seguridata-3628359088?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=hr9PxsKNuZJCuqvBqQu49A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "ADTRAV Travel Management",
+    "title": "Desarrollador Full Stack Java",
+    "company": "ACL Tech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQF2X1wNtTj6Xw/company-logo_100_100/0/1654807540350?e=2147483647&v=beta&t=IXLcdK1laCe-GcGbgJTIGkAo-f7yHu1vqL_XzLq8XyE",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-adtrav-travel-management-3609234896?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=CyD01as2v3ZjZXxc6R1uag%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGlwPKzYuRs7w/company-logo_100_100/0/1676579188820?e=2147483647&v=beta&t=ZCfTyHdufwBl6vKunuXrEQFtIUDvmSyk2JWMcABymsM",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-full-stack-java-at-acl-tech-3589587211?refId=zVDBU3Rex2%2FggbzpQx9B0Q%3D%3D&trackingId=UzapeaePlO9Ko3%2ByR%2B1xYA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Full Stack Software Engineer - Guest Experience",
-    "company": "Cloudbeds",
+    "title": "Full Stack .NET Developer (Medical Management sphere)",
+    "company": "Coherent Solutions Mexico",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE5Sul9Yu3Jhw/company-logo_100_100/0/1657049376419?e=2147483647&v=beta&t=_y11E124Cka_C541NaiOxIGBRXRWbrnCYqvl7FbdnDw",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-software-engineer-guest-experience-at-cloudbeds-3609896058?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=lllJk1b6W%2BrBl44QQkwqMw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Fullstack",
-    "company": "Prowork.mx",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQFG-uJTorNPkg/company-logo_100_100/0/1596221599477?e=2147483647&v=beta&t=RMeCNdIzHHDUBMrs7QzsXJYD3trvGD33PkpciYt0I3c",
-    "link": "https://mx.linkedin.com/jobs/view/lead-fullstack-at-prowork-mx-3632758025?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=5JoSnwZpuSgibegNecuRoQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Engineer - Contract",
-    "company": "Terminal",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGwYlVY3V5Jdw/company-logo_100_100/0/1554306463654?e=2147483647&v=beta&t=IGxEFzz7NmbHImqA-T3gTBDn8eX5LQyNRyK8BbNDmcg",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-contract-at-terminal-3630686866?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=4FLbiveJwsNsXfbyE5O1wQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Shopify Expert with React",
-    "company": "Globant",
-    "location": "Ciudad Madero, Tamaulipas, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFcezRoJmysRA/company-logo_100_100/0/1686157430839?e=2147483647&v=beta&t=EA2oLcqG9n78Pk50LpGrFdtJLao3MDBs3W_u_nrW6BA",
-    "link": "https://mx.linkedin.com/jobs/view/shopify-expert-with-react-at-globant-3630859049?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=IoI51F1rBavVm1yB9SU5fA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Backend Engineer",
-    "company": "Belong",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQG_adcZNGtvHQ/company-logo_100_100/0/1654587554733?e=2147483647&v=beta&t=XdmsEScsCyrYm75oy6qajCdYWe0odEGDj2n_MrHeFXc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-backend-engineer-at-belong-3556994365?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=ozoAdvEO2cgAhD3CtHBjbg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-End Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3627077751?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=RfXWEaPRI%2FuddyU01R1I9w%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Remote - Software Developer C#",
-    "company": "UL Solutions",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQF6aPtfKvMrgQ/company-logo_100_100/0/1656335536887?e=2147483647&v=beta&t=2ya0gisBUvze6GoLzdIzbQbNawkdQlJa4V_UeeofVyU",
-    "link": "https://mx.linkedin.com/jobs/view/remote-software-developer-c%23-at-ul-solutions-3456585701?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=1rjs5QrWx31OuuQtUFrUhQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Python/React Developer",
-    "company": "Clevertech",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQER1SdXDJOEvA/company-logo_100_100/0/1657713506382?e=2147483647&v=beta&t=nxyTDjTVtqs2GL4wAkOKzlWjQFa7Z_ocUYfD_7tde_4",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-react-developer-at-clevertech-3632666419?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=U9qfeVLRPQfV8unyMLej5g%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr Software Engineer -TD",
-    "company": "Syneos Health",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHBsEZeIFwfmQ/company-logo_100_100/0/1519888772014?e=2147483647&v=beta&t=fiVMeBqSfpY--_wODplOW3kSJ8Kl5zZmNkKWvAZcgTY",
-    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-td-at-syneos-health-3628309585?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=E1eAYMvm7FNJeXwJCmQWzg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero Front-end",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3629176853?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=g2CwzFw6dcexV0JFXT%2BR0Q%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-End Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3629165979?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=yiN6e%2FAV8mmXMqdhEtgKCA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero Front-end",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3630625231?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=VxzotkBLMeYudH%2F%2F1UKdPA%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Programador Full Stack especializado en Front-end",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-especializado-en-front-end-at-turing-3627081258?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=ebqNZJfFw3kbcmep%2Bp1L0A%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero de Producto Full Stack",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-de-producto-full-stack-at-turing-3627079833?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=8%2Bzg05Y2RIqW%2BA5jAKKoJQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-at-turing-3627080488?refId=1oUcgAAIJbpz%2BiuTTe%2B24g%3D%3D&trackingId=qPTz8B30UxNLDtdfc7woAQ%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGD8v-ZNFRxJw/company-logo_100_100/0/1675332523896?e=2147483647&v=beta&t=-kyhOsQxrSlWICLMQDrP9UU6y_q-jbF_oAYKxzooyi0",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-net-developer-medical-management-sphere-at-coherent-solutions-mexico-3527790499?refId=zVDBU3Rex2%2FggbzpQx9B0Q%3D%3D&trackingId=FMKj3S6HywReHLRj63SV7g%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
