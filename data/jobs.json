@@ -1,177 +1,156 @@
 [
   {
-    "title": "Lead Frontend Developer",
-    "company": "QuinStreet",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEYALMztjZfIw/company-logo_100_100/0/1654114943620?e=2147483647&v=beta&t=B9-9PJHOhZ7dUxCsWHwPNC3Yk0ZIJ1o0PQOWgmvF8DM",
-    "link": "https://mx.linkedin.com/jobs/view/lead-frontend-developer-at-quinstreet-3612817174?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=59uS8UYWx3dSIrN49Qtg9A%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
+    "title": "Junior Front End Developer",
+    "company": "AgileEngine",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634425096?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=Lanov7kYnQnI3Mor%2FoqzYQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG4-QhYNJn33g/company-logo_100_100/0/1646326843184?e=2147483647&v=beta&t=4L5t8z9UPsPQYt9YwjPP_z7w4CvCXYx-DsIyKKRVJ2k",
+    "link": "https://mx.linkedin.com/jobs/view/junior-front-end-developer-at-agileengine-3635536377?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=I6ZK8bSdsxnYNMjOf6r5sA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634425097?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=zP3r30oPhu78pq00ycAANQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Puerto Vallarta, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634424180?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=0KAUe6YvcLRNu0Cj8xfVAw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Cancún, Quintana Roo, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634420746?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=D0jvN5Evb17b5uURp8D%2B4g%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Oaxaca, Oaxaca, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634422643?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=vQQfFJ3eP4QY2Mnx71IMBA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Puebla, Puebla, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634424179?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=P3mYqVszbZluq6nYG6zTZQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Project Manager - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-freelance-remote-at-braintrust-3634422644?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=E2KpCs51%2BuQeoLKjX1c9DA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer",
-    "company": "STX Next",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQGwEoAFiA5zmw/company-logo_100_100/0/1685695078945?e=2147483647&v=beta&t=dKDz2s-WB2bWr3ctbfNsdC1RmIXK_u_HOzPfSrwk9P4",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-stx-next-3633369505?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=7V9qprksryO2N3etmMvxHA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Engineering Manager, Growth Acquisition - Mexico",
-    "company": "Gusto",
-    "location": "Venustiano Carranza, Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFZGx6Iv5Ci2Q/company-logo_100_100/0/1564415666280?e=2147483647&v=beta&t=Vr2vibsAkQlQuTAhO5PkT7m1VR4mtAERW0zNujLiUqo",
-    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-growth-acquisition-mexico-at-gusto-3633303367?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=WEqi0jllI15GPpJE79X4gg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
+    "title": "Trainee Front End Developer",
+    "company": "AgileEngine",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3631837761?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=%2FGdlUcw4xEbqAJIKTWxd%2Bg%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG4-QhYNJn33g/company-logo_100_100/0/1646326843184?e=2147483647&v=beta&t=4L5t8z9UPsPQYt9YwjPP_z7w4CvCXYx-DsIyKKRVJ2k",
+    "link": "https://mx.linkedin.com/jobs/view/trainee-front-end-developer-at-agileengine-3635758616?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=YnrGca%2BPN1FGO235QlgDHA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Front-End Engineer",
-    "company": "Turing",
+    "title": "Desarrollador",
+    "company": "Solo Talento",
+    "location": "Ciudad Hidalgo, Michoacán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHh-BcGUCWlsQ/company-logo_100_100/0/1590514822835?e=2147483647&v=beta&t=8R8efqPu-_53TpXV_ooCiyrefw6FQaDpETIw6vL4rGM",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-at-solo-talento-3635732357?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=c5rHwVpyfHGmgabqOhJnaw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Front End Developer - Web Applications",
+    "company": "trades.org",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3633335269?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=ZAHTsyUVWE0p0%2FqxnL3giw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
+    "link": "https://mx.linkedin.com/jobs/view/front-end-developer-web-applications-at-trades-org-3635488706?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=239DNt02yNI3mPSvWWAxzQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Ingeniero Front-end",
-    "company": "Turing",
+    "title": "Desarrollador",
+    "company": "Solo Talento",
+    "location": "Ciudad Hidalgo, Michoacán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHh-BcGUCWlsQ/company-logo_100_100/0/1590514822835?e=2147483647&v=beta&t=8R8efqPu-_53TpXV_ooCiyrefw6FQaDpETIw6vL4rGM",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-at-solo-talento-3635728990?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=w%2Fb91oeWxKxPFTYDo%2FYNYw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "company": "trades.org",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3633336195?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=mha5mDjb1CUwoOUKGDpSNQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-web-developer-at-trades-org-3635488816?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=Ai%2FFKmXc75mfnB0jfvwlWA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Engineer",
-    "company": "Salesloft",
+    "title": "Full Stack Web Developer",
+    "company": "trades.org",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFqU0BsFsS_sg/company-logo_100_100/0/1685624795414?e=2147483647&v=beta&t=1BukItTCKwfEzxsrUOXwq9bc692ialA_Iu3xz27Skz8",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-salesloft-3630116330?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=H4wjsayJEB0bERuG%2B88N8g%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQGAap-nVZhSwg/company-logo_100_100/0/1615608024887?e=2147483647&v=beta&t=LsroUHOKUdFz3N0T5ItNIsrncj82XBfVf32C4w3Bwbc",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-web-developer-at-trades-org-3635489832?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=XyVqmNOMUoBKFnP0Y%2Fai7Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "React.JS Developer - US$ 9000/month (remote)",
-    "company": "Revelo",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE0i4AlKvWCUw/company-logo_100_100/0/1654624321924?e=2147483647&v=beta&t=ntRxjQLq06La1x_dxKbR3rPy6LYCT0xweSVR_tfPvrw",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-developer-us%24-9000-month-remote-at-revelo-3631841343?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=P7PaPLpZDp8fvcfbwUZzzw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Oaxaca, Oaxaca, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634426033?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=32UXsYY3EZwF8vHOLNTcbQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Backend Engineer",
-    "company": "Aleph Integrated",
+    "title": "Tech Lead Softwaer Engineer",
+    "company": "Vanco",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHnb9WkOEbukA/company-logo_100_100/0/1642169573472?e=2147483647&v=beta&t=eunpbYDEZgGf5GyDmyiJlaClJdv80pSqxfAA_EAaqVU",
-    "link": "https://mx.linkedin.com/jobs/view/sr-backend-engineer-at-aleph-integrated-3633030209?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=QUctG5JJTwfHTGBMk8ZuqA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGA_n0p921Ltw/company-logo_100_100/0/1549478472404?e=2147483647&v=beta&t=yfJ61MZw9aN4cwu9O3F1gOzkA5N-1HK2AC1hH9mExC4",
+    "link": "https://mx.linkedin.com/jobs/view/tech-lead-softwaer-engineer-at-vanco-3630366237?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=5%2FtUc3WIo6%2BYsNL%2FkQVyYA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
+    "title": "Fullstack Developer",
+    "company": "King Tide",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQH5v4OAv5wN5w/company-logo_100_100/0/1582053214590?e=2147483647&v=beta&t=kc710H8GIGPlhEVB4yh1mpsuqnYMYCCQ-OSJrEXt_9A",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-king-tide-3626130181?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=jtw9EBuwfkQWL%2FE44t4anQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "EFI",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C510BAQEnzAq-Ubns5g/company-logo_100_100/0/1519856124404?e=2147483647&v=beta&t=ntLWyaxe_r2mBxAQO9kDE3Ld7KNRnSbQqhvY9k9I9kE",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-efi-3635445008?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=9vqF5mdwc%2BXqL37s1J1M9g%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Simfoni",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHEOYZzwLDxNQ/company-logo_100_100/0/1623339853997?e=2147483647&v=beta&t=Sqak30jlyqyUTsMBLuBFec7-rE1cl5qG6HE9kU4QO5w",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-simfoni-3635485971?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=pFXc5MUE74RT8AaRZLV%2Bng%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Arquitecto Cloud - Sector Financiero/Bancario",
+    "company": "Devsu",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG45qR5hqkE9g/company-logo_100_100/0/1626805079431?e=2147483647&v=beta&t=Z1RHorFfwF272FE9zczslcI-l6YHE1U7XKD3QbIywT0",
+    "link": "https://mx.linkedin.com/jobs/view/arquitecto-cloud-sector-financiero-bancario-at-devsu-3634127056?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=6eC3j%2BnPpAQc6A2LiufQJQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Back End Developer",
+    "company": "ITJuana",
+    "location": "Tijuana, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQEAJOnYJ2qPoQ/company-logo_100_100/0/1686268399817?e=2147483647&v=beta&t=ymwKhiAE3-7JABkEypNUW0q3-kKlobqyOLPFhsWrAmA",
+    "link": "https://mx.linkedin.com/jobs/view/back-end-developer-at-itjuana-3630376158?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=mZ1F1SFg%2BUvOfNVzAPKvxg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mobile Engineer",
+    "company": "ConsenSys",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEewpHGX7ikKg/company-logo_100_100/0/1680785177908?e=2147483647&v=beta&t=UaYIAs-vl_MYmEGH_cH0D6CU6yas33IpJWlECJwD2uU",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-consensys-3635747665?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=UqW%2BG%2FXfKWWLMV%2BRIfk%2Brg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "DevOps GCP",
+    "company": "ParallelStaff",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGz-44cr0-E-g/company-logo_100_100/0/1679601230675?e=2147483647&v=beta&t=wbnX7Kc6NouqFrgo8Ffeb9C0Bvd5UO7PW0vvCD1Ppd0",
+    "link": "https://mx.linkedin.com/jobs/view/devops-gcp-at-parallel-staff-3630351720?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=8jXn2npXRKL5z2MLt1q1FA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior .NET  Developer",
+    "company": "Assigncorp",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEArZRSDCXIlQ/company-logo_100_100/0/1519952138305?e=2147483647&v=beta&t=6krOLrsKNTvTzfdDebZG8qrrimHh3UX6_XYl8K17gxo",
+    "link": "https://mx.linkedin.com/jobs/view/senior-net-developer-at-assigncorp-3635537500?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=crcvy3Om8CiyaLoG1fVZ9g%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Python/JS Fullstack Developer (AI Industry)",
+    "company": "Tekton Labs",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQF0cXEbju-oLw/company-logo_100_100/0/1657653910517?e=2147483647&v=beta&t=h2jwMc5ogT8m_2YeKnSG28kOLAxtwvrTCgnYTdNFjso",
+    "link": "https://mx.linkedin.com/jobs/view/senior-python-js-fullstack-developer-ai-industry-at-tekton-labs-3634131966?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=NpcFAo6SpbSDy1VPeV0c6A%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Kotlin Jr",
+    "company": "Luxoft",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/react-kotlin-jr-at-luxoft-3610429245?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=%2BBr353clsF3iFrvtSRBb8g%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Back End Engineer",
+    "company": "AgileEngine",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634422658?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=K2EqB6rK03ReD6d9V%2BYteg%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG4-QhYNJn33g/company-logo_100_100/0/1646326843184?e=2147483647&v=beta&t=4L5t8z9UPsPQYt9YwjPP_z7w4CvCXYx-DsIyKKRVJ2k",
+    "link": "https://mx.linkedin.com/jobs/view/lead-back-end-engineer-at-agileengine-3635759352?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=fEnjhDgs449oUMgqWLlkDg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Developer- React  Expert",
-    "company": "Quadient",
+    "title": "Senior Back End Engineer",
+    "company": "AgileEngine",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG4-QhYNJn33g/company-logo_100_100/0/1646326843184?e=2147483647&v=beta&t=4L5t8z9UPsPQYt9YwjPP_z7w4CvCXYx-DsIyKKRVJ2k",
+    "link": "https://mx.linkedin.com/jobs/view/senior-back-end-engineer-at-agileengine-3635957570?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=E0cmSPkk5XOwQlHicRB%2FYQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Desarrollador de Blockchain - Intercambio Descentralizado basado en Ethereum (Solidity)",
+    "company": "Bankor",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQGjxIEF1CLv3Q/company-logo_100_100/0/1684492485133?e=2147483647&v=beta&t=WEYBHepPgGDmeakjRA6UjcQhPy8irmsdAuadeyYOlp0",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-de-blockchain-intercambio-descentralizado-basado-en-ethereum-solidity-at-bankor-3633757280?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=LOT3GWmglCSUIka4W8ZLzw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Certified GCP DevOps Engineer",
+    "company": "ParallelStaff",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQEc_7oltC7AxQ/company-logo_100_100/0/1685604573656?e=2147483647&v=beta&t=ulzz5WBc3U0jY11AWv1bxgc47zHHW_3pzlriZ_dbaZM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-react-expert-at-quadient-3567291050?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=4F%2Fr3HGkryh7XfM4N8qCzg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634422657?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=omI9LhFdgj8yuBmloPH5Ew%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Puerto Vallarta, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634422656?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=72ZSp40z7qOMAAAucnXTRw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634423561?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=dFJP83nAMvT9IIjqa33eAQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Cancún, Quintana Roo, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634419817?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=g67s8HJqPDh3zeHHPFp2zg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-End Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-developer-at-turing-3629176855?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=qZs9UkzIzGTbX%2FN2HmNZag%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Special Projects Software Engineer - Freelance [Remote]",
-    "company": "Braintrust",
-    "location": "Puebla, Puebla, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHbQYFSQsK__A/company-logo_100_100/0/1630511737707?e=2147483647&v=beta&t=iY_6Bv692vgEcaVygab0L3eAqPupG2o-o5hYcoRSMsY",
-    "link": "https://mx.linkedin.com/jobs/view/special-projects-software-engineer-freelance-remote-at-braintrust-3634425101?refId=wxAM3EJdqTgK3RGiaPkzQg%3D%3D&trackingId=5dc9azF8tqulosFrzLeBjg%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGz-44cr0-E-g/company-logo_100_100/0/1679601230675?e=2147483647&v=beta&t=wbnX7Kc6NouqFrgo8Ffeb9C0Bvd5UO7PW0vvCD1Ppd0",
+    "link": "https://mx.linkedin.com/jobs/view/certified-gcp-devops-engineer-at-parallel-staff-3593216307?refId=%2FETSBVXQ6S93A0VdVJSsiA%3D%3D&trackingId=g%2BdypTJyGplYz%2B1JTbdYDg%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
