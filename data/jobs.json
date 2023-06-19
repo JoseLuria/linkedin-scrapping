@@ -1,72 +1,121 @@
 [
   {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
+    "title": "Manager, Procurement",
+    "company": "Thermo Fisher Scientific",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQEoQfTmqr5-Xw/company-logo_100_100/0/1685625307876?e=2147483647&v=beta&t=FSrMe9ytiK6C6Fv_AubSbWGe44DFqtWZ2CL_LBagkHs",
+    "link": "https://mx.linkedin.com/jobs/view/manager-procurement-at-thermo-fisher-scientific-3634568354?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=LjJTzXmugwNwV8w%2Fnim0lA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Fullstack Python/React Developer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-react-developer-at-clevertech-3639802165?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=jMHS1PL%2B1N0itaqpV9DHXQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Fullstack Python/React Developer",
+    "company": "Clevertech",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3634045052?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=QhfQ1zJ%2FocASUbrfpz3peA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-react-developer-at-clevertech-3639791922?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=eZvHjJTPm5RvHPyD0ob2eA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3634041524?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=uJ9WDPa0yAnwTqfUjxAeoA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
-    "location": "Ciudad Madero, Tamaulipas, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3634037936?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=57k9D2KGek7sSlytNcID0A%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front End Developer (Medical Management sphere)",
-    "company": "Coherent Solutions Mexico",
+    "title": "Senior Javascript Full Stack Engineer - Remote",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGD8v-ZNFRxJw/company-logo_100_100/0/1675332523896?e=2147483647&v=beta&t=-kyhOsQxrSlWICLMQDrP9UU6y_q-jbF_oAYKxzooyi0",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-developer-medical-management-sphere-at-coherent-solutions-mexico-3567708605?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=imwi0wAgTQOs6JwuM1%2FLRg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3639796397?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=I3XFXG9y5iipvUX4Zls60w%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Engineer",
-    "company": "JoVE",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFpsrbxm23Yfg/company-logo_100_100/0/1519952359084?e=2147483647&v=beta&t=3D4mkP6irtLHCU1a1dX12IFXVXobF_Rn3OpjHFTffbY",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-engineer-at-jove-3606161671?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=nLo5nAzChCcE37vpFQip%2Bw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Digital Solutions | Frontend Developer",
-    "company": "TELUS International",
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQHwieSUhWVUFw/company-logo_100_100/0/1685636142321?e=2147483647&v=beta&t=c2vCErRa47rfGG4plZ52lfy61OQSgCn7_j0cZpU6rpE",
-    "link": "https://mx.linkedin.com/jobs/view/digital-solutions-frontend-developer-at-telus-international-3598797445?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=yB2oVnOBn5esdfpe5%2BlBGQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3639735078?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=fpRspQZiLwcVV9%2BUSWOINg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr. Front End Developer",
-    "company": "G-P/Globalization Partners",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFLJKCtlusbng/company-logo_100_100/0/1686225739786?e=2147483647&v=beta&t=Sg4X2q-j67j-X94Zp5g1OErYo2LPXY1DtK_1VYxnGSM",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-developer-at-g-p-globalization-partners-3569135958?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=N%2BO0CxSq%2BepoOMQw7vicZw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Cloud Senior Software Engineer",
+    "title": "Cloud Software Architect",
     "company": "Caylent",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQGSclMLYvLqRg/company-logo_100_100/0/1632746193629?e=2147483647&v=beta&t=_vwrKncqj7MLHuKXQTwRmlzIiHN30T4dp5yUV7oa4hE",
-    "link": "https://mx.linkedin.com/jobs/view/cloud-senior-software-engineer-at-caylent-3570415229?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=uGeSL9EWvaJJ%2FhUeIKamvw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/cloud-software-architect-at-caylent-3570410890?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=SdN14bO5ZL2lauV8ctjFug%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Digital Solutions | Platform Architect",
-    "company": "TELUS International",
+    "title": "Senior React Native Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQHwieSUhWVUFw/company-logo_100_100/0/1685636142321?e=2147483647&v=beta&t=c2vCErRa47rfGG4plZ52lfy61OQSgCn7_j0cZpU6rpE",
-    "link": "https://mx.linkedin.com/jobs/view/digital-solutions-platform-architect-at-telus-international-3599010417?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=nj3NrPAyV%2B818X8OrdIjvg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3639809712?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=tkO%2FHXAm7s7Ab07nouWKyw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer (Full-Time Contractor)",
-    "company": "Varsity Tutors, a Nerdy Company",
-    "location": "Córdoba, Veracruz, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQGv6PHLXLhQiA/company-logo_100_100/0/1551895923700?e=2147483647&v=beta&t=QkcpHmICiwPrHJ7TYHEJf9dbJk1WHQkAE9puXrVMcdc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-full-time-contractor-at-varsity-tutors-a-nerdy-company-3599061853?refId=Npv5msVtNWpNw3IxN2JV%2Fw%3D%3D&trackingId=FI%2BzVRK%2B%2BK6G2SFPO1nt%2FA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Information Security Engineer",
+    "company": "ThousandEyes (part of Cisco)",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQEVcFnHvWJ-8Q/company-logo_100_100/0/1685622013830?e=2147483647&v=beta&t=SS6zE1pidKFJ2Q8H7Mf9QtxQzpBkvYK21aeGBPxQBFQ",
+    "link": "https://mx.linkedin.com/jobs/view/information-security-engineer-at-thousandeyes-part-of-cisco-3638095545?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ysTsA9xu1OdQtBpLGkjsBw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "Clevertech",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3639735206?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=mIfumAkxXnTqNtqMWWnVDA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-turing-3637896605?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=D%2FUP5m85iXYrM8BTNE6mow%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ionic + React Developer",
+    "company": "Clevertech",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-developer-at-clevertech-3639802864?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ltTjOceRw6RJ21HeZjW1xQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ionic + React Developer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-developer-at-clevertech-3639801991?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=SJ4LPm4fo6BFZm8iDM5Y4A%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3639666369?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=rRbotp9%2BmYyMJ%2FrCgEd4ew%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3639663511?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=hcfZGqwRN2otVCRSi7LY1Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3639668130?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=IWhWqIxFyCH97gtZz8qHpg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3639663526?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=1YnrPmHZ1xrdNL7mzvHhGA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3639665415?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ps%2Bz0yoe8L2cwNNcz%2F%2BTqw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
