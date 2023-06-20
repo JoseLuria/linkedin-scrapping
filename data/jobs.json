@@ -1,121 +1,177 @@
 [
   {
-    "title": "Manager, Procurement",
-    "company": "Thermo Fisher Scientific",
+    "title": "Mid/Sr Full Stack Developer",
+    "company": "Crossbridge Global Partners",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEoQfTmqr5-Xw/company-logo_100_100/0/1685625307876?e=2147483647&v=beta&t=FSrMe9ytiK6C6Fv_AubSbWGe44DFqtWZ2CL_LBagkHs",
-    "link": "https://mx.linkedin.com/jobs/view/manager-procurement-at-thermo-fisher-scientific-3634568354?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=LjJTzXmugwNwV8w%2Fnim0lA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQEiQqyHEMNQPQ/company-logo_100_100/0/1667593884232?e=2147483647&v=beta&t=wxbUVGzOauWLSkgVFE7u-nnmbLMgLtPNkVUAKY2DuYY",
+    "link": "https://mx.linkedin.com/jobs/view/mid-sr-full-stack-developer-at-crossbridge-global-partners-3627143981?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=N7mtOFKubgF7vB7CWMaDnA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Fullstack Python/React Developer",
-    "company": "Clevertech",
+    "title": "Senior Front End Software Engineer (3485)",
+    "company": "GBG Plc",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-react-developer-at-clevertech-3639802165?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=jMHS1PL%2B1N0itaqpV9DHXQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHK9z1ZQTG4nA/company-logo_100_100/0/1623139984096?e=2147483647&v=beta&t=-M4qyTtnwHwrKRBFF7vAuBapyUM9CFAWqZkOHth8dPo",
+    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-software-engineer-3485-at-gbg-plc-3638481754?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=4ft6rmSACcyx%2BIwxELbeug%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Fullstack Python/React Developer",
-    "company": "Clevertech",
+    "title": "Senior Fulllstack Engineer",
+    "company": "Right Balance",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQF5hqw9O5mTMA/company-logo_100_100/0/1561089264532?e=2147483647&v=beta&t=8MILMdxpwhjIqsa-jvcSB6Ri-8tkQH8t2APDreB3ZRc",
+    "link": "https://mx.linkedin.com/jobs/view/senior-fulllstack-engineer-at-right-balance-3635177397?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=aO067NDZRPGegro3bafyjg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Magento Developer (Adobe Commerce)",
+    "company": "Takyon",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHFUNxNtTS-qQ/company-logo_100_100/0/1679432532017?e=2147483647&v=beta&t=JdOn3U1_v7FipNPjJKkLlUQ0Zjl7aYKqE8qFeLg7L5w",
+    "link": "https://mx.linkedin.com/jobs/view/magento-developer-adobe-commerce-at-takyon-3533744540?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=OmHPpRuCROS4mRi%2F5vnwig%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead DevOps Engineer",
+    "company": "Right Balance",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQF5hqw9O5mTMA/company-logo_100_100/0/1561089264532?e=2147483647&v=beta&t=8MILMdxpwhjIqsa-jvcSB6Ri-8tkQH8t2APDreB3ZRc",
+    "link": "https://mx.linkedin.com/jobs/view/lead-devops-engineer-at-right-balance-3639867347?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=ZguAfMvTh%2FiNGmnNls99ZA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Ciudad Nezahualcóyotl, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635180742?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=H2I88UsxSQmDqmqCcgn43A%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Aguascalientes, Aguascalientes, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182425?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=HUiy6mfiCpWUnCNlDa428g%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Chihuahua, Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182428?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=50Tf4io2g3nqRtLTTrvGUQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Tijuana, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182432?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=WrTcP6%2BIlFsFhKvdv67DNQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-python-react-developer-at-clevertech-3639791922?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=eZvHjJTPm5RvHPyD0ob2eA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635184165?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=dvkQO7q5V3yw3XgoQABL3Q%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Javascript Full Stack Engineer - Remote",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3639796397?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=I3XFXG9y5iipvUX4Zls60w%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635180746?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=PKb5%2B%2B6cWGeSZUm4Z9r%2Bvw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "QA Automation Engineer",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3639735078?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=fpRspQZiLwcVV9%2BUSWOINg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Culiacán, Sinaloa, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182426?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=H%2BWkGcLGqIAGoUN0qkx4aA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Cloud Software Architect",
-    "company": "Caylent",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGSclMLYvLqRg/company-logo_100_100/0/1632746193629?e=2147483647&v=beta&t=_vwrKncqj7MLHuKXQTwRmlzIiHN30T4dp5yUV7oa4hE",
-    "link": "https://mx.linkedin.com/jobs/view/cloud-software-architect-at-caylent-3570410890?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=SdN14bO5ZL2lauV8ctjFug%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Ecatepec de Morelos, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635180745?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=Qt%2FHPdAiLlW6wv9A0sm3MQ%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior React Native Engineer",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-react-native-engineer-at-clevertech-3639809712?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=tkO%2FHXAm7s7Ab07nouWKyw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Zapopan, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182434?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=k6alZ3nHOi49ovKHJw2RiQ%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Information Security Engineer",
-    "company": "ThousandEyes (part of Cisco)",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEVcFnHvWJ-8Q/company-logo_100_100/0/1685622013830?e=2147483647&v=beta&t=SS6zE1pidKFJ2Q8H7Mf9QtxQzpBkvYK21aeGBPxQBFQ",
-    "link": "https://mx.linkedin.com/jobs/view/information-security-engineer-at-thousandeyes-part-of-cisco-3638095545?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ysTsA9xu1OdQtBpLGkjsBw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Puebla, Puebla, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635178948?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=voI8tDTA0iWDVZjI0vC0mw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "QA Automation Engineer",
-    "company": "Clevertech",
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635184164?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=V%2BSnsAo1dnuq9kpG9japqw%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
     "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-at-clevertech-3639735206?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=mIfumAkxXnTqNtqMWWnVDA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635183197?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=p8Vuzc0beuiUENuuxPnbGQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Engineer",
-    "company": "Turing",
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Mérida, Yucatán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635183194?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=nfAByoOb7C6qHXnadU2EBw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "León, Guanajuato, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635183195?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=wPl%2B8k5c6qHdAhVLDPxekg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Ciudad Juárez, Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635182427?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=vmw%2F89AuEjJZMYMsg0fLVg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "San Luis Potosí, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635184167?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=G%2Bo0PelO8F5%2FCLDkdoQP8w%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Guadalupe, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635179783?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=Z98EVPwftwOwdfkvCPQJHQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Java Engineer - Automotive Industry",
+    "company": "LER TechForce",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-turing-3637896605?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=D%2FUP5m85iXYrM8BTNE6mow%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQFDvNqBXhEENA/company-logo_100_100/0/1666367748578?e=2147483647&v=beta&t=GKJj2SLibM4F6B5GlY5FOm7AhvUFpiXbgFYHvGDfnmk",
+    "link": "https://mx.linkedin.com/jobs/view/sr-java-engineer-automotive-industry-at-ler-techforce-3639216537?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=4dLH3FSAzYndN4QDQM4rCg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Ionic + React Developer",
-    "company": "Clevertech",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-developer-at-clevertech-3639802864?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ltTjOceRw6RJ21HeZjW1xQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Mexicali, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635185043?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=w7b47Y414OAxlIMmdCUjFw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Ionic + React Developer",
-    "company": "Clevertech",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHEmbqW8celTg/company-logo_100_100/0/1686657414838?e=2147483647&v=beta&t=Te1IvNPmtIlM59r2Qmt51Eb9DLwIct_N1ba0h5EYkm4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-ionic-%2B-react-developer-at-clevertech-3639801991?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=SJ4LPm4fo6BFZm8iDM5Y4A%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Front End Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3639666369?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=rRbotp9%2BmYyMJ%2FrCgEd4ew%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3639663511?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=hcfZGqwRN2otVCRSi7LY1Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3639668130?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=IWhWqIxFyCH97gtZz8qHpg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Ruby on Rails Engineer",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3639663526?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=1YnrPmHZ1xrdNL7mzvHhGA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
-    "company": "Aha!",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
-    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3639665415?refId=rSX8Y9MkIXSSpeMLyw1vuA%3D%3D&trackingId=ps%2Bz0yoe8L2cwNNcz%2F%2BTqw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Salesforce Developer - Remote, Full-Time",
+    "company": "Bluelight Consulting | DevOps & Software Development",
+    "location": "Hermosillo, Sonora, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHgLbPji_pRkg/company-logo_100_100/0/1622059871018?e=2147483647&v=beta&t=2RrCoEob1Cr_9gHM3l6ms3MJFB1xXg7m6scbPZA0bRk",
+    "link": "https://mx.linkedin.com/jobs/view/salesforce-developer-remote-full-time-at-bluelight-consulting-devops-software-development-3635178946?refId=oKi1FiIPeDOVDREt%2F27X%2BA%3D%3D&trackingId=FuR%2BW8O29siA0MeBve8fwA%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
