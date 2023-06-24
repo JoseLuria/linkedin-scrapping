@@ -1,93 +1,177 @@
 [
   {
-    "title": "Senior Frontend Software Engineer",
-    "company": "Tinder",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGXi3o84QXQnw/company-logo_100_100/0/1652919832843?e=2147483647&v=beta&t=bN_DYtzhOpoyC4XtETWPbgwltl8NT4rTiI9TSqNvpl4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-software-engineer-at-tinder-3515440816?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=Idb8kED69QclWMKy%2Br9MJA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Frontend Developer",
+    "company": "ELife",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHevDMmBNe4nA/company-logo_100_100/0/1611716981566?e=2147483647&v=beta&t=0aoheAee55Gz_Y0FA-V8J7kKYyXQm_xhO3P2gmZKFfE",
+    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-elife-3568872344?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=KTScrpwss1IAlMhHxsBvkg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "React Tech Architect",
-    "company": "Connectingology",
-    "location": "Monterrey, Nuevo León, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFYmXqJuehJzw/company-logo_100_100/0/1685657935764?e=2147483647&v=beta&t=lZSAjFrD6hvy6YwaSHEedgqnk5OtbcPR4XuqMzEemps",
-    "link": "https://mx.linkedin.com/jobs/view/react-tech-architect-at-connectingology-3643321176?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=lIUY7d3QGhuPaKJy%2Fk1Weg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Front End Engineer",
+    "company": "Launchpad Technologies Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
+    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-launchpad-technologies-inc-3571778630?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=erKmkAMpdy1cJp2FCB4JEQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Principal Software Engineer",
+    "company": "Zillow",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_100_100/0/1664994833395?e=2147483647&v=beta&t=B1KBkRsHCnk3mZ8S8prmqQS_wbd7OBbJBB6O0CIMpBw",
+    "link": "https://mx.linkedin.com/jobs/view/principal-software-engineer-at-zillow-3639971437?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=jdgcfdxefMI%2FzzSuYIZpSg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "React Native Engineer- Remote, MX (C2C)",
     "company": "Tech Holding",
     "location": "Guadalajara, Jalisco, Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQFImPy8cQP3MA/company-logo_100_100/0/1533823264046?e=2147483647&v=beta&t=gd9CPChKvkw9qsS1WHPydQ97rua-PPqlJ-7gqmJPO7A",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-engineer-remote-mx-c2c-at-tech-holding-3640207539?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=8F%2BQPxRvRT7L0%2F%2F2vpZaSA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/react-native-engineer-remote-mx-c2c-at-tech-holding-3640207539?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=H7FEkNH2KLRmCegaQrAcPg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Desarrollador Móvil - React Native / Angular",
-    "company": "axity",
+    "title": "REMOTE Senior Full Stack Engineer",
+    "company": "SoundHound AI",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQFuQQK5t84yeA/company-logo_100_100/0/1686167010898?e=2147483647&v=beta&t=GAcltnarRJOm5vSkSHyhI5r5WRYotj0A5MVVmf3PBo0",
+    "link": "https://mx.linkedin.com/jobs/view/remote-senior-full-stack-engineer-at-soundhound-ai-3624208483?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=8Lo4Cl0dBj8g70%2FG5kOXfA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Conversion Rate Optimization Lead / Mobile App",
+    "company": "Baubap",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQHIQtlhkrC-WQ/company-logo_100_100/0/1685978697070?e=2147483647&v=beta&t=t86gs4W5burx8P8-56MhVn59bc_WOSbRUeKDxrKC4iE",
-    "link": "https://mx.linkedin.com/jobs/view/desarrollador-m%C3%B3vil-react-native-angular-at-axity-3641354905?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=ocNlkk1uYbXokAqo6k1DOg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQETta9ZI7jUrw/company-logo_100_100/0/1608070982059?e=2147483647&v=beta&t=mTuYp_YmV4_r8WJQtZE60gRy1VhzjK-lJj_K9zHq_sk",
+    "link": "https://mx.linkedin.com/jobs/view/conversion-rate-optimization-lead-mobile-app-at-baubap-yc-s21-3644439114?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=hfLi1zNOhvtu4x859xu%2BWg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Back End Developer",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/back-end-developer-at-luxoft-3641982487?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=uMuPt19yIX8GmQ6Cl%2BvKew%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java developer (US)",
-    "company": "CPIMGroup",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFNHAoOcSQ8pw/company-logo_100_100/0/1578600483590?e=2147483647&v=beta&t=vxpJ4pq1cVJmKAB245i5oNpi1MThShBfJnzU_oWeO-U",
-    "link": "https://mx.linkedin.com/jobs/view/java-developer-us-at-cpim-3641999791?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=dl3fDVi5v31P%2Bb383P0JHw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Staff UI Engineer",
-    "company": "SailPoint",
+    "title": "Senior Salesforce Developer - Telework",
+    "company": "Zillow",
     "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
-    "link": "https://mx.linkedin.com/jobs/view/staff-ui-engineer-at-sailpoint-3638836351?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=5Lt29LfN3IdnUuszqctvfQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_100_100/0/1664994833395?e=2147483647&v=beta&t=B1KBkRsHCnk3mZ8S8prmqQS_wbd7OBbJBB6O0CIMpBw",
+    "link": "https://mx.linkedin.com/jobs/view/senior-salesforce-developer-telework-at-zillow-3639942802?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=3mm6vMzkt3eVsA7EiklY0A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Staff UI Engineer",
-    "company": "SailPoint",
+    "title": "Front-End Web Developer",
+    "company": "Turing",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132655?e=2147483647&v=beta&t=LM2KcAyxSk61kHMAHJ2Jp8f5-_mHXHAo47LfnQpAafM",
-    "link": "https://mx.linkedin.com/jobs/view/staff-ui-engineer-at-sailpoint-3638839209?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=oaVMMDfdhZl5Dud3I6VMAQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/front-end-web-developer-at-turing-3635059506?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=E23e%2F%2BSPfYSdzdOndJAMlw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": ".NET FULL STACK ENGINEER",
+    "title": "Front-End Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3643188861?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=m1piflmNvRfjcELQisxDdA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Programador React",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/programador-react-at-turing-3638259029?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=qw5plxWHt%2BA2cf6F2A4VaA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Desarrollador Front-end",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-front-end-at-turing-3607463474?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=HMIT7Mej49VgU9HlRRhy3Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ingeniero Front-end",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-front-end-at-turing-3640560047?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=Fz8WohWRRAfuYMIIvsnYgg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/web-developer-at-turing-3638256425?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=1qgcm5rJkdSP1fkXn1f%2Bdg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mid Level C#/ASP.NET Core Engineer",
     "company": "GraceMark Solutions",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C4D0BAQHpHX325v_lOQ/company-logo_100_100/0/1616027653665?e=2147483647&v=beta&t=riMvww2GMH_Ie3XFKdvlhD9EbAFj56nufHSxXJu5GHs",
-    "link": "https://mx.linkedin.com/jobs/view/net-full-stack-engineer-at-gracemark-solutions-3641971209?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=OPiyjsYlvUuoEK0pMnQrmw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/mid-level-c%23-asp-net-core-engineer-at-gracemark-solutions-3643176436?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=qfWMPiSfaSfXdngaZuvPnw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "QA Analyst",
-    "company": "Launchpad Technologies Inc.",
+    "title": "Full-Stack Developer",
+    "company": "Turing",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/qa-analyst-at-launchpad-technologies-inc-3571778617?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=tDXmcOKtYRhqqE7waPky2Q%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3643192554?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=i%2F6oG0OyW%2FqvRs4IP7QrtA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Android Developer (Contract)",
-    "company": "Bounteous",
+    "title": "Oracle Developer (PL/SQL/ SQL)",
+    "company": "Ellucian",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFNKwlU4fr6fA/company-logo_100_100/0/1686594030832?e=2147483647&v=beta&t=CLWuXyEY3MU0al6ERlsv8UndYDg7JJd0NLaBNrD4dAM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-android-developer-contract-at-bounteous-3642500310?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=9fcHlZs7dpGITKC5PmOc0A%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEr3LBZsGATmQ/company-logo_100_100/0/1685631253341?e=2147483647&v=beta&t=kZhjDj06-ZHln7oIhPe2_3JoybR-VJhWK4i9AbKSosg",
+    "link": "https://mx.linkedin.com/jobs/view/oracle-developer-pl-sql-sql-at-ellucian-3639928756?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=2EWXB%2BapDbmem7lI%2Fqk5IA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior iOS Developer (Contract)",
-    "company": "Bounteous",
+    "title": "Ingeniero de Software especializado en Front-end",
+    "company": "Turing",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFNKwlU4fr6fA/company-logo_100_100/0/1686594030832?e=2147483647&v=beta&t=CLWuXyEY3MU0al6ERlsv8UndYDg7JJd0NLaBNrD4dAM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-ios-developer-contract-at-bounteous-3642503232?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=qu4ssJVTz3rAYFunhS235w%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/ingeniero-de-software-especializado-en-front-end-at-turing-3638255518?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=XhvVHtk6%2FUxNUrR%2BotdmrA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Manager, Procurement",
-    "company": "Thermo Fisher Scientific",
+    "title": "Full-Stack Developer",
+    "company": "Turing",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEoQfTmqr5-Xw/company-logo_100_100/0/1685625307876?e=2147483647&v=beta&t=FSrMe9ytiK6C6Fv_AubSbWGe44DFqtWZ2CL_LBagkHs",
-    "link": "https://mx.linkedin.com/jobs/view/manager-procurement-at-thermo-fisher-scientific-3634568354?refId=ZKzIesU1rQgMselNgDbRuQ%3D%3D&trackingId=x%2Bdjdp4b%2FTKCom%2B9KObYvw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3638252951?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=3Qh0vKQP%2B7sEAWvUIMskhQ%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Software Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-software-engineer-at-turing-3643193453?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=i5%2Fw3QWxONZin%2FjaQCJFPA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Front-End-Heavy Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-front-end-heavy-engineer-at-turing-3638257188?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=lyHwsiKeBuENiASawoaZtg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Programador Full Stack especializado en Front-end",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-especializado-en-front-end-at-turing-3618132393?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=6w64yHx8QraRpG%2BczgPoBw%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Junior Java Developer (with Kotlin experience)",
+    "company": "Luxoft",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/junior-java-developer-with-kotlin-experience-at-luxoft-3643959931?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=XMg4rYxn0%2FVMnxWRoiVmGg%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-turing-3638259019?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=rPTWBOYDFVuiIobOGhTojg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Automation Tester",
+    "company": "EPAM Anywhere",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
+    "link": "https://mx.linkedin.com/jobs/view/senior-automation-tester-at-epam-anywhere-3643106872?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=p%2F87aPMoHa3I%2FWs5jKZbLQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "AWS Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/aws-engineer-at-turing-3638252957?refId=28R0KqnOK6FPn3Sngm5wvQ%3D%3D&trackingId=JlrI3FF7mzjfdEfDVe6bTQ%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
