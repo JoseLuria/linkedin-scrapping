@@ -1,58 +1,135 @@
 [
   {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
+    "title": "Sr. Front End Software Engineer (React)",
+    "company": "OpenSpace",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGSRz5VMfb_7A/company-logo_100_100/0/1685643250657?e=2147483647&v=beta&t=vYCkoEJRa2Q-CI6jubiC3ERRQyzF-cIzqAlTysGJ7P0",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-software-engineer-react-at-openspace-3648852120?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=DfP6YgblacJNjnr7tef1GA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Frontend Developer- React  Expert",
+    "company": "Quadient",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEc_7oltC7AxQ/company-logo_100_100/0/1685604573656?e=2147483647&v=beta&t=ulzz5WBc3U0jY11AWv1bxgc47zHHW_3pzlriZ_dbaZM",
+    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-react-expert-at-quadient-3649796478?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=RM8D%2BJrd4mB48muQiRbD6A%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer, Frontend",
+    "company": "Terminal",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGwYlVY3V5Jdw/company-logo_100_100/0/1554306463654?e=2147483647&v=beta&t=IGxEFzz7NmbHImqA-T3gTBDn8eX5LQyNRyK8BbNDmcg",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-frontend-at-terminal-3607435190?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=%2F8fcKqH41Tm48NG4D7ASgw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software developer (US)",
+    "company": "CPIMGroup",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFNHAoOcSQ8pw/company-logo_100_100/0/1578600483590?e=2147483647&v=beta&t=vxpJ4pq1cVJmKAB245i5oNpi1MThShBfJnzU_oWeO-U",
+    "link": "https://mx.linkedin.com/jobs/view/software-developer-us-at-cpim-3648900944?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=O4EAnNM0LBr5ctRGA6zKZA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mid to Senior Developer",
+    "company": "Conecta.dev",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQGQaZYgQI1eFA/company-logo_100_100/0/1687884276033?e=2147483647&v=beta&t=xE-wRhtiYBGXS6NLMfcGncr-nNLLhyjXzNJRxPPziCY",
+    "link": "https://mx.linkedin.com/jobs/view/mid-to-senior-developer-at-conecta-dev-3645933226?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=hCSvngJ6%2BIP4VYMzKgZOzg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Tech Lead (Fullstack) MX",
+    "company": "Xepelin",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3640385420?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=8ytXUXhq4Z6emUEDlgzw%2Bg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEkczk2QD78AQ/company-logo_100_100/0/1645110244531?e=2147483647&v=beta&t=Pa83AqBNyDkNh13mYmA7MakEQfjUcJV1LM7PhHTVWG8",
+    "link": "https://mx.linkedin.com/jobs/view/tech-lead-fullstack-mx-at-xepelin-3643209284?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=FPsXDSPszziiNzHVDzRsAQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3640382924?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=vdk1T8U5qkuglwzC6qH9pQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
-    "location": "Guadalajara, Jalisco, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3640385374?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=2nbNh4U925MS4UaNsY9Wxw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Junior Frontend Developer (Remote Internship – IT)",
-    "company": "TalentKompass Deutschland",
-    "location": "Ciudad Madero, Tamaulipas, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHaiA7XfsXI-g/company-logo_100_100/0/1680956634796?e=2147483647&v=beta&t=neXFajmYTHUDntrKlHwfzswHe79O4CriP0YXJrv-fXk",
-    "link": "https://mx.linkedin.com/jobs/view/junior-frontend-developer-remote-internship-%E2%80%93-it-at-talentkompass-deutschland-3640384474?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=9Nr%2FryNyIuOGghk1xRc2Mg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Principal Mobile Engineer - Telework",
-    "company": "Zillow",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_100_100/0/1664994833395?e=2147483647&v=beta&t=B1KBkRsHCnk3mZ8S8prmqQS_wbd7OBbJBB6O0CIMpBw",
-    "link": "https://mx.linkedin.com/jobs/view/principal-mobile-engineer-telework-at-zillow-3640369323?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=%2BqeZCp1NHwLOXCuP1Wrb%2Bw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3648996628?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=BL%2F30YWn2h8A32qFRegM2A%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Senior Backend Engineer-Mexico",
     "company": "Right Balance",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQF5hqw9O5mTMA/company-logo_100_100/0/1561089264532?e=2147483647&v=beta&t=8MILMdxpwhjIqsa-jvcSB6Ri-8tkQH8t2APDreB3ZRc",
-    "link": "https://mx.linkedin.com/jobs/view/senior-backend-engineer-mexico-at-right-balance-3639961246?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=1MEWRIxBYZ3hE9DeoeRD0g%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-backend-engineer-mexico-at-right-balance-3643229313?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=EGOaOujjuelQ2X2Q9d9Ivg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Terminal",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGwYlVY3V5Jdw/company-logo_100_100/0/1554306463654?e=2147483647&v=beta&t=IGxEFzz7NmbHImqA-T3gTBDn8eX5LQyNRyK8BbNDmcg",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-terminal-3607435191?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=e5Cg9dPbdJjiuWWaTMwcEQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Developer (React+NodeJs) - Remote",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-react%2Bnodejs-remote-at-oowlish-3642709353?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=h94UouJC6c%2BLVYX2JCXdUw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Developer - React and Python - Remote Work",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-developer-react-and-python-remote-work-at-oowlish-3643284677?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=jud8jMpTA1yb6bpmymVRmA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full-Stack Engineer",
+    "company": "Turing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-turing-3645100231?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=%2BEUVWEXgIY4hKK0Aw%2Brt6A%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Automation Engineer (SDET + Playwright)",
+    "company": "Luxoft",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
+    "link": "https://mx.linkedin.com/jobs/view/senior-automation-engineer-sdet-%2B-playwright-at-luxoft-3648886576?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=691VG0w5ochiUn%2BtSniIQw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Full-Stack Developer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHf1YWyf2Hicw/company-logo_100_100/0/1685620690623?e=2147483647&v=beta&t=_I5cfzVTqcOsXKQEFwowTGXANGMByLx_m5lvaNha8Oo",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3643192554?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=QPBTTEVI%2BquLk%2FDL7NwHlQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-turing-3645101127?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=tb1Ze4KsEfZAsu7XxMLY0Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": ".NET / C# + Angular - Full Stack Developer",
-    "company": "Launchpad Technologies Inc.",
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3648995806?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=S0p7GVlZNHXtiHRl9vfKWQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-at-aha%21-3648998450?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=eyIDOhs6fMVqQ73329zMmg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3648996634?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=iuvUr9G1WeIAOLT1WfNhRQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior iOS Developer - TV",
+    "company": "Gorilla Logic",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEXlIDY9LVOog/company-logo_100_100/0/1605909764984?e=2147483647&v=beta&t=1uZS4abE8TY2-vG4DKfWwVYONY-6XAbYj6ggcfs2csk",
-    "link": "https://mx.linkedin.com/jobs/view/net-c%23-%2B-angular-full-stack-developer-at-launchpad-technologies-inc-3478644153?refId=M2ZWSHZucNNagiVXc1SJTg%3D%3D&trackingId=6jbS7MGrFNdsZCI6Sqp1QA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQGFYfHqNCprbg/company-logo_100_100/0/1684775514822?e=2147483647&v=beta&t=Np9DaWBFFj-5CwirJTRVOsrRoEpx9bZWsQKvsnDZzjs",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ios-developer-tv-at-gorilla-logic-3628246069?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=ewvT%2Bbp4bdtLZ5UPItsSGg%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1539023176649?e=2147483647&v=beta&t=brDLjkJ13TxHWh5_B88dPtFKU_u8JTGLVeOUpO9BWps",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3649001052?refId=yqvUJyAihchLTSkRkiQXUA%3D%3D&trackingId=ql5v4uk7q1Eef6KbBZ9waw%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
