@@ -1,177 +1,121 @@
 [
   {
-    "title": "Fullstack Developer",
-    "company": "Ensitech",
+    "title": "Programador full stack",
+    "company": "GO2DO HR & Consulting",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHSWeapKc1b2g/company-logo_100_100/0/1675103735846?e=2147483647&v=beta&t=Ti0BcJI0IyUPVz7c6Y7TksiHav0s65OEsnod4HqNsLE",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-ensitech-3648003646?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=0Az%2FvD72WpRnohm%2BPOgHog%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQGqy7Vjiz35QQ/company-logo_100_100/0/1650298043804?e=2147483647&v=beta&t=GeTbtEX5HrXoTX-T07j6GZt5cksiTePhzR3wHpoK54M",
+    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-at-go2do-hr-consulting-3656113965?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=LZc8OGLjiO5CxnduaLa%2B8A%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr React Developer",
-    "company": "Encora Inc.",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_100_100/0/1663783800918?e=2147483647&v=beta&t=7xHaeGvlvP9zwqcltzQTgl_jMafWOdhkk36rZR69vnc",
-    "link": "https://mx.linkedin.com/jobs/view/sr-react-developer-at-encora-inc-3652684294?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=%2BNurDyo1weNAb%2F73gKf0jw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Full-Stack Developer (C#/React)",
-    "company": "WebCreek",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFLKaAxvnvmNA/company-logo_100_100/0/1581432541785?e=2147483647&v=beta&t=kikSb1kWDgpPbnbzosipV3gLahfY1V0AfBPiVrhu6V0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-c%23-react-at-webcreek-3653452397?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=GGQav1sDMcJkyFmVokrDvg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Dotnet Developer",
-    "company": "Divelement",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQFAJpx3ki0Hug/company-logo_100_100/0/1656943414771?e=2147483647&v=beta&t=IC9yx5on42cpIMTcaOOpM6ggotzy-JYgo_mERyb-fpg",
-    "link": "https://mx.linkedin.com/jobs/view/dotnet-developer-at-divelement-3647390290?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=5O5SmUPMpKhB9wPRKqbSFw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Salesloft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEi-PVYAQGk4w/company-logo_100_100/0/1688339325939?e=2147483647&v=beta&t=XMXCCs5ryC9TKGEq0Os-4rOL_zM2sCu-_HDlc8vtDu0",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-at-salesloft-3630116330?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=zd3owYF07RM%2FRxtuzLgRiQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "JavaScript Application Developer, React & Drupal (Bilingual: English/Spanish)",
-    "company": "Bounteous",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFNKwlU4fr6fA/company-logo_100_100/0/1686594030832?e=2147483647&v=beta&t=CLWuXyEY3MU0al6ERlsv8UndYDg7JJd0NLaBNrD4dAM",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-application-developer-react-drupal-bilingual-english-spanish-at-bounteous-3652644069?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=xmtLhkB5GjeT6tkoUpEfkQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Java/React FullStack",
-    "company": "Luxoft",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/java-react-fullstack-at-luxoft-3654177155?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=66PhFc7xgqARcGa1YowTaA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack .NET Developer - Work from home",
-    "company": "Nearsure",
-    "location": "Guadalajara, Mexico Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQHCbQSa6YnOmw/company-logo_100_100/0/1658941852063?e=2147483647&v=beta&t=DAfM-VU3Oa0PakWQlLJ1DanFxm8NQRtKX7QmrRhFw3A",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-net-developer-work-from-home-at-nearsure-3648000402?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=mqKjCYzMt%2BfXD%2BHBZ%2F41UA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-End Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3653102058?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=Zom7q6bC4Fd8XALaUjY6pA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Front-end Engineer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-engineer-at-turing-3647652789?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=uxoBHRX3bIw5I7779%2BdF%2Fw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Engineering Manager",
-    "company": "Ascendion",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQGHeQsU54NLQA/company-logo_100_100/0/1663258478774?e=2147483647&v=beta&t=wGE7cvS_mlpcWxc8Vly0lt4NS0Fq20_k1TnjvLyowa0",
-    "link": "https://mx.linkedin.com/jobs/view/engineering-manager-at-ascendion-3647367612?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=pGl0Q%2B2rk5n8fYX8oyJonQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Frontend Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-at-turing-3647257852?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=GTG4tIJis2UREGa%2BxuMy7g%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Ingeniero React",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/ingeniero-react-at-turing-3653102063?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=x9yl0ylcg3WMIdJY86rX3Q%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Programador Front-end",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/programador-front-end-at-turing-3649446345?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=3aqE26CthVuyeNrafDu%2FKg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Developer",
-    "company": "Turing",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-at-turing-3649272821?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=6kV2MpBQGw1xhF1lD3r19Q%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Tech Lead Backend Golang (Enterprise)",
-    "company": "DEUNA",
+    "title": "Software Developer - React + UI - Remote Work",
+    "company": "Oowlish",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQEPhkB6qek0pw/company-logo_100_100/0/1661180124130?e=2147483647&v=beta&t=nSJUwQDkwL7iq8tOnJkayKN-VuI-lQxMuCfThCIveE4",
-    "link": "https://mx.linkedin.com/jobs/view/tech-lead-backend-golang-enterprise-at-deuna-3647389578?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=iRypw%2BJ0QSFCn%2FUPRe%2B94A%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/software-developer-react-%2B-ui-remote-work-at-oowlish-3648561147?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=kMpQs3P3kyid1rgOvop7AA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Automation Engineer (SDET + Playwright), Remote Mexico",
-    "company": "Luxoft",
-    "location": "México, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_100_100/0/1639383758689?e=2147483647&v=beta&t=P1lEI1qbQdIcFeNY4MqChPUA0B5YzHrmL-ucEJiTUe4",
-    "link": "https://mx.linkedin.com/jobs/view/senior-automation-engineer-sdet-%2B-playwright-remote-mexico-at-luxoft-3654704399?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=Zw3wCuA1K%2FKihoqvPH46iA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Engineer",
-    "company": "Turing",
+    "title": "Lead Frontend Developer",
+    "company": "QuinStreet",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-at-turing-3653102051?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=WbJNF2X2PuzNqRIBCTHOtA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQEYALMztjZfIw/company-logo_100_100/0/1654114943620?e=2147483647&v=beta&t=B9-9PJHOhZ7dUxCsWHwPNC3Yk0ZIJ1o0PQOWgmvF8DM",
+    "link": "https://mx.linkedin.com/jobs/view/lead-frontend-developer-at-quinstreet-3612817174?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=gLs5kx2XNhe1jgvb4jUgEg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Front-End-Heavy Developer",
-    "company": "Turing",
+    "title": "Desarrollador  React Native / Inglés Conversacional",
+    "company": "axity",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHIQtlhkrC-WQ/company-logo_100_100/0/1685978697070?e=2147483647&v=beta&t=t86gs4W5burx8P8-56MhVn59bc_WOSbRUeKDxrKC4iE",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-react-native-ingl%C3%A9s-conversacional-at-axity-3654338545?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=7npvITY3hpKteeGs84fTNg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Developer - React + UI - Remote Work",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/software-developer-react-%2B-ui-remote-work-at-oowlish-3648559413?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=91TyIJbp8mNk%2B10YQ7pG5Q%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Software Programmer - Work From Home",
+    "company": "Oowlish",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/react-software-programmer-work-from-home-at-oowlish-3643286452?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=68RZrwVFdsq6LSTzqMOlcQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Arquitecto de software",
+    "company": "K2 Partnering Solutions",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-front-end-heavy-developer-at-turing-3652698466?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=HfykiQChytkr0ovBIjMGLA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQEHLlm1bDn9oA/company-logo_100_100/0/1686849678067?e=2147483647&v=beta&t=508y02bcaogXcprlsWP17Zq2o6EXTRSv8Bb3dxi7_bA",
+    "link": "https://mx.linkedin.com/jobs/view/arquitecto-de-software-at-k2-partnering-solutions-3648559676?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=l19XRZC8lVsP0Nf%2FeR%2BX2w%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr Java Developer with Kotlin",
-    "company": "Globant",
-    "location": "Ciudad Madero, Tamaulipas, Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQHWB0kBTxn0kA/company-logo_100_100/0/1688411226020?e=2147483647&v=beta&t=TUKc_87hOfq1hPrXFzAN3RM8Czr0ovErqCR2WHvXuRo",
-    "link": "https://mx.linkedin.com/jobs/view/sr-java-developer-with-kotlin-at-globant-3653158173?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=uSB9t7LueLjqqB%2FwNuuwuQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Manual Tester",
-    "company": "EPAM Anywhere",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-manual-tester-at-epam-anywhere-3653411110?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=5ry8bxKsLUKI3O%2FdZzk74A%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Lead Manual Tester",
-    "company": "EPAM Anywhere",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/lead-manual-tester-at-epam-anywhere-3653410259?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=DMZT1ME8eEXibm2pWGgL%2FA%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "React Software Programmer - Work From Home",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/react-software-programmer-work-from-home-at-oowlish-3642706842?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=hrJI%2BqJdsypGVf4nJ%2Bm3dw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Mobile Engineer",
+    "company": "Consensys",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQE3hYT2QCBRzw/company-logo_100_100/0/1687864719454?e=2147483647&v=beta&t=y-Uja7Y9fdNaXMIwgPDJyx_Lk1Z56OWq3uVP6ceOMOs",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-consensys-3635747665?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=Tsp31bgA8cMTbdAInKgglw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Java developer (US)",
+    "company": "CPIMGroup",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFNHAoOcSQ8pw/company-logo_100_100/0/1578600483590?e=2147483647&v=beta&t=vxpJ4pq1cVJmKAB245i5oNpi1MThShBfJnzU_oWeO-U",
+    "link": "https://mx.linkedin.com/jobs/view/java-developer-us-at-cpim-3655224887?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=9m0C45%2Ffpc9WppUgNiPGdg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer - Node.js - Remote Work",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-node-js-remote-work-at-oowlish-3648555953?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=0L2n7vd9kSX1yfNKQxZ5XA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ruby Developer",
+    "company": "Exadel",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQEj8P-2NRbONQ/company-logo_100_100/0/1680772822917?e=2147483647&v=beta&t=N9ITfoWE8eHxXVwM-hng8d_8IgDX3lUuzbOGKavys2E",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ruby-developer-at-exadel-3653751469?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=HbRBS%2Fft0zdT3%2F%2FX%2FuQoMg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Integration Engineer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-at-turing-3647063902?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=T4Q2EsegAiy%2Bi%2FCNtOrrww%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/integration-engineer-at-turing-3650695860?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=twJlRJO9Ukz1HkYvtLqBww%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": ".NET Developer (Full Stack)",
-    "company": "EPAM Anywhere",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHJUDZhWnP4MA/company-logo_100_100/0/1654088523608?e=2147483647&v=beta&t=kkhvMOaehLSBwL_aCElTZ65nf_kd0oDyzZdf48GS_QM",
-    "link": "https://mx.linkedin.com/jobs/view/net-developer-full-stack-at-epam-anywhere-3653406878?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=lA05N1F1h%2FCZhnNq2PjJVQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer - React Native - Work from Home",
+    "company": "Oowlish",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-react-native-work-from-home-at-oowlish-3648557491?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=GLoZFYVqbHBpG2t5esrdkA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Salesforce Sales Cloud Engineer",
+    "title": "Full-Stack Software Engineer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/senior-salesforce-sales-cloud-engineer-at-turing-3652697549?refId=%2F%2FQRSDh8Ybkxyxy3z91%2BZg%3D%3D&trackingId=%2Bwh%2BYHH7F0kNRt57olxWLw%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-software-engineer-at-turing-3653782493?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=bkAF0FEB5sxJoxwkIVlzOw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Android Engineer - Online Job (copy)",
+    "company": "Oowlish",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/senior-android-engineer-online-job-copy-at-oowlish-3654490543?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=vtezzqYeM5dRSdIz4V%2FjlA%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Ruby on Rails + React - Work from Home",
+    "company": "Oowlish",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/senior-ruby-on-rails-%2B-react-work-from-home-at-oowlish-3648561164?refId=9ufFXVUiCSPtzfIzdcCg1Q%3D%3D&trackingId=5soQxDlRfk5Khx25oEeXAw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
