@@ -1,177 +1,86 @@
 [
   {
-    "title": "Mid Front-end developer (HTML/CSS/JS) (4600 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "Staff Software Engineer",
+    "company": "EarnIn",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/mid-front-end-developer-html-css-js-4600-usd-mes-remote-at-listopro-3709744476?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=GzQq5XIm9zQsf3kTibzMLA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQHQD88jYf-vPg/company-logo_100_100/0/1674591755377?e=2147483647&v=beta&t=LBmo_viPiuRtKCdh195v0dh1yHTFs2-nE3l13LwxT0U",
+    "link": "https://mx.linkedin.com/jobs/view/staff-software-engineer-at-earnin-3553054997?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=KVhfgtH72Qzkqu74oZcBvg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Frontend Developer (React) (5200 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "Javascript Full Stack Engineer",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-developer-react-5200-usd-mes-remote-at-listopro-3709740899?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=Zz6CgaOdPx%2BmrxPW9Nfu9Q%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672408?e=2147483647&v=beta&t=xFv0hQxZMlDu6H50rCXTdBLJl-LDnWgn5xX_WTag9qU",
+    "link": "https://mx.linkedin.com/jobs/view/javascript-full-stack-engineer-at-clevertech-3717752356?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=nvMU4go%2FgjQH9JZOCTan9w%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Frontend Engineer (4640 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "Principal Engineer - Javascript",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-4640-usd-mes-remote-at-listopro-3709745336?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=%2FTHfdkslmp6C%2BnX%2BI3aIFg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672408?e=2147483647&v=beta&t=xFv0hQxZMlDu6H50rCXTdBLJl-LDnWgn5xX_WTag9qU",
+    "link": "https://mx.linkedin.com/jobs/view/principal-engineer-javascript-at-clevertech-3717755606?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=daErDhUnSVJZHfgjgYfLfA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Frontend Engineer (6000 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-6000-usd-mes-remote-at-listopro-3709744478?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=pFMLgsAAqjMSwyn8NmRyPQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer (5000 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-5000-usd-mes-remote-at-listopro-3709740869?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=z2dBfncPKRneD2HlHmaCrw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr Frontend Engineer (4800 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/sr-frontend-engineer-4800-usd-mes-remote-at-listopro-3709740893?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=VzFFjxR8ouyL6iZBzvEOdw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Engineer (Node + React) (6133 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-node-%2B-react-6133-usd-mes-remote-at-listopro-3709745342?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=WSnJ87N5Ha1WEjLcb9QfFA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Engineer (Node + React) (4000 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-node-%2B-react-4000-usd-mes-remote-at-listopro-3709746260?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=iH6rtatcIKk3gi0Yv7mO7A%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Developer (4666 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-4666-usd-mes-remote-at-listopro-3709743503?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=RSHfzJkJ63YL5y%2FvZVUnrg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Frton-end Engineer (3600 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/frton-end-engineer-3600-usd-mes-remote-at-listopro-3709747256?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=Cqm0qqtebxRtQqZaU8wPrQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Frontend and Mobile Engineer (4666 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/sr-frontend-and-mobile-engineer-4666-usd-mes-remote-at-listopro-3709744480?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=gcmNc%2FskFkxN0GbrCSDkpg%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Software Engineer (10000 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-10000-usd-mes-remote-at-listopro-3709747235?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=Zgsz6DwwB6QFnLhz62D7FA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Full-stack software developer (10700 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-software-developer-10700-usd-mes-remote-at-listopro-3709742655?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=JTV7EmM8%2BuIEqTpKVj1EiA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "JavaScript Solution Architect",
-    "company": "EPAM Systems",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_100_100/0/1677598469595?e=2147483647&v=beta&t=WLHlNmufk1-ckPTV4cn78DpvVASFrILtubIFw-d8QB8",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-solution-architect-at-epam-systems-3684854772?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=n%2FShp0n3cRGdCFN61XOKbw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Implementation Consultant",
-    "company": "Hexagon Asset Lifecycle Intelligence",
+    "title": "Principal Engineer - Javascript",
+    "company": "Clevertech",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C4D0BAQFIwIFR93_uXA/company-logo_100_100/0/1599003056385?e=2147483647&v=beta&t=YsnMx6a1SYifmK2yEuEFBdOV0LXawE7k_o4zx1KkNLs",
-    "link": "https://mx.linkedin.com/jobs/view/implementation-consultant-at-hexagon-asset-lifecycle-intelligence-3679224891?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=I5HfqkO4b4zKFOUiCzzaGA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672408?e=2147483647&v=beta&t=xFv0hQxZMlDu6H50rCXTdBLJl-LDnWgn5xX_WTag9qU",
+    "link": "https://mx.linkedin.com/jobs/view/principal-engineer-javascript-at-clevertech-3717754493?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=gRw8xNWjmT6UJ0HctdBf3Q%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "SR Fullstack Engineer (Rails + React) (7373 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "Principal Engineer - Javascript",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-rails-%2B-react-7373-usd-mes-remote-at-listopro-3709743507?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=PHkErlQINpRKDTr08ntRDg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672408?e=2147483647&v=beta&t=xFv0hQxZMlDu6H50rCXTdBLJl-LDnWgn5xX_WTag9qU",
+    "link": "https://mx.linkedin.com/jobs/view/principal-engineer-javascript-at-clevertech-3717760254?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=LP2lP%2FqfMlDMt9C6zWaPJw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr PHP Engineer (7000 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "Senior Javascript Full Stack Engineer - Remote",
+    "company": "Clevertech",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/sr-php-engineer-7000-usd-mes-remote-at-listopro-3709745335?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=EdhqBob9adi7GIdK39mb2A%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672408?e=2147483647&v=beta&t=xFv0hQxZMlDu6H50rCXTdBLJl-LDnWgn5xX_WTag9qU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-javascript-full-stack-engineer-remote-at-clevertech-3717750335?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=uM5i%2B6kfGEoQyeKQeOm0vg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Fullstack Developer (.NET Core + React) (6066 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608581?e=2147483647&v=beta&t=650evxVCeNTNoqnkbMoLr6ZGHiqiRHMVefAEGE831Q0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-fullstack-developer-net-core-%2B-react-6066-usd-mes-remote-at-listopro-3709747240?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=iR%2BBN8eL5CsdhtqUK1egUA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Mobile Engineer, gt.school (Remote) - $100,000/year USD",
+    "company": "Crossover",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=2147483647&v=beta&t=AJ9DucsHoIHoUUgwhW_19OT-eD9gGHi87WYzH7bHcnU",
+    "link": "https://mx.linkedin.com/jobs/view/senior-mobile-engineer-gt-school-remote-%24100-000-year-usd-at-crossover-3710740886?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=%2B4dVCvzYrnaXQYXjcARt7w%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Senior Front-End Engineer",
     "company": "Turing",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201106?e=2147483647&v=beta&t=VhlSwSENfFstMDQhAeuohKm4MoUn68DK20udmZpGauo",
-    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-at-turing-3712869514?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=bTQ%2BcKwoV4wHLFiQ5pndjA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-front-end-engineer-at-turing-3712869514?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=TXOwAy1%2FcBJnjgOsaDigxA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Angular Frontend Engineer",
+    "title": "QA Automation Engineer - Online Job",
     "company": "Oowlish",
     "location": "Mexico City, Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/senior-angular-frontend-engineer-at-oowlish-3650017844?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=rMtS2XKfzJjlldS5dW%2Fbeg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-online-job-at-oowlish-3674599568?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=yackanlRzECroRn8cFiwEA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "QA Automation Engineer - Online Job",
+    "company": "Oowlish",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
+    "link": "https://mx.linkedin.com/jobs/view/qa-automation-engineer-online-job-at-oowlish-3674597727?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=72G88QTM9bPKru5M2r8IrA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "C/C++ Engineer - Remote Work",
     "company": "Oowlish",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/c-c%2B%2B-engineer-remote-work-at-oowlish-3651737844?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=kOb29WT2MPxMKn%2Bj3puDqQ%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Angular Frontend Engineer",
-    "company": "Oowlish",
     "location": "Guadalajara, Jalisco, Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/senior-angular-frontend-engineer-at-oowlish-3650019597?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=NbfatLhqfLcTP8s%2F%2BnFGLQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/c-c%2B%2B-engineer-remote-work-at-oowlish-3651740370?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=EQfpx795w%2FBB4%2BMu%2BhBX4Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Senior Software Engineer (iOS) - Online job",
     "company": "Oowlish",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-ios-online-job-at-oowlish-3651778926?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=4IDE4td4uIQDenn9jl5fLg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "C/C++ Engineer - Remote Work",
-    "company": "Oowlish",
     "location": "Guadalajara, Jalisco, Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/c-c%2B%2B-engineer-remote-work-at-oowlish-3651740370?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=b8cSJpwgqFUeS9gJ8gHhFA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Backend (Java + .Net) - Remote",
-    "company": "Oowlish",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQFwwwVW9HV1Zw/company-logo_100_100/0/1684782684289?e=2147483647&v=beta&t=vMhbWzZmGpXSEg2bpjqxPCF1LRg_QJ6vZ6lgmv7C88M",
-    "link": "https://mx.linkedin.com/jobs/view/senior-backend-java-%2B-net-remote-at-oowlish-3674015181?refId=FuZVFUuL%2BHqU9p7cJ3jhrA%3D%3D&trackingId=s2pMf4tcXhGFlrvqpYWqRQ%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-ios-online-job-at-oowlish-3651778927?refId=lNFt%2BUbN6MZ840TnUS%2FcJg%3D%3D&trackingId=FgRgPNn1NPduLlTz7Jq5YQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
