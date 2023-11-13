@@ -1,9 +1,51 @@
 [
   {
-    "title": "Senior Data Engineer - Reporting - EG",
-    "company": "Gorilla Logic",
+    "title": "Technical Project Manager",
+    "company": "Seva Development",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQGFYfHqNCprbg/company-logo_100_100/0/1684775515429/gorillalogic_logo?e=2147483647&v=beta&t=Jy3aeMTSDQ5BjNO0CZfaQ59gjS90j4czdtcJrkmqKAg",
-    "link": "https://mx.linkedin.com/jobs/view/senior-data-engineer-reporting-eg-at-gorilla-logic-3697497419?refId=AEgHQvEFow4fM3jjSHiGmA%3D%3D&trackingId=4TA5S4s7CFV926PthF9jlg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQG4yf2kwJIULw/company-logo_100_100/0/1631417786901/seva_development_logo?e=2147483647&v=beta&t=_xvD8opIxjznbekVh8EXDJRT0sZhk3gsJbx3Eqa8l5Y",
+    "link": "https://mx.linkedin.com/jobs/view/technical-project-manager-at-seva-development-3762126536?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=GfRoPYizLTxC%2BITxDN2qDA%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Architect/Tech Lead",
+    "company": "Seva Development",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQG4yf2kwJIULw/company-logo_100_100/0/1631417786901/seva_development_logo?e=2147483647&v=beta&t=_xvD8opIxjznbekVh8EXDJRT0sZhk3gsJbx3Eqa8l5Y",
+    "link": "https://mx.linkedin.com/jobs/view/senior-architect-tech-lead-at-seva-development-3762123739?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=LdXpaQObZsdjxSkvIKK4ug%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Principal Full Stack Software Development Engineer - Mexico",
+    "company": "Zillow",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQEqg0BBcO5DVw/company-logo_100_100/0/1664994833759/zillow_logo?e=2147483647&v=beta&t=AMH_Vwb35AAEAUUsb4wTWYXj03BI3S00D4FUTiQgGqw",
+    "link": "https://mx.linkedin.com/jobs/view/principal-full-stack-software-development-engineer-mexico-at-zillow-3730875061?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=OyMeXTK3SSEeRhOmkmJo3Q%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer - Origami Risk",
+    "company": "American IT Sourcing",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEqs8clFJ6ttw/company-logo_100_100/0/1631329120316?e=2147483647&v=beta&t=9AbID7QuY6fenseSio2hq_sCsi0bCAqAGTs_n_bXWOU",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-origami-risk-at-american-it-sourcing-3757628840?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=HYk65BTaDWoNDr4b29dKSw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "company": "Mitek Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHMfhMcRkGlgg/company-logo_100_100/0/1664989090678/miteksystems_logo?e=2147483647&v=beta&t=9d4q9K4masLISrSbPihRkE98QeUK0ID6PcCWcloDSos",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-mitek-systems-3609404346?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=rFaoUg0beBNR9dDSxbsy4w%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Technical Support Engineer, IgniteTech (Remote) - $60,000/year USD",
+    "company": "Crossover",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=2147483647&v=beta&t=AJ9DucsHoIHoUUgwhW_19OT-eD9gGHi87WYzH7bHcnU",
+    "link": "https://mx.linkedin.com/jobs/view/technical-support-engineer-ignitetech-remote-%2460-000-year-usd-at-crossover-3758774280?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=MmRpDuWHrwQ%2BztEYAmWw2g%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "C++, Java Core, Sr. Automation Tester, Mulesoft",
+    "company": "Proton | Privacy by Default",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQHeOvrQIOmNzg/company-logo_100_100/0/1653481522290/protonprivacy_logo?e=2147483647&v=beta&t=QbP4buhCapf3teO9fG6e38b5IZ1RB_eaIcdSpisWetg",
+    "link": "https://mx.linkedin.com/jobs/view/c%2B%2B-java-core-sr-automation-tester-mulesoft-at-proton-privacy-by-default-3757620091?refId=V4h9hOocdX2OAvdTOx55rA%3D%3D&trackingId=A0gnUtSovMSg7BM49ZSbrQ%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
