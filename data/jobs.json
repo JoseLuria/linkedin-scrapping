@@ -1,86 +1,107 @@
 [
   {
-    "title": "Full-Stack Engineer (3600 USD/Mes)",
+    "title": "Full-Stack Software Engineer @ Fintech x Healthcare",
+    "company": "Paylife",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQHiXC10GtVI9w/company-logo_100_100/0/1700382216073/paylife_mx_logo?e=2147483647&v=beta&t=awqNkXL3V3YnQepXKR9cEZ0Y_WKC8yJ3FX5Vn5MvXdo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-software-engineer-%40-fintech-x-healthcare-at-paylife-3787292480?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=V%2FwAWW3YACq0%2FNT8HAfxEw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Fullstack Engineer (React/Type/Node) (3600 USD/Mes) [Remote]",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-3600-usd-mes-at-listopro-3787201360?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=bODckpqxbjAwKlxtt3frFw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-react-type-node-3600-usd-mes-remote-at-listopro-3787810724?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=GV9NwXoFFswu8qMJyv74TA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr Full-Stack Software Engineer (React & Java Spring Boot)",
-    "company": "Framework < Science / >",
+    "title": "Frontend Engineer (React Native Developer) Remoto- Contractor (4000 USD/Mes) [Remote]",
+    "company": "Listopro",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFobXdlQKYAPw/company-logo_100_100/0/1691607409045/framework_science_logo?e=2147483647&v=beta&t=KGH1dmTUzKN9T5tIR0Dq3vdD6eGxb_HomlpgO3ZkIQw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-full-stack-software-engineer-react-java-spring-boot-at-framework-science-3790628930?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=Y85KCwq19p7HPvR89H%2BlMA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-react-native-developer-remoto-contractor-4000-usd-mes-remote-at-listopro-3787809913?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=%2BvnPsSrwDmrMFkYQ4UY4Xw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "AWS Support - React",
-    "company": "Doyensys Inc",
+    "title": "Mid-Senior Full-stack Developer (React/React Native/Node) (4000 USD/Mes) [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/mid-senior-full-stack-developer-react-react-native-node-4000-usd-mes-remote-at-listopro-3787808989?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=tLoVKGA4%2FZPeJu%2BunJgX6g%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Native Developer (4800 USD/Mes) [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-4800-usd-mes-remote-at-listopro-3787812451?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=6V0R4WnzF3%2FR9qwudLNrkg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. FullStack Engineer (React/Node) (5600 USD/Mes) [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-react-node-5600-usd-mes-remote-at-listopro-3787812452?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=WObedxkpqf%2FEnSS4FDJptA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Backend Developer (Python) (3600 USD/Mes) [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/backend-developer-python-3600-usd-mes-remote-at-listopro-3787810714?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=Z8%2FIej1r7JCXQzp0jJoTFw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
     "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQFtaS2xzuyxnQ/company-logo_100_100/0/1630575677777/doyen_systems_pvt_ltd_logo?e=2147483647&v=beta&t=QIpONrf-Uos297FGQeIvr42ITvjKQXx5q_U1RBfbusc",
-    "link": "https://mx.linkedin.com/jobs/view/aws-support-react-at-doyensys-inc-3792407245?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=KbSgp0jGP4koezZd1g5Omg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3793130253?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=KH2%2Bz0REcrxR5oj3bRO8CA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Engineer (4400 USD/Mes)",
+    "title": "Sr & Mid FullStack Engineer (Java, Spring Boot, React) (4400 USD/Mes) [Remote]",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-4400-usd-mes-at-listopro-3787200427?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=kOGd2etoso8rv0TU1w%2BHMw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-mid-fullstack-engineer-java-spring-boot-react-4400-usd-mes-remote-at-listopro-3787809931?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=Ae%2FvC67f0ZZcIqExoCGOAQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Full Stack Developer Senior (Angular/React)",
-    "company": "Softtek",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQGPNg8TewdnIg/company-logo_100_100/0/1699028835508/softtek_logo?e=2147483647&v=beta&t=d1WwI54LgxVfSh7ZsVP7KxHXsYrRh5U1_wxRqo2qfmk",
-    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-senior-angular-react-at-softtek-3792127363?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=dGpY3glWpKgBmX2FiwYSlA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3793132146?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=U%2FwOZ7dD6ZDaH8nyz8kRtQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr Software Engineer (Jira Integrations)",
-    "company": "Framework < Science / >",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQFobXdlQKYAPw/company-logo_100_100/0/1691607409045/framework_science_logo?e=2147483647&v=beta&t=KGH1dmTUzKN9T5tIR0Dq3vdD6eGxb_HomlpgO3ZkIQw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-jira-integrations-at-framework-science-3792455320?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=q4yqsNaIvkkGGaHCYPMOZA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3793129324?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=VoIdg2454HC%2FM%2FBDKj5oqw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Engineer (5600 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-5600-usd-mes-at-listopro-3786798864?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=FJ%2FKO35nxge1ZIrPoOf0iA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer (Growth)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-growth-at-aha%21-3793130258?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=3vduYP7TjEExfGyy0dCJAw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Full Stack Developer Senior (Angular/React)",
-    "company": "Softtek",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQGPNg8TewdnIg/company-logo_100_100/0/1699028835508/softtek_logo?e=2147483647&v=beta&t=d1WwI54LgxVfSh7ZsVP7KxHXsYrRh5U1_wxRqo2qfmk",
-    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-senior-angular-react-at-softtek-3791999178?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=KrP36lWoN3jE8at16cLvkQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer (Frameworks)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-frameworks-at-aha%21-3793125656?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=GkGRlSVcACvFELrmLFqBLA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Developer remote (bilingual)",
-    "company": "Adecco",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQEeK1BH5vKw8Q/company-logo_100_100/0/1631346849445?e=2147483647&v=beta&t=DdL3enNl26NcKjcCNKGQQjJHRfXoVKvsedO1Ba50Xls",
-    "link": "https://mx.linkedin.com/jobs/view/java-developer-remote-bilingual-at-adecco-3790424780?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=mrY%2FgTQzXxO3eKsY%2B3EZ8g%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer (Notebooks)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-notebooks-at-aha%21-3793130248?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=xWqP0yNOuI230pK7jj2g2g%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Java Full Stack Developer Senior (Angular/React)",
-    "company": "Softtek",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQGPNg8TewdnIg/company-logo_100_100/0/1699028835508/softtek_logo?e=2147483647&v=beta&t=d1WwI54LgxVfSh7ZsVP7KxHXsYrRh5U1_wxRqo2qfmk",
-    "link": "https://mx.linkedin.com/jobs/view/java-full-stack-developer-senior-angular-react-at-softtek-3786736097?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=VJ2jGu2FBpV5l5v6rYlCgA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mobile Engineer (4800 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-4800-usd-mes-at-listopro-3786799701?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=a3smFCPAOSMpG79%2Bjrd0CA%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Frontend Engineer (4000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-4000-usd-mes-at-listopro-3787201366?refId=lXa2VFtQ2khR3rbT1JlQTQ%3D%3D&trackingId=y7Nzj8Z6EK8xT04pKQB%2BFA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEiY07GSLZtFQ/company-logo_100_100/0/1630590765627/aha_labs_inc__logo?e=2147483647&v=beta&t=4nHbcBMPptaIB5aCiZ38HlyIy9SMRjI5ls9iRE4vg2k",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3793131170?refId=u5D80sHULIzV5VMLeGMuYw%3D%3D&trackingId=D0LrQX%2FWcQ%2BwCpKTbjRluw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
