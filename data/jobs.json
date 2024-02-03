@@ -1,177 +1,128 @@
 [
   {
-    "title": "Front-end Developer",
-    "company": "Divelement",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQEnf2GVhACpxQ/company-logo_100_100/0/1699553418458/divelement_logo?e=2147483647&v=beta&t=GipSG6mvEDUXQqhs_HzFvAKmkFpE98MepgWP_NfaLec",
-    "link": "https://mx.linkedin.com/jobs/view/front-end-developer-at-divelement-3820088278?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=%2F836Uq%2FNkjkhlkDnjIRMJg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer Front End (remote)",
-    "company": "Occupop Applicant Tracking Software",
-    "location": "Valle de Chalco Solidaridad, México, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQGUrvElJ2qgVw/company-logo_100_100/0/1704280882795/occupop_logo?e=2147483647&v=beta&t=FSH_5dW92HfhVcWgxrVpuSANlV1jWH6wsFeNatXdoug",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-front-end-remote-at-occupop-applicant-tracking-software-3820066414?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=qWrlahj%2FoBHQY7IZIH8Rbg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr React Developer",
-    "company": "Encora Inc.",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHHECNoVhv0HA/company-logo_100_100/0/1663783801368/encorainc_logo?e=2147483647&v=beta&t=H0vFV95vS8OcC78sZLPE9KXACyQkd6tH_lhnOrHM5mQ",
-    "link": "https://mx.linkedin.com/jobs/view/sr-react-developer-at-encora-inc-3818493241?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=QiFqgzLNibfvDi5q2BdU9A%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "JAVASCRIPT DEVELOPER - MEXICO",
-    "company": "STX Next",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQH2NtmVX1b8XQ/company-logo_100_100/0/1696407636099/stx_next_python_experts_logo?e=2147483647&v=beta&t=g720yb429Oh1B28oHI0XFFbO9fihIEVb5_QHgrLvRw8",
-    "link": "https://mx.linkedin.com/jobs/view/javascript-developer-mexico-at-stx-next-3820107748?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=wVbNZ0CLwpoGPRA1RiYhpQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Software Engineer Front End (Remote)",
-    "company": "Occupop Applicant Tracking Software",
-    "location": "Valle de Chalco Solidaridad, México, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQGUrvElJ2qgVw/company-logo_100_100/0/1704280882795/occupop_logo?e=2147483647&v=beta&t=FSH_5dW92HfhVcWgxrVpuSANlV1jWH6wsFeNatXdoug",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-front-end-remote-at-occupop-applicant-tracking-software-3820069026?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=y90Ix79nSL0WydweAmaQoA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "WebRTC Frontend Engineer (Remote)",
-    "company": "Telnyx",
+    "title": "Full Stack Engineer",
+    "company": "NobleAI",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C4E0BAQHF1tOUxMzOcA/company-logo_100_100/0/1678193342702/telnyx_logo?e=2147483647&v=beta&t=DH90RI2NlgPiV8BIfywfWgirAQk6bTafkdcOxdGq9UY",
-    "link": "https://mx.linkedin.com/jobs/view/webrtc-frontend-engineer-remote-at-telnyx-3774339952?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=mmyxbaEjYG%2B%2FaU5qTVCwIw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQHWv6WNmTGorQ/company-logo_100_100/0/1685406420286/noble_ai_logo?e=2147483647&v=beta&t=E0GluSyzbLGSo08jb0BL7hRQhH5z6h7BD_txGvYGRCo",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-nobleai-3820920684?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=3qHTdPW6uQNI4qkXVrA6Dw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "REMOTE Full Stack Developer (JavaScript & React Exp Req)",
-    "company": "#twiceasnice Recruiting",
-    "location": "Mexico City, Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQE5YWZImzR2ag/company-logo_100_100/0/1631368941751?e=2147483647&v=beta&t=hHgv4BQqS5eTs3_MplgNnhFjVkKbbj6AiMYSLjICcVo",
-    "link": "https://mx.linkedin.com/jobs/view/remote-full-stack-developer-javascript-react-exp-req-at-%23twiceasnice-recruiting-3815691181?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=l59IJVbmO6JmTKLmTPqODg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "DELIVERY MANAGER - MEXICO",
-    "company": "STX Next",
+    "title": "Full Stack Engineer",
+    "company": "Project Growth",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQH2NtmVX1b8XQ/company-logo_100_100/0/1696407636099/stx_next_python_experts_logo?e=2147483647&v=beta&t=g720yb429Oh1B28oHI0XFFbO9fihIEVb5_QHgrLvRw8",
-    "link": "https://mx.linkedin.com/jobs/view/delivery-manager-mexico-at-stx-next-3819577344?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=%2B2uuTIKmR1zR4XQX4BBzYw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQHWHNlHUTGhuQ/company-logo_100_100/0/1692293892237/our_project_growth_logo?e=2147483647&v=beta&t=wPUHbDG9xk_qH_SsIyZpDYQml8dQsHJMXfgfpRbbwsg",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-project-growth-3820771419?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=fqmgbUywlWxjCp0N84kScA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Frontend Engineer [Remote]",
-    "company": "Listopro",
+    "title": "X Stack: Junior JavaScript Developer",
+    "company": "EPAM Systems",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-listopro-3815677748?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=GNBNQ2aAG9O0C2Skfn0MjQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/x-stack-junior-javascript-developer-at-epam-systems-3774395657?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=Ic%2B%2BPGP4IKaUySm6NoB%2B3g%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Customer Champion (Compra a Pagos)",
-    "company": "Baubap",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQE43kGH4dMH6Q/company-logo_100_100/0/1697239221232/baubap_logo?e=2147483647&v=beta&t=0lCgbLdHm_5leZh_T-dF8g6s32Te0wQru35iOGlcgrY",
-    "link": "https://mx.linkedin.com/jobs/view/customer-champion-compra-a-pagos-at-baubap-yc-s21-3819270444?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=Nqq1wmQShtc8n9rv5K9UOA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Full Stack Developer",
+    "company": "Talently",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQFYLVgspUZpCA/company-logo_100_100/0/1692804277553/talentlytech_logo?e=2147483647&v=beta&t=1vUdRhQFBG-fquJfj3QIRUvv2PemFIUZbdXmsV6_amw",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-at-talently-3820754692?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=kuNvoMFI2LQ5T%2FBmAPckPQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Software Engineer (Developer Velocity)",
-    "company": "Docker, Inc",
+    "title": "(Mid-Senior Level) React Engineer - MX",
+    "company": "Tech Holding",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQFWt4Tl53wjZQ/company-logo_100_100/0/1705960989383/docker_logo?e=2147483647&v=beta&t=fyl1D9VKChvk2jeZTW4pMbMmFfBquHZguMZ_tJEWTSQ",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-developer-velocity-at-docker-inc-3723348862?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=I%2BNODdN1MYXNsDUsXM8C8Q%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQFImPy8cQP3MA/company-logo_100_100/0/1631435545458/tech_holding_logo?e=2147483647&v=beta&t=KX4B9pnM_y7uvvzWXKoA6_sHYmnucIbqeWJT2H_Seg8",
+    "link": "https://mx.linkedin.com/jobs/view/mid-senior-level-react-engineer-mx-at-tech-holding-3805275250?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=Sz1C99MEE73fm9YoKBxhLQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Engineer (Docker Suite UI)",
-    "company": "Docker, Inc",
+    "title": "Staff UI Engineer, Mexico",
+    "company": "SailPoint",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQFWt4Tl53wjZQ/company-logo_100_100/0/1705960989383/docker_logo?e=2147483647&v=beta&t=fyl1D9VKChvk2jeZTW4pMbMmFfBquHZguMZ_tJEWTSQ",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-engineer-docker-suite-ui-at-docker-inc-3752393036?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=n0lCY2T2CJ55Z%2BXDxWWsYw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132985/sailpoint_technologies_logo?e=2147483647&v=beta&t=izNLSnW8E_Wdc7UtnpJClVBPK9SfwMnkNiqTe6uwv_8",
+    "link": "https://mx.linkedin.com/jobs/view/staff-ui-engineer-mexico-at-sailpoint-3816168009?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=TgqcONrFbKihAi5avpOeCw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Full Stack Software Engineer",
-    "company": "DocuClipper",
+    "title": "Fullstack Developer (React+Node)",
+    "company": "EPAM Systems",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEWpzFIuT5rMw/company-logo_100_100/0/1691416213395/docuclipper_logo?e=2147483647&v=beta&t=3yCDnhoVzaOmsZtno9jSy0BNgcteS7zpiKrjgWyMbPg",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-docuclipper-3818488504?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=%2F5iG4s0bOmQYM%2FAyyGONxg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-developer-react%2Bnode-at-epam-systems-3774397213?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=5S%2B%2BA6AbX9aO%2FTS8%2F%2FduIA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Senior Full-Stack Developer (Node/React)",
     "company": "Yeah! Global",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQFK3Z0LC9uKaQ/company-logo_100_100/0/1694645708614/yeah_global_logo?e=2147483647&v=beta&t=YIYFy4YnNtctVyFGS69VMd1yi2pMhV6096pF5bdmuO0",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-node-react-at-yeah%21-global-3820077729?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=5mXc2RIOTDgciPUgO3gh0Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-node-react-at-yeah%21-global-3820077729?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=MAU7PY%2FE7zUUxt%2Fmv1UYTg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Solution Architect",
-    "company": "SailPoint",
+    "title": "X Stack: Junior Java Developer",
+    "company": "EPAM Systems",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQG-Yot1vk7SoQ/company-logo_100_100/0/1658322132985/sailpoint_technologies_logo?e=2147483647&v=beta&t=izNLSnW8E_Wdc7UtnpJClVBPK9SfwMnkNiqTe6uwv_8",
-    "link": "https://mx.linkedin.com/jobs/view/solution-architect-at-sailpoint-3815611008?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=8WSgft%2BuOrSBMwoGQw%2Fm8Q%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/x-stack-junior-java-developer-at-epam-systems-3774392773?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=TxIeTCBLw4I4exYDGwSbIQ%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer (Developer Velocity)",
-    "company": "Docker, Inc",
+    "title": "TechLead Senior",
+    "company": "Softtek",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQFWt4Tl53wjZQ/company-logo_100_100/0/1705960989383/docker_logo?e=2147483647&v=beta&t=fyl1D9VKChvk2jeZTW4pMbMmFfBquHZguMZ_tJEWTSQ",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-developer-velocity-at-docker-inc-3721957721?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=Kg6Qrlyi4z4ZqdL3Yvb4MQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D560BAQGPNg8TewdnIg/company-logo_100_100/0/1699028835508/softtek_logo?e=2147483647&v=beta&t=d1WwI54LgxVfSh7ZsVP7KxHXsYrRh5U1_wxRqo2qfmk",
+    "link": "https://mx.linkedin.com/jobs/view/techlead-senior-at-softtek-3815699191?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=0gN%2FhmIjFgYdO5beGkM%2Baw%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Engineering Team Lead (Javascript)",
-    "company": "Deel",
+    "title": "Sr. Software Engineer, Web",
+    "company": "Pinterest",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQEag-42K5W2Dg/company-logo_100_100/0/1685645315379/deel_logo?e=2147483647&v=beta&t=aLOQKFoHOCNGSyO2Z2Vk5lWsKTdmXC-gcTMJPbJ6qmE",
-    "link": "https://mx.linkedin.com/jobs/view/engineering-team-lead-javascript-at-deel-3815249587?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=%2FdBorBKGd8ihnWtaTIZKZQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQFRQ_U_kwuaGw/company-logo_100_100-alternative/0/1630647144993/pinterest_logo?e=2147483647&v=beta&t=AxrepS3HmBmZy3CWaza9oVygQcCyKcIrZy1IvzpyRMo",
+    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-web-at-pinterest-3805735651?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=1DDmYQAAqEtAdsd%2BEbzvng%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "DEVOPS - MEXICO",
-    "company": "STX Next",
-    "location": "Mérida, Yucatán, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQH2NtmVX1b8XQ/company-logo_100_100/0/1696407636099/stx_next_python_experts_logo?e=2147483647&v=beta&t=g720yb429Oh1B28oHI0XFFbO9fihIEVb5_QHgrLvRw8",
-    "link": "https://mx.linkedin.com/jobs/view/devops-mexico-at-stx-next-3819576393?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=vJOKbBMv7XdS3wyvuD0I9w%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior backend developer (remote)",
-    "company": "Occupop Applicant Tracking Software",
-    "location": "Valle de Chalco Solidaridad, México, Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQGUrvElJ2qgVw/company-logo_100_100/0/1704280882795/occupop_logo?e=2147483647&v=beta&t=FSH_5dW92HfhVcWgxrVpuSANlV1jWH6wsFeNatXdoug",
-    "link": "https://mx.linkedin.com/jobs/view/senior-backend-developer-remote-at-occupop-applicant-tracking-software-3820065561?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=AGOgH%2FFUbEjH%2FeabOMVV8g%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full-Stack Engineer (5040 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-5040-usd-mes-remote-at-listopro-3815676847?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=bvcHiIyfkfR1kpkd2dFf8g%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full-Stack Engineer (5600 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-5600-usd-mes-remote-at-listopro-3815684101?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=iVz3YCS6jZqo1w53iSsC3Q%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mobile Engineer (4000 USD/Mes) [Remote]",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-4000-usd-mes-remote-at-listopro-3815676845?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=wR9qyzNq2VjEtdEW8wKjKg%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Cloud Architect with AWS",
+    "title": "AWS architect",
     "company": "Pyramid Consulting, Inc",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/C560BAQHGnrHORlqMXQ/company-logo_100_100/0/1656678587546/pyramid_consulting_logo?e=2147483647&v=beta&t=vESNjaa4OoK0l5rmWxQqtS3uU6iO4aGOBSUnwPkcOsM",
-    "link": "https://mx.linkedin.com/jobs/view/cloud-architect-with-aws-at-pyramid-consulting-inc-3820009455?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=23wt%2B79kpI%2Btmkf%2BJPkvNQ%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/aws-architect-at-pyramid-consulting-inc-3820746121?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=2N9%2BrjsBHktp%2BDO53to6Mw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full-Stack Engineer (3600 USD/Mes) [Remote]",
-    "company": "Listopro",
+    "title": "JavaScript Solution Architect",
+    "company": "EPAM Systems",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-3600-usd-mes-remote-at-listopro-3815680614?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=9uxbhcsyG2oSkG%2FnlWNL9A%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/javascript-solution-architect-at-epam-systems-3774395503?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=xzlfTH%2FfTYrwPNFIl202bg%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Middle Full Stack Software Engineer (Node.js+React)",
+    "title": "Sr Full Stack Developer – Identity and Access Management",
+    "company": "Dayforce",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQGx7gkZO_Vt0A/company-logo_100_100/0/1706756167929/dayforce_logo?e=2147483647&v=beta&t=oCTyUaAouEwX9XWjSPgvBsCTGv1Z-hhZ14zhHJpp0vI",
+    "link": "https://mx.linkedin.com/jobs/view/sr-full-stack-developer-%E2%80%93-identity-and-access-management-at-dayforce-3820930949?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=PwhE6ucck0ZBCdIzCwQLtw%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Test Automation Engineer",
+    "company": "EPAM Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/senior-test-automation-engineer-at-epam-systems-3774397341?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=AOeZuyi91faYbd33yCsRog%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Lead Node.js+React Engineer",
     "company": "SoftServe",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQGtV44Uyhqr1w/company-logo_100_100/0/1689185073400/softserve_logo?e=2147483647&v=beta&t=9Z711Sh2C2_IhfsSVU4d77S-gyj9gNB2Cnm8tOws2f8",
-    "link": "https://mx.linkedin.com/jobs/view/middle-full-stack-software-engineer-node-js%2Breact-at-softserve-3819746957?refId=vt%2BeW%2F2Mowizi3iokSLbTg%3D%3D&trackingId=Xx33p8iWLAkc4CnwqQboJQ%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/lead-node-js%2Breact-engineer-at-softserve-3791869038?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=ijesOqMKllnxsworU6SPJQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Back End Software Engineer - Inventory",
+    "company": "Cloudbeds",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQE5Sul9Yu3Jhw/company-logo_100_100/0/1657049376718/cloudbeds_logo?e=2147483647&v=beta&t=Uspi0vtMz7CuMI-dLmLzjiJM3na9Y2_IxTwU5ahbBVI",
+    "link": "https://mx.linkedin.com/jobs/view/senior-back-end-software-engineer-inventory-at-cloudbeds-3726208677?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=y4CyA%2FiIauX98IuweuoRsA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "X Stack: Junior .NET Developer",
+    "company": "EPAM Systems",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQERhwCA4aBweA/company-logo_100_100/0/1706845800358/epam_systems_logo?e=2147483647&v=beta&t=vB5rnzphTi6XgQy1CnACiSawprmiY-RtsCyPIhmjfeY",
+    "link": "https://mx.linkedin.com/jobs/view/x-stack-junior-net-developer-at-epam-systems-3774392743?refId=1r1F2PFmKfpKYacg9Uw5vA%3D%3D&trackingId=CClUKbGT1ywmxLQ0jpx1cA%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
