@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "title": "Javascript Developer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672927/clevertech_logo?e=2147483647&v=beta&t=5kkuG1yadeTXD4cf2IJaTqrq3u7Mkz4ed1UDx5zofW0",
+    "link": "https://mx.linkedin.com/jobs/view/javascript-developer-at-clevertech-3822276367?refId=GL6kFgq0HUgHTI8Oj2ndsA%3D%3D&trackingId=kV67yRgcqXxT1OXuwF7Mlg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Frontend Developer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672927/clevertech_logo?e=2147483647&v=beta&t=5kkuG1yadeTXD4cf2IJaTqrq3u7Mkz4ed1UDx5zofW0",
+    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-clevertech-3822278333?refId=GL6kFgq0HUgHTI8Oj2ndsA%3D%3D&trackingId=PFel0idTlZ2d%2Fs1QLCFMVQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Principal Engineer",
+    "company": "Clevertech",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHrYseFDoK7JQ/company-logo_100_100/0/1688418672927/clevertech_logo?e=2147483647&v=beta&t=5kkuG1yadeTXD4cf2IJaTqrq3u7Mkz4ed1UDx5zofW0",
+    "link": "https://mx.linkedin.com/jobs/view/principal-engineer-at-clevertech-3822273764?refId=GL6kFgq0HUgHTI8Oj2ndsA%3D%3D&trackingId=7mi8Jte9nYlFDGZY5LcrGQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  }
+]
