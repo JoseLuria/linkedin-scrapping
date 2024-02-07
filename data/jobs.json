@@ -1,16 +1,177 @@
 [
   {
-    "title": "Shopify Developer (LATAM)",
-    "company": "LuRecruiter",
+    "title": "Full Stack Engineer",
+    "company": "HANEK",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQHnrXw02NqmbA/company-logo_100_100/0/1688418348293/lurecruiter_logo?e=2147483647&v=beta&t=aff3Ma3ptnj6fbHk-qKXa0qLs-GIPPxl_P66imSAwJQ",
-    "link": "https://mx.linkedin.com/jobs/view/shopify-developer-latam-at-lurecruiter-3822597619?refId=ng8aKvblyJrCzsk4rLgwSA%3D%3D&trackingId=yP9RvrZNWnhBCsUHZSgZRQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFNAWPKskYRMQ/company-logo_100_100/0/1652786923234/hanekco_logo?e=2147483647&v=beta&t=y53BRGYK6M4ZSHUli9aP4s0k6J52JnTsFhlEb8tib_k",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-hanek-3824089573?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=kB9IUeVufJmLyz69YUDVow%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Software Engineer",
-    "company": "Simon Data",
+    "title": "Software Engineer (Mexico)",
+    "company": "Sezzle",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEv2WrQrWZM-A/company-logo_100_100/0/1630615785657/sezzle_logo?e=2147483647&v=beta&t=S0l8Ku6WHU_NgsiacKdChQG8fpJ3kC8qyJmH2dJ9caQ",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-mexico-at-sezzle-3824518134?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=I5sGeS8tWOudM6A1oCkcpg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "TRUGlobal",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D560BAQHIEgHN-zLNyg/company-logo_100_100/0/1690834661253/simon_data_logo?e=2147483647&v=beta&t=Eg3toSN4MNBjaffe7GnIIQ6UEqY7QkYZ1rDmQKRxsfU",
-    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-at-simon-data-3822877700?refId=ng8aKvblyJrCzsk4rLgwSA%3D%3D&trackingId=Q9X9xnWprf%2BCaS2J2HvmOA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4D0BAQE4v-VeWTodKQ/company-logo_100_100/0/1656597268565/truglobal_inc_logo?e=2147483647&v=beta&t=S8AD15dPfiXIEk6dVhWkAE9Vq18yEUppXm7548y-DWs",
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-engineer-at-truglobal-3819443245?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=vMWGG%2Fh7kBvt1aPYftp9fQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Tech Project Manager",
+    "company": "LTIMindtree",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQH26vEc2KRwsQ/company-logo_100_100/0/1704351215489?e=2147483647&v=beta&t=dxemJZvZTahW-4UnXsmpLdShnPvj5GbPutcBfJ01TjE",
+    "link": "https://mx.linkedin.com/jobs/view/tech-project-manager-at-ltimindtree-3823385596?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=Jn8gK%2B1RY5wMoNcVwKfLYw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Zapopan, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823373005?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=TDjiWhffvs7Ef8oEIZCVdA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Hermosillo, Sonora, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823370161?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=8eOII55FAaqoL3s0UnKy4Q%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Aguascalientes, Aguascalientes, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823367758?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=fhP7n7O2iDRjMkD2092bDw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Culiacán, Sinaloa, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823366846?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=dHdfo2SsJsjR%2F%2F%2FAgO8O%2BA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Mexico City, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823369353?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=86%2FQO7uS54GQV6b%2F1ysqsA%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823373001?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=bFxXKysiQYsQUEWAfcOc8A%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Morelia, Michoacán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823369351?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=%2FIkrHUa4x8eVcfixzjwPOQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Ecatepec de Morelos, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823368448?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=9N%2F8MtJYbJ26k2y2o%2Bv1Tg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Ciudad Juárez, Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823370160?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=tzSFvnjCG3Qm%2F8V5D9Ey9w%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Puebla, Puebla, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823370154?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=hIlDAoAgqTtDoaDwe6z06A%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Tijuana, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823368451?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=JJ0rmQAW2yEIaY0d92RXqg%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "León, Guanajuato, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823371139?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=CKgFlZb703KG%2BgcBKqaMRg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Mexicali, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823373000?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=9xTA%2BRguNwb8LSf2cyE3nQ%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Chihuahua, Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823372086?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=lzjZqe7wDkqKsTMo%2FKU1yw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823371142?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=nSKJXQdnl0%2F2LfMVnujlhQ%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Mérida, Yucatán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823368443?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=P3UaedR9bglzbPS3CMEmGQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Querétaro, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQEbIYAkAURcYw/company-logo_100_100/0/1650566107463/canonical_logo?e=2147483647&v=beta&t=Td2SYZigLyehJDm_eMoY9f3q-hHAZ-7r6Xi77udL1G8",
+    "link": "https://mx.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-3823367748?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=BRn9XMZDlWUsr5MW3Zza4Q%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Desarrollador de Three.Js",
+    "company": "ITRecruiter Site",
+    "location": "Queretaro Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/D560BAQHNf669O25Ocw/company-logo_100_100/0/1690992509293/itrecruiter_site_logo?e=2147483647&v=beta&t=rgV1cLcq5TQPjcRlOZn4-qOkcb5KCE51r7nxDwFXJQ4",
+    "link": "https://mx.linkedin.com/jobs/view/desarrollador-de-three-js-at-itrecruiter-site-3819457313?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=%2FUmYLkpOf3iUMiIAwGAE6g%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Programador full stack",
+    "company": "Defontana",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEYRQ0HC00iIA/company-logo_100_100/0/1664828016461/defontana_logo?e=2147483647&v=beta&t=GzcXi1QeefWfow6B9OG2e0AnPd85pjqsm0LCkAv6x2I",
+    "link": "https://mx.linkedin.com/jobs/view/programador-full-stack-at-defontana-3823839177?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=xJ4Vats7slr5%2F1aALfVh7w%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Frontend Engineer (4800 USD/Mes) [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-4800-usd-mes-remote-at-listopro-3819949787?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=ZweSmJglptgA3j4cpD1%2FbQ%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Frontend Engineer [Remote]",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-listopro-3819948802?refId=4npAsl9s94C1W9fi1qytwA%3D%3D&trackingId=2dDgiBxgoV0FDCrS8Y6v8g%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
   }
 ]
