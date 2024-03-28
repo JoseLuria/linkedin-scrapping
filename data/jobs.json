@@ -1,177 +1,422 @@
 [
   {
-    "title": "React Js, UI, NodeJs (Front End)",
-    "company": "Doyensys Inc",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C510BAQFtaS2xzuyxnQ/company-logo_100_100/0/1630575677777/doyen_systems_pvt_ltd_logo?e=2147483647&v=beta&t=QIpONrf-Uos297FGQeIvr42ITvjKQXx5q_U1RBfbusc",
-    "link": "https://mx.linkedin.com/jobs/view/react-js-ui-nodejs-front-end-at-doyensys-inc-3875040742?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=J76CuQP2RFwDKObu%2BszuAg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Frontend Engineer (5040 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-5040-usd-mes-at-listopro-3871254658?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=GMEjrqCFXqYas7VkyOL9%2FA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Fullstack Engineer (React/Type/Node) (3600 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-react-type-node-3600-usd-mes-at-listopro-3871254661?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=kublp5Oi7nkXVXwQS6J27w%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Frontend Engineer - React Native (Chile-Argentina-Colombia-México)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-react-native-chile-argentina-colombia-m%C3%A9xico-at-listopro-3871255560?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=jisY%2FMpWYEwLMGr3LqUiIQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Web Developer",
-    "company": "Truelancer.com",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQHxbR20oGIx9g/company-logo_100_100/0/1631384889565?e=2147483647&v=beta&t=N0_bwnkEReXDyUtT2NUyIu38p32UyNH_JPnck4Nj27w",
-    "link": "https://mx.linkedin.com/jobs/view/web-developer-at-truelancer-com-3875002181?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=SyKgIJJwXuHe0pYbamULCg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Full Stack Developer (5000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-5000-usd-mes-at-listopro-3871253823?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=%2BQ9Av4fQm7Vfe0nHGljS0A%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Software Engineer, Frontend Automation (Mexico)",
-    "company": "Motion",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQFEpVxQLIB9Mg/company-logo_100_100/0/1630576972021/motionapp_logo?e=2147483647&v=beta&t=k4yrYV31iEpT1daAMzG6Or_lLHkrT3IDjPHShSCINl8",
-    "link": "https://mx.linkedin.com/jobs/view/software-engineer-frontend-automation-mexico-at-motion-3874404620?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=pmdvGiop9kBsc6G7P9bq%2Bg%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Mid-Senior Full-stack Developer (React/React Native/Node) (4000 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/mid-senior-full-stack-developer-react-react-native-node-4000-usd-mes-at-listopro-3871253827?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=asOw0zTSpym%2Fjbzhp%2F8%2F9g%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "React Native Developer (4800 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-4800-usd-mes-at-listopro-3871251831?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=mJrJWWLHSq2TXq%2Bfhy01aQ%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr Frontend Engineer (4800 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-frontend-engineer-4800-usd-mes-at-listopro-3871257327?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=8mmiceiIaA5Esb9OU9i1LA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Zapopan, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871629979?position=1&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=QFBxcEQWnf1%2F7RrnF48ENQ%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr. FullStack Engineer (React/Node) (5600 USD/Mes)",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-react-node-5600-usd-mes-at-listopro-3871253808?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=UMYaPanady01FzMgqE2uew%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-fullstack-engineer-react-node-5600-usd-mes-at-listopro-3871253808?position=2&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=vFe8CMFc%2FXOVcGNmzd55vQ%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Mobile Engineer (React Native) (4000 USD/Mes)",
+    "title": "Full Stack Developer (5000 USD/Mes)",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-react-native-4000-usd-mes-at-listopro-3871253796?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=cvpHuConXkWzzhbpibua%2Bg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/full-stack-developer-5000-usd-mes-at-listopro-3871253823?position=3&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=D9aHuEBBYNgPZLjZUfL43g%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Frontend Developer",
-    "company": "Auxis",
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Ciudad Juárez, Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871636253?position=4&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=CLHysv%2BMH%2B5lLROfOLsg1w%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Saltillo, Coahuila, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871638392?position=5&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=S1cAehQ0LG5MX%2BHlngGFIA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby Dev",
+    "company": "LaPieza",
     "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/C560BAQGId3xt-rxRJQ/company-logo_100_100/0/1654525853410/auxis_logo?e=2147483647&v=beta&t=44B3bVsVD-pqeh1PpU4rxbZwDC0W-z_kHSFFjFXUZBk",
-    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-auxis-3875079805?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=TmaQ7hVopxJOHqDWg6zAeA%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEJ9Zpw-Aj34w/company-logo_100_100/0/1647036343331/lapieza_logo?e=2147483647&v=beta&t=Cki01Km2wfMA6iCKmk2q90WOInRAWoniK7NAlsmYv3M",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-dev-at-lapieza-3872611968?position=6&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=OgviCQiD7nrBNCnKQYEu3g%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "WEB instructor with Spanish and English Fluency",
-    "company": "TripleTen",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQHBeNK1AS9JsA/company-logo_100_100/0/1687464456892?e=2147483647&v=beta&t=j0uV_yK_K7X7AF_319RXwIewXxBUaSFehzIdldhITzM",
-    "link": "https://mx.linkedin.com/jobs/view/web-instructor-with-spanish-and-english-fluency-at-tripleten-3870375529?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=SWm2YFlKg%2F3wE1xlez%2FMxA%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Sr. Ruby on Rails Engineer (Growth)",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-growth-at-aha%21-3874437045?position=7&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=HeV6vJOBNpc%2BA4mm52JVYw%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "WEB instructor with Spanish and English Fluency",
-    "company": "TripleTen",
-    "location": "Mexico City Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D560BAQHBeNK1AS9JsA/company-logo_100_100/0/1687464456892?e=2147483647&v=beta&t=j0uV_yK_K7X7AF_319RXwIewXxBUaSFehzIdldhITzM",
-    "link": "https://mx.linkedin.com/jobs/view/web-instructor-with-spanish-and-english-fluency-at-tripleten-3870370865?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=spPBWa4fyyh86Xm6vg056Q%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Tlalnepantla, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871647401?position=8&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=pEWmsY1v%2BMGSM7ao8lP6hA%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Full-Stack Developer",
-    "company": "Exadel",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQEyuAesmFwWPA/company-logo_100_100/0/1704999546975/exadel_logo?e=2147483647&v=beta&t=r6lbSqM8oDwUPlpy7A37wmQqF2QtZDW7QO9ic2r9HiM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-at-exadel-3872934159?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=X92YPx096kNuO99A%2Bpa05w%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Technical Product Manager (5573 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/technical-product-manager-5573-usd-mes-at-listopro-3871255575?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=WaQDPLKR%2BG3RmlnPXX49uw%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "(SHORT-TERM) Full-stack Engineer-Python/React (5600 USD/Mes)",
-    "company": "Listopro",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/short-term-full-stack-engineer-python-react-5600-usd-mes-at-listopro-3871254653?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=LQ%2BkRmRV%2FOgJajU%2Bm8KJjw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Senior Developer (Mobile App)",
-    "company": "Cliecon Solutions, Inc.",
-    "location": "Guadalajara, Mexico Metropolitan Area",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQEiCOFd_UtOpQ/company-logo_100_100/0/1682609319069/cliecon_solutions_inc_logo?e=2147483647&v=beta&t=5GSxeL5EXnNC4ADUUbftOa_jBhnX3xbmNOo94HIPHlY",
-    "link": "https://mx.linkedin.com/jobs/view/senior-developer-mobile-app-at-cliecon-solutions-inc-3871270668?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=arkYfBoDHA1j90EQoYjoEg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card"
-  },
-  {
-    "title": "Sr. Mobile App Developer",
-    "company": "Cliecon Solutions, Inc.",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQEiCOFd_UtOpQ/company-logo_100_100/0/1682609319069/cliecon_solutions_inc_logo?e=2147483647&v=beta&t=5GSxeL5EXnNC4ADUUbftOa_jBhnX3xbmNOo94HIPHlY",
-    "link": "https://mx.linkedin.com/jobs/view/sr-mobile-app-developer-at-cliecon-solutions-inc-3870357288?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=Eik9svqkeRP4C2CqaOUHIw%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Lead Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-3874433459?position=9&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=37fUsy2WmdxanspgfwubnQ%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Python Developer with AWS",
     "company": "Cliecon Solutions, Inc.",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4E0BAQEiCOFd_UtOpQ/company-logo_100_100/0/1682609319069/cliecon_solutions_inc_logo?e=2147483647&v=beta&t=5GSxeL5EXnNC4ADUUbftOa_jBhnX3xbmNOo94HIPHlY",
-    "link": "https://mx.linkedin.com/jobs/view/python-developer-with-aws-at-cliecon-solutions-inc-3871268755?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=%2FGlX2BKpw9iXcOvX6v5sSA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/python-developer-with-aws-at-cliecon-solutions-inc-3871268755?position=10&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=jhcbNza78v0IDCobbzlUhQ%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Senior Automation QA Engineer",
-    "company": "Exadel",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4D0BAQEyuAesmFwWPA/company-logo_100_100/0/1704999546975/exadel_logo?e=2147483647&v=beta&t=r6lbSqM8oDwUPlpy7A37wmQqF2QtZDW7QO9ic2r9HiM",
-    "link": "https://mx.linkedin.com/jobs/view/senior-automation-qa-engineer-at-exadel-3872647940?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=yRYT%2FZ0IhfNgO%2BSYFTi0Fw%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Torreon Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871645854?position=11&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=eNTsIDIRgC8cRR%2BVKyY9Dw%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Full Stack Java Developer Senior",
-    "company": "Eviden",
-    "location": "Mexico",
-    "image": "https://media.licdn.com/dms/image/D4E0BAQEutou0KdK3vQ/company-logo_100_100/0/1680505361330/eviden_logo?e=2147483647&v=beta&t=7XRHWUvP3Mhf738WmLXZYovkgbgtSu_itKP2lcpbNcA",
-    "link": "https://mx.linkedin.com/jobs/view/full-stack-java-developer-senior-at-eviden-3872348167?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=8wakzJWmFCVXq6Xp%2FoAx4w%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Ciudad Nezahualcóyotl, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871644090?position=12&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=ZZJuJfoPIsOIL4PK4TApig%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
-    "title": "Sr & Mid FullStack Engineer (Java, Spring Boot, React) (4400 USD/Mes)",
+    "title": "Sr. Security Engineer (Ruby on Rails experience required)",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-security-engineer-ruby-on-rails-experience-required-at-aha%21-3874435130?position=13&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=OBuYWoJxC8CPN1UZDZTPQg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Chimalhuacán, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871645853?position=14&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=P4zQbVWrtFXar0Ky5DD8nw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "WEB instructor with Spanish and English Fluency",
+    "company": "TripleTen",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/D560BAQHBeNK1AS9JsA/company-logo_100_100/0/1687464456892?e=2147483647&v=beta&t=j0uV_yK_K7X7AF_319RXwIewXxBUaSFehzIdldhITzM",
+    "link": "https://mx.linkedin.com/jobs/view/web-instructor-with-spanish-and-english-fluency-at-tripleten-3870375529?position=15&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=p3cxqL8Wx0mmoD5HMMRVng%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Guadalajara, Mexico Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871629978?position=16&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=ghPVAowL%2FWwyWsNwmlN%2B7Q%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Cancún, Quintana Roo, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871637819?position=17&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=05AP3wzlvW%2FwD5tRRq32ig%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Culiacán, Sinaloa, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871649229?position=18&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=%2Bz0eDimsrzD8JFgQBY%2F2nw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr Frontend Engineer (4800 USD/Mes)",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-mid-fullstack-engineer-java-spring-boot-react-4400-usd-mes-at-listopro-3871252840?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=vwyqtZrh2Z9%2B5OYIGaCxbA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-frontend-engineer-4800-usd-mes-at-listopro-3871257327?position=19&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=4v1wcKf1VS2pL0%2BcGhgAUw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Front End Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-3874434813?position=20&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=e7qwHMDkgmneWwtUzxyZaQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Software Engineer, Frontend Automation (Mexico)",
+    "company": "Motion",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQFEpVxQLIB9Mg/company-logo_100_100/0/1630576972021/motionapp_logo?e=2147483647&v=beta&t=k4yrYV31iEpT1daAMzG6Or_lLHkrT3IDjPHShSCINl8",
+    "link": "https://mx.linkedin.com/jobs/view/software-engineer-frontend-automation-mexico-at-motion-3874404620?position=21&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=%2BrT2w8FzcYp%2BunD7gnUWrg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Acapulco, Guerrero, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871645855?position=22&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=mSNL3CDcq4WYCeK5GPo3%2Fw%3D%3D&trk=public_jobs_jserp-result_search-card"
   },
   {
     "title": "Sr PHP Engineer (7000 USD/Mes)",
     "company": "Listopro",
     "location": "Mexico",
     "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
-    "link": "https://mx.linkedin.com/jobs/view/sr-php-engineer-7000-usd-mes-at-listopro-3871256391?refId=dnH1pwV3%2FsyyYP2fdAJx2Q%3D%3D&trackingId=%2F9t%2Bylqd5GXrQwX%2FviipvA%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card"
+    "link": "https://mx.linkedin.com/jobs/view/sr-php-engineer-7000-usd-mes-at-listopro-3871256391?position=23&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=VNZfElSqq3SZiC28j3MxCQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871633343?position=24&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=nRzVZCjDDqZ5ilLZzkYiCA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": ".NET/Azure/C# Full-Stack Developer",
+    "company": "TalentAccelerator.jobs",
+    "location": "México, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQHCTP4usGy1nw/company-logo_100_100/0/1684252702473/talentaccelerator_jobs_logo?e=2147483647&v=beta&t=sQV4b-FJvRd0Y4mMNmQpLsAdcyv_Zne5n-Y5Dn3YfGQ",
+    "link": "https://mx.linkedin.com/jobs/view/net-azure-c%23-full-stack-developer-at-talentaccelerator-jobs-3874400174?position=25&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=yNRBLxHqQS8QlRxYXqImeA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Naucalpan de Juárez, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871639386?position=26&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=N%2B%2BSUW3GXEGvLVJDpizNoQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Chihuahua, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871638373?position=27&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=w%2BWb4uwsxS2kWQKLvf2JeQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Reynosa, Tamaulipas, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871652125?position=28&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=nzTDnHPEzNfgr2f5X5muYA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior/Principal Golang Engineer (6080 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/senior-principal-golang-engineer-6080-usd-mes-at-listopro-3871252816?position=29&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=Y6cBQebSbzw7pfmFrK3ILQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mid-Senior Full-stack Developer (React/React Native/Node) (4000 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/mid-senior-full-stack-developer-react-react-native-node-4000-usd-mes-at-listopro-3871253827?position=30&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=JarYQitAasK3PkFKbTB1DQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "WEB instructor with Spanish and English Fluency",
+    "company": "TripleTen",
+    "location": "Mexico City Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/D560BAQHBeNK1AS9JsA/company-logo_100_100/0/1687464456892?e=2147483647&v=beta&t=j0uV_yK_K7X7AF_319RXwIewXxBUaSFehzIdldhITzM",
+    "link": "https://mx.linkedin.com/jobs/view/web-instructor-with-spanish-and-english-fluency-at-tripleten-3870370865?position=31&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=bIzKCBDcCqg7WbaNA3r9aQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Truelancer.com",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQHxbR20oGIx9g/company-logo_100_100/0/1631384889565?e=2147483647&v=beta&t=N0_bwnkEReXDyUtT2NUyIu38p32UyNH_JPnck4Nj27w",
+    "link": "https://mx.linkedin.com/jobs/view/web-developer-at-truelancer-com-3875002181?position=32&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=K2AM%2BVmfnpuOVfDmOkkieA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Mérida, Yucatán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871642118?position=33&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=vXVIHwVXEk0iwZQZqxz1rQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Morelia, Michoacán, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871651151?position=34&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=AkM04MdAvu53gjh%2FY6Sh8g%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Frontend Engineer - React Native (Chile-Argentina-Colombia-México)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-react-native-chile-argentina-colombia-m%C3%A9xico-at-listopro-3871255560?position=35&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=EmxZBDQRsewDIRzC%2FpQnWg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Queretaro Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871649232?position=36&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=0CGCDm2wqeFmy6bi8sT7jQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Mobile App Developer",
+    "company": "Cliecon Solutions, Inc.",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEiCOFd_UtOpQ/company-logo_100_100/0/1682609319069/cliecon_solutions_inc_logo?e=2147483647&v=beta&t=5GSxeL5EXnNC4ADUUbftOa_jBhnX3xbmNOo94HIPHlY",
+    "link": "https://mx.linkedin.com/jobs/view/sr-mobile-app-developer-at-cliecon-solutions-inc-3870357288?position=37&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=5r3OIqnOdS8DX81yhfdQRg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer (Knowledge)",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-knowledge-at-aha%21-3874435123?position=38&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=SqxfN45WDngbLsO9y847Qw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Mobile Engineer (React Native) (4000 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/mobile-engineer-react-native-4000-usd-mes-at-listopro-3871253796?position=39&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=HzsFGlk0MKT7j5vlcnnmXw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr & Mid FullStack Engineer (Java, Spring Boot, React) (4400 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/sr-mid-fullstack-engineer-java-spring-boot-react-4400-usd-mes-at-listopro-3871252840?position=40&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=nWqpIkNqyVc1pLnr1FPdzA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Full-Stack Developer",
+    "company": "Exadel",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQEyuAesmFwWPA/company-logo_100_100/0/1704999546975/exadel_logo?e=2147483647&v=beta&t=r6lbSqM8oDwUPlpy7A37wmQqF2QtZDW7QO9ic2r9HiM",
+    "link": "https://mx.linkedin.com/jobs/view/senior-full-stack-developer-at-exadel-3872934159?position=41&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=O3F%2FWSrWPK3NlsJaF5jcCw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Toluca, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871639395?position=42&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=ptFF51FmZ7YbcIyupLWTww%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Ecatepec de Morelos, México, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871634274?position=43&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=ZqRyPk94rqvDLVjIXw4c0w%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Developer (Mobile App)",
+    "company": "Cliecon Solutions, Inc.",
+    "location": "Guadalajara, Mexico Metropolitan Area",
+    "image": "https://media.licdn.com/dms/image/D4E0BAQEiCOFd_UtOpQ/company-logo_100_100/0/1682609319069/cliecon_solutions_inc_logo?e=2147483647&v=beta&t=5GSxeL5EXnNC4ADUUbftOa_jBhnX3xbmNOo94HIPHlY",
+    "link": "https://mx.linkedin.com/jobs/view/senior-developer-mobile-app-at-cliecon-solutions-inc-3871270668?position=44&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=20fsFDmemZ98qidHwoI4JQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Aguascalientes, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871642144?position=45&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=rNycHsDI00tkpux7%2FaQKQQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Js, UI, NodeJs (Front End)",
+    "company": "Doyensys Inc",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C510BAQFtaS2xzuyxnQ/company-logo_100_100/0/1630575677777/doyen_systems_pvt_ltd_logo?e=2147483647&v=beta&t=QIpONrf-Uos297FGQeIvr42ITvjKQXx5q_U1RBfbusc",
+    "link": "https://mx.linkedin.com/jobs/view/react-js-ui-nodejs-front-end-at-doyensys-inc-3875040742?position=46&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=%2BjjanGxdK3WggeakKLgteQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Tlaquepaque, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871649234?position=47&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=po%2B74cOYxvRY1uTCnOgAnw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Fullstack Engineer (React/Type/Node) (3600 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/fullstack-engineer-react-type-node-3600-usd-mes-at-listopro-3871254661?position=48&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=67i0AMdXr93pSOLjX%2BMa%2BA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Technical Product Manager (5573 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/technical-product-manager-5573-usd-mes-at-listopro-3871255575?position=49&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=sB6JhYpCS%2F2flgGc4X%2BiXA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Ruby on Rails Engineer (Frameworks)",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-frameworks-at-aha%21-3874434499?position=50&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=wl559bhZ7EedfeU8EjVOsQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Tijuana, Baja California, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871632539?position=51&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=FVaKSejnYBMubD4%2FfYWRxw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871637804?position=52&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=FhdijKzmt%2BuJXUQct%2BLKSg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Frontend Developer",
+    "company": "Auxis",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGId3xt-rxRJQ/company-logo_100_100/0/1654525853410/auxis_logo?e=2147483647&v=beta&t=44B3bVsVD-pqeh1PpU4rxbZwDC0W-z_kHSFFjFXUZBk",
+    "link": "https://mx.linkedin.com/jobs/view/senior-frontend-developer-at-auxis-3875079805?position=53&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=OQXxb7zPozn%2FK6weOjQXPg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871631581?position=54&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=dzkE%2BXBhQMIW1wyy4ur1EQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "React Native Developer (4800 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/react-native-developer-4800-usd-mes-at-listopro-3871251831?position=55&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=0B8xgylFC81XlGnaMEB9AQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Sr. Software Engineer (Python / Django / AWS)",
+    "company": "Kuona",
+    "location": "Monterrey, Nuevo León, Mexico",
+    "image": "https://media.licdn.com/dms/image/C560BAQGePla3Dc5dsw/company-logo_100_100/0/1631657722033/kuona_sapi_de_cv_logo?e=2147483647&v=beta&t=idOdyNj2_2uhPkncXR40lqHhNa_uQ2QEnOin4ZI9M98",
+    "link": "https://mx.linkedin.com/jobs/view/sr-software-engineer-python-django-aws-at-kuona-3872971455?position=56&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=aPjJbs3aOIJCjXV7D%2Fsz%2Bw%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Frontend Engineer (5040 USD/Mes)",
+    "company": "Listopro",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQHuVyjNBeQv9Q/company-logo_100_100/0/1684438608976/listopro_logo?e=2147483647&v=beta&t=i5LPawSwolFulqWUe8po6-onY3iTAPdWn0MSe0yfQpw",
+    "link": "https://mx.linkedin.com/jobs/view/frontend-engineer-5040-usd-mes-at-listopro-3871254658?position=57&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=o82lnqL%2F5%2BpFAUwTyscSUQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Aha!",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "image": "https://media.licdn.com/dms/image/D560BAQGmQeDE2Ud8rg/company-logo_100_100/0/1710270946343/aha_labs_inc__logo?e=2147483647&v=beta&t=Ptmh5suwR1T9Knw8AYcp83Cj5LIHMyGf3kK77BzxIoQ",
+    "link": "https://mx.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3874433457?position=58&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=uZtZdA2ZDwlGcemxmeVvtA%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871633342?position=59&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=Zc%2FhV8wnizYV9CKSFFKuRg%3D%3D&trk=public_jobs_jserp-result_search-card"
+  },
+  {
+    "title": "Senior Software Engineer (Java/Spinnaker)",
+    "company": "Virtasant",
+    "location": "Hermosillo, Sonora, Mexico",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQH6Rvaa9bi3xQ/company-logo_100_100/0/1667897623800/virtasant_logo?e=2147483647&v=beta&t=UcAt4x202ywO2ucR6u0etF2C4qon549yNlV951_Lr78",
+    "link": "https://mx.linkedin.com/jobs/view/senior-software-engineer-java-spinnaker-at-virtasant-3871638404?position=60&pageNum=0&refId=12Wrf%2BIq3sfhgR62nPOp3A%3D%3D&trackingId=jeuRGt4FS331npZz%2FhMssQ%3D%3D&trk=public_jobs_jserp-result_search-card"
   }
 ]
